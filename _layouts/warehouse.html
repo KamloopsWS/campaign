@@ -1,0 +1,49 @@
+{% include header.html %}
+  <main role="main">
+    <div class="container top bg-light mt-3">
+
+      <!-- {% assign sortedParts = site.warehouse | sort: 'name-full' %} -->
+      {% assign groupParts = site.warehouse | group_by: 'type-attr-web' %}
+      {% assign groupPartsSorted = groupParts | sort: 'name' %}
+
+      <div class="row">
+      <div class="col">
+
+      {% for group in groupPartsSorted %}
+        <!-- Group information -->
+        <hr/>
+        <h2 class="mb-0"><strong>{{ group.name }}</strong></h2>
+        <hr/>
+
+        <!-- Get parts within part group -->
+        {% assign groupParts = group.items | sort: 'name-full' %}
+
+        {% for part in groupParts %}
+          <div class="">
+            <h4 class="mb-0">{{ part.name-full }}</h4>
+            <dl class="container row">
+
+              {% if part.type-attr-web == "Armor" %}
+              <dt class="col-md-2 mb-0 pl-0">Amount:</dt>
+              <dd class="col-md-10 mb-0 pl-0">{{ part.inv-amount }}</dd>
+              {% elsif part.type-attr-web == "Ammo" %}
+              <dt class="col-md-2 mb-0 pl-0">Shots:</dt>
+              <dd class="col-md-10 mb-0 pl-0">{{ part.inv-shots }}</dd>
+              {% else %}
+              <dt class="col-md-2 mb-0 pl-0">Quantity:</dt>
+              <dd class="col-md-10 mb-0 pl-0">{{ part.inv-quantity }}</dd>
+              {% endif %}
+
+            </dl>
+          </div>
+        {% endfor %}
+      {% endfor %}
+
+      </div>
+      </div>
+
+    </div>
+  </main>
+{% include footer.html %}
+</body>
+</html>

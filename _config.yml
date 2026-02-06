@@ -47,6 +47,8 @@ collections:
     output: true
   tro:
     output: true
+  warehouse:
+    output: true
 
 future: true # Important for this to be on if you want to date blog entries from ... the future!
 

@@ -9,6 +9,8 @@
   url: /toe
 - title: TROs
   url: /tro-list
+- title: Warehouse
+  url: /warehouse
 - title: Personnel
   url: /personnel
   sublinks:
