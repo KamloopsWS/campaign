@@ -21,10 +21,10 @@
 # ========================================
 # Basic Jekyll configuration
 # ========================================
-title: Ram Heads
+title: Petterson's Pistolleros
 email: kamloopswargamingsociety@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Kamloops Wargaming Society current campaign data site.
+  Petterson's Pistolleros mercenary profile.
 baseurl: "/campaign" # the subpath of your site, e.g. /blog
 url: "https://kamloopsws.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
