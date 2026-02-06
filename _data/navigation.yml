@@ -7,6 +7,8 @@
   url: /missions
 - title: TO&E
   url: /toe
+- title: TROs
+  url: /tro-list
 - title: Personnel
   url: /personnel
   sublinks:

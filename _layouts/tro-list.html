@@ -1,0 +1,41 @@
+{% include header.html %}
+  <main role="main">
+    <div class="container top bg-light mt-3">
+
+      {% assign sortedTRO = site.tro | sort: 'title' %}
+      {% assign staffList = site.personnel | sort: "name" %}
+
+      <div class="row">
+      <div class="col">
+      <div class="container my-2">
+
+      {% for tro in sortedTRO %}
+
+        <div class="col-md-12 pt-1">
+          <dl class="row">
+            <!-- <dt class="col-md-1 mb-0 pl-0">Name:</dt> -->
+            <!-- <dd class="col-md-2 mb-0 pl-0"><a href="{{ site.baseurl}}/tro/{{ tro.slug }}">{{tro.title}}</a></dd> -->
+            <a href="{{ site.baseurl}}/tro/{{ tro.slug }}">{{tro.title}}</a>
+          </dl>
+        </div>
+
+        <!-- DEBUG -->
+        <!-- <p>{{ forloop.index }} / {{ forloop.length }}</p> -->
+
+        {% assign staffList = site.personnel | sort: "name" %}
+
+        {% if forloop.index < forloop.length %}
+          <hr/>
+        {% endif %}
+
+      {% endfor %}
+
+      </div>
+      </div>
+      </div>
+
+    </div>
+  </main>
+{% include footer.html %}
+</body>
+</html>
