@@ -7,7 +7,10 @@ role: MECHANIC
 role-name: Mechanic
 skill-level: Green
 skill-detail: 8+
+origin-faction: MERC
+origin-planet: Stapelfeld
 age: 20
+skill-list: Investigation (RP Only),Protocols/Any (RP Only),Tech/Mechanic
 rank-number: 0
 slug: bernadett-senderovits
 portrait: bernadett-senderovits.png

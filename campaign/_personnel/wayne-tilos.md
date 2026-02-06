@@ -5,7 +5,10 @@ name: Wayne Tilos
 status: Active
 role: VEHICLE_CREW_GROUND
 role-name: Vehicle Crew Ground
+origin-faction: IND
+origin-planet: Star's End (Novo Cressidas)
 age: 24
+skill-list: Astech,Gunnery/Vehicle,Piloting/Ground Vehicle,Protocols/Any (RP Only),Small Arms,Streetwise/Any (RP Only),Survival/Any (RP Only)
 rank-number: 0
 unit: MASH Truck 
 unit-id: 57cbf421-d964-4686-af55-c26279f7ba55

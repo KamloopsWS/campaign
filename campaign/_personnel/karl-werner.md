@@ -8,7 +8,10 @@ role-name: Mechwarrior
 skill-level: Regular
 skill-detail: 4/5
 callsign: Hound
+origin-faction: LA
+origin-planet: Tharkad
 age: 35
+skill-list: Acting,Art/Poetry (RP Only),Demolitions,Disguise,Escape Artist,Forgery,Gunnery/Mek,Language/Any (RP Only),Piloting/Mek,Sleight of Hand/Any,Small Arms,Stealth,Zero-G Operations
 rank-number: 0
 unit: Griffin GRF-1S
 unit-id: d249a5dc-163f-4c9c-8a8d-ef74af9af3bb

@@ -7,7 +7,10 @@ role: ADMINISTRATOR_LOGISTICS
 role-name: Admin/Logistical
 skill-level: Regular
 skill-detail: 5+
+origin-faction: IND
+origin-planet: Erin
 age: 18
+skill-list: Administration,Animal Handling (RP Only),Career/Any (RP Only),Negotiation,Swimming (RP Only)
 rank-number: 0
 slug: zotico-hajiyanni
 portrait: zotico-hajiyanni.png

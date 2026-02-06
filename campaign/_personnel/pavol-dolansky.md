@@ -7,7 +7,10 @@ role: SOLDIER
 role-name: Soldier
 skill-level: Veteran
 skill-detail: 3+
+origin-faction: GV
+origin-planet: Gotterdammerung
 age: 41
+skill-list: Leadership,Protocols/Any (RP Only),Small Arms,Streetwise/Any (RP Only),Survival/Any (RP Only),Tactics/Any
 rank-number: 0
 unit: Foot Platoon (Rifle)
 unit-id: f12bda79-1205-4860-a555-bed8f4fdca9b

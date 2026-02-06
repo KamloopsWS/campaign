@@ -7,7 +7,10 @@ role: MECHANIC
 role-name: Mechanic
 skill-level: Regular
 skill-detail: 6+
+origin-faction: MERC
+origin-planet: Kiesen
 age: 27
+skill-list: Investigation (RP Only),Language/Any (RP Only),Science/Military (RP Only),Tech/Mechanic,Tracking/Any
 rank-number: 0
 slug: bennie-sarachev
 portrait: bennie-sarachev.png

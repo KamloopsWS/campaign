@@ -7,7 +7,10 @@ role: MECHANIC
 role-name: Mechanic
 skill-level: Elite
 skill-detail: 4+
+origin-faction: IND
+origin-planet: Star's End (Novo Cressidas)
 age: 33
+skill-list: Escape Artist,Sleight of Hand/Any,Tech/Mechanic
 rank-number: 0
 slug: alayna-pennifold
 portrait: alayna-pennifold.png

@@ -5,7 +5,10 @@ name: Rahim Mangin
 status: Active
 role: VEHICLE_CREW_GROUND
 role-name: Vehicle Crew Ground
+origin-faction: LA
+origin-planet: Kelenfold
 age: 16
+skill-list: Gunnery/Vehicle,Investigation (RP Only),Piloting/Ground Vehicle,Swimming (RP Only)
 rank-number: 0
 unit: MASH Truck 
 unit-id: 57cbf421-d964-4686-af55-c26279f7ba55

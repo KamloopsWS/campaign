@@ -5,7 +5,10 @@ name: Henka Slegr
 status: Active
 role: VEHICLE_CREW_GROUND
 role-name: Vehicle Crew Ground
+origin-faction: MERC
+origin-planet: Tinaca
 age: 21
+skill-list: Animal Handling (RP Only),Cryptography (RP Only),Gunnery/Vehicle,Piloting/Ground Vehicle,Protocols/Any (RP Only),Small Arms,Swimming (RP Only),Training
 rank-number: 0
 unit: Sherpa Armored Truck (Mobile Canteen)
 unit-id: 6c8f1ef1-41d9-4fcf-a925-8e7cbd6a1bd0

@@ -5,7 +5,10 @@ name: Kaisa Vuorinen
 status: Active
 role: VEHICLE_CREW_GROUND
 role-name: Vehicle Crew Ground
+origin-faction: MERC
+origin-planet: Last Frontier
 age: 20
+skill-list: Animal Handling (RP Only),Career/Any (RP Only),Gunnery/Vehicle,Piloting/Ground Vehicle,Science/Physics (RP Only),Small Arms
 rank-number: 0
 unit: BattleMech Recovery Vehicle 
 unit-id: 4bcd2b1a-f144-4932-962b-4d792daa1025

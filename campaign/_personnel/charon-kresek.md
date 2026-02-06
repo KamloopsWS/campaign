@@ -8,7 +8,10 @@ role-name: Mechwarrior
 skill-level: Regular
 skill-detail: 4/5
 callsign: Boatman
+origin-faction: LA
+origin-planet: Tharkad
 age: 20
+skill-list: Gunnery/Mek,Interest/Military (RP Only),Leadership,Negotiation,Perception,Piloting/Mek,Science/Military (RP Only),Sensor Operations,Small Arms,Survival/Any (RP Only),Swimming (RP Only),Tech/Mek,Thrown Weapons
 rank-number: 0
 unit: Gladiator GLD-4R
 unit-id: 10a053b9-33be-44c6-bc8b-eeacfc6a806b

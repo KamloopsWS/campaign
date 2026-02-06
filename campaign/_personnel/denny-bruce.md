@@ -7,7 +7,10 @@ role: MECHANIC
 role-name: Mechanic
 skill-level: Regular
 skill-detail: 6+
+origin-faction: MERC
+origin-planet: Macksburg
 age: 27
+skill-list: Gunnery/ProtoMek,Protocols/Any (RP Only),Security Systems/Mechanical (RP Only),Tech/Mechanic
 rank-number: 0
 slug: denny-bruce
 portrait: denny-bruce.png

@@ -5,7 +5,10 @@ name: Ji-hoon Kim
 status: Active
 role: VEHICLE_CREW_GROUND
 role-name: Vehicle Crew Ground
+origin-faction: MERC
+origin-planet: Accrington
 age: 37
+skill-list: Art/Dancing (RP Only),Gunnery/Vehicle,Piloting/Ground Vehicle,Science/Genetics (RP Only),Sensor Operations,Small Arms,Strategy
 rank-number: 0
 unit: MASH Truck 
 unit-id: 57cbf421-d964-4686-af55-c26279f7ba55

@@ -5,7 +5,10 @@ name: Jeff Vidwans
 status: Active
 role: VEHICLE_CREW_GROUND
 role-name: Vehicle Crew Ground
+origin-faction: MERC
+origin-planet: Sheliak
 age: 25
+skill-list: Animal Handling (RP Only),Gunnery/Vehicle,Interrogation (RP Only),Investigation (RP Only),Piloting/Ground Vehicle,Small Arms
 rank-number: 0
 unit: Sherpa Armored Truck (Mobile Canteen)
 unit-id: 6c8f1ef1-41d9-4fcf-a925-8e7cbd6a1bd0

@@ -5,7 +5,10 @@ name: Samansa Kodama
 status: Active
 role: VEHICLE_CREW_GROUND
 role-name: Vehicle Crew Ground
+origin-faction: GV
+origin-planet: Botany Bay
 age: 45
+skill-list: Animal Handling (RP Only),Art/Cooking (RP Only),Career/Any (RP Only),Gunnery/Vehicle,Piloting/Ground Vehicle,Running (RP Only),Science/Biology (RP Only),Security Systems/Mechanical (RP Only),Small Arms,Strategy
 rank-number: 0
 unit: MASH Truck 
 unit-id: 57cbf421-d964-4686-af55-c26279f7ba55

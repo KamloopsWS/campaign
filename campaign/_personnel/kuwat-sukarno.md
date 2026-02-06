@@ -7,7 +7,10 @@ role: ADMINISTRATOR_HR
 role-name: Admin/HR
 skill-level: Veteran
 skill-detail: 4+
+origin-faction: DC
+origin-planet: Asgard
 age: 27
+skill-list: Administration,Communications/Any,Negotiation,Protocols/Any (RP Only)
 rank-number: 0
 slug: kuwat-sukarno
 portrait: kuwat-sukarno.png

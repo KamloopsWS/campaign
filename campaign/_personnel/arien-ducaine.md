@@ -9,7 +9,10 @@ skill-level: Regular
 skill-detail: 4/5
 callsign: Ironfoot
 kills: 1
+origin-faction: DC
+origin-planet: Rasalhague
 age: 20
+skill-list: Demolitions,Gunnery/Mek,Interest/Music (RP Only),Martial Arts,Perception,Piloting/Mek,Small Arms
 rank-number: 0
 unit: Wolverine WVR-6K
 unit-id: a9bea610-370d-4361-bede-7aeff68f7842

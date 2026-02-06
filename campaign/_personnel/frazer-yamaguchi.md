@@ -7,7 +7,10 @@ role: SOLDIER
 role-name: Soldier
 skill-level: Veteran
 skill-detail: 3+
+origin-faction: IND
+origin-planet: Theta Carinae Cluster
 age: 29
+skill-list: Art/Writing (RP Only),Forgery,Interest/Exotic Animals (RP Only),Perception,Running (RP Only),Small Arms,Zero-G Operations
 rank-number: 0
 unit: Foot Platoon (Rifle)
 unit-id: f12bda79-1205-4860-a555-bed8f4fdca9b

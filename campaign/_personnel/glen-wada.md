@@ -5,7 +5,10 @@ name: Glen Wada
 status: Active
 role: VEHICLE_CREW_GROUND
 role-name: Vehicle Crew Ground
+origin-faction: MERC
+origin-planet: Halesowen
 age: 16
+skill-list: Gunnery/Vehicle,Language/Any (RP Only),Piloting/Ground Vehicle,Protocols/Any (RP Only),Small Arms,Survival/Any (RP Only)
 rank-number: 0
 unit: BattleMech Recovery Vehicle 
 unit-id: 4bcd2b1a-f144-4932-962b-4d792daa1025
