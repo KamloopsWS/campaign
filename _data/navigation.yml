@@ -1,0 +1,36 @@
+# _data/navigation.yml
+- title: Home
+  url: /
+- title: Fiction
+  url: /fiction
+- title: Mission History
+  url: /missions
+- title: TO&E
+  url: /toe
+- title: Personnel
+  url: /personnel
+  sublinks:
+    - title: Mechwarriors
+      url: /mechwarriors
+    # - title: Fighter Pilots
+    #   url: /fighter-pilots.html
+    # - title: Protomech Pilots
+    #   url: /proto-pilots.html
+    - title: Vehicle Crew
+      url: /vehicle-crew
+    # - title: Battle Armor Infantry
+    #   url: /battlearmor.html
+    - title: Conventional Infantry
+      url: /infantry
+    # - title: Space Vessel Crew
+    #   url: /space-crew.html
+    - title: separator
+    - title: Techs
+      url: /techs
+    - title: Medical Staff
+      url: /medical-staff
+    - title: Administrators
+      url: /admin
+    - title: separator
+    - title: Rolls of Honor
+      url: /rolls-honor

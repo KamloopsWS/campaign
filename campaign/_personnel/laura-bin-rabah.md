@@ -1,0 +1,18 @@
+---
+layout: bio
+title: Laura bin Rabah
+name: Laura bin Rabah
+status: Active
+role: VEHICLE_CREW_GROUND
+role-name: Vehicle Crew Ground
+age: 29
+rank-number: 0
+unit: BattleMech Recovery Vehicle 
+unit-id: 4bcd2b1a-f144-4932-962b-4d792daa1025
+unit-slug: battlemech-recovery-vehicle
+slug: laura-bin-rabah
+force: Support Command, Salvage Forces
+force-slug: support-command-salvage-forces
+portrait: laura-bin-rabah.png
+---
+

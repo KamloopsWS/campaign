@@ -1,0 +1,20 @@
+---
+layout: default
+title: Home
+permalink: /index.html
+---
+ 
+{% if site.logo %}
+  <img src="{{ site.logo }}" class="float-left w-25 mr-2 mb-2">
+{% endif %}
+ 
+
+<p>We are a small group of mercenaries, currently operating as subcontractors for a larger mercenary coopertive called 'Petterson's Pistolleros'.<br/><br/>Petterson called this group the Ram Heads due to the amount of personnel that tried and failed to negotiate better terms a man who hates the talking part of the hiring process.</p>
+
+{% if site.toe_front_page %}
+{% for force in site.forces %}
+  {% if force.parent-slug == nil %}
+    {{ force.content }}
+  {% endif %}
+{% endfor %}
+{% endif %}
