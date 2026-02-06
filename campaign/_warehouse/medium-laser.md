@@ -12,5 +12,5 @@ inv-quality: 3
 inv-quantity: 8
 inv-shots: 0
 type-attr-save: mekhq.campaign.parts.equipment.EquipmentPart
-type-attr-web: ETC
+type-attr-web: Equipment
 ---
