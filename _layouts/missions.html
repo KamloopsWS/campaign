@@ -28,7 +28,7 @@
             {% endif %}
             <p></p>
             {{mission.content}}
-            <a class="btn btn-secondary" href="{{ mission.url }}" role="button">Mission Details</a>
+            <a class="btn btn-secondary" href="{{ mission.url | relative_url }}" role="button">Mission Details</a>
             <hr>
           </div>
         </div>
