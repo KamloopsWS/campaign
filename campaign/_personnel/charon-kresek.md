@@ -13,9 +13,9 @@ origin-planet: Tharkad
 age: 20
 skill-list: Gunnery/Mek,Interest/Military (RP Only),Leadership,Negotiation,Perception,Piloting/Mek,Science/Military (RP Only),Sensor Operations,Small Arms,Survival/Any (RP Only),Swimming (RP Only),Tech/Mek,Thrown Weapons
 rank-number: 0
-unit: Gladiator GLD-4R
+unit: Gladiator GLD-4R (Kresek)
 unit-id: 10a053b9-33be-44c6-bc8b-eeacfc6a806b
-unit-slug: gladiator-gld4r
+unit-slug: gladiator-gld4r-kresek
 slug: charon-kresek
 force: 1st Company, Command Lance
 force-slug: n1st-company-command-lance
