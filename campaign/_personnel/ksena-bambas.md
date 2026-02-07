@@ -8,7 +8,7 @@ role-name: Vehicle Crew Ground
 origin-faction: MERC
 origin-planet: Karbala
 age: 26
-skill-list: Astech,Gunnery/Vehicle,Piloting/Ground Vehicle,Small Arms,Swimming (RP Only)
+skill-list: Astech,Gunnery/Vehicle,Piloting/Ground Vehicle,Small Arms,Swimming
 rank-number: 0
 unit: MASH Truck 
 unit-id: 57cbf421-d964-4686-af55-c26279f7ba55

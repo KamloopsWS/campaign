@@ -10,7 +10,7 @@ skill-detail: 5+
 origin-faction: LA
 origin-planet: Blackjack
 age: 25
-skill-list: Administration,Career/Any (RP Only),Interest/Economics (RP Only),Negotiation,Perception,Science/Military (RP Only),Small Arms,Swimming (RP Only)
+skill-list: Administration,Career/Any,Interest/Economics,Negotiation,Perception,Science/Military,Small Arms,Swimming
 rank-number: 0
 slug: arrighetto-villette
 portrait: arrighetto-villette.png

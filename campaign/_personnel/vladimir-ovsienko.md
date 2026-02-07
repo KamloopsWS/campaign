@@ -10,7 +10,7 @@ skill-detail: 5+
 origin-faction: IND
 origin-planet: Theta Carinae Cluster
 age: 20
-skill-list: Computers (RP Only),Interest/Sports (RP Only),Small Arms
+skill-list: Computers,Interest/Sports,Small Arms
 rank-number: 0
 unit: Foot Platoon (Rifle)
 unit-id: f12bda79-1205-4860-a555-bed8f4fdca9b

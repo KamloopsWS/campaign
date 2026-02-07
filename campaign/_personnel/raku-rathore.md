@@ -8,7 +8,7 @@ role-name: Vehicle Crew Ground
 origin-faction: DC
 origin-planet: Port Arthur
 age: 18
-skill-list: Cryptography (RP Only),Gunnery/Vehicle,Interrogation (RP Only),Piloting/Ground Vehicle,Security Systems/Electronic (RP Only),Small Arms
+skill-list: Cryptography,Gunnery/Vehicle,Interrogation,Piloting/Ground Vehicle,Security Systems/Electronic,Small Arms
 rank-number: 0
 unit: MASH Truck 
 unit-id: 57cbf421-d964-4686-af55-c26279f7ba55

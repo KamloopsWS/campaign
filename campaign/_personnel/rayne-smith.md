@@ -11,7 +11,7 @@ callsign: Zero
 origin-faction: MERC
 origin-planet: Hesperus II
 age: 20
-skill-list: Gunnery/Mek,Negotiation,Piloting/Mek,Science/Geology (RP Only),Small Arms,Streetwise/Any (RP Only),Survival/Any (RP Only)
+skill-list: Gunnery/Mek,Negotiation,Piloting/Mek,Science/Geology,Small Arms,Streetwise/Any,Survival/Any
 rank-number: 0
 unit: Crab CRB-20
 unit-id: 2ab83019-a4de-4858-aec1-0f1d642cc1c6

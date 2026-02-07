@@ -10,7 +10,7 @@ skill-detail: 6+
 origin-faction: MERC
 origin-planet: Kobe
 age: 22
-skill-list: Interrogation (RP Only),Language/Any (RP Only),Small Arms
+skill-list: Interrogation,Language/Any,Small Arms
 rank-number: 0
 unit: Foot Platoon (Rifle)
 unit-id: f12bda79-1205-4860-a555-bed8f4fdca9b

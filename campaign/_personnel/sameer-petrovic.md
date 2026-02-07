@@ -8,7 +8,7 @@ role-name: Vehicle Crew Ground
 origin-faction: MERC
 origin-planet: Nox
 age: 21
-skill-list: Cryptography (RP Only),Gunnery/Vehicle,Interest/Holo-Cinema (RP Only),Interrogation (RP Only),Piloting/Ground Vehicle,Small Arms
+skill-list: Cryptography,Gunnery/Vehicle,Interest/Holo-Cinema,Interrogation,Piloting/Ground Vehicle,Small Arms
 rank-number: 0
 unit: Flatbed Truck 
 unit-id: 4eb341be-846d-4987-9de9-55480e2f5131

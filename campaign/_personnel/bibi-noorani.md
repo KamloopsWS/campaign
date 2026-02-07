@@ -8,7 +8,7 @@ role-name: Vehicle Crew Ground
 origin-faction: MERC
 origin-planet: Crimond
 age: 29
-skill-list: Gunnery/Vehicle,Piloting/Ground Vehicle,Protocols/Any (RP Only),Small Arms
+skill-list: Gunnery/Vehicle,Piloting/Ground Vehicle,Protocols/Any,Small Arms
 rank-number: 0
 unit: Sherpa Armored Truck (Mobile Canteen)
 unit-id: 6c8f1ef1-41d9-4fcf-a925-8e7cbd6a1bd0

@@ -8,7 +8,7 @@ role-name: Vehicle Crew Ground
 origin-faction: MERC
 origin-planet: Marawi
 age: 31
-skill-list: Gunnery/Vehicle,Piloting/Ground Vehicle,Small Arms,Swimming (RP Only)
+skill-list: Gunnery/Vehicle,Piloting/Ground Vehicle,Small Arms,Swimming
 rank-number: 0
 unit: Flatbed Truck 
 unit-id: 824d28dd-0aef-4f7a-8569-25428c1922e5

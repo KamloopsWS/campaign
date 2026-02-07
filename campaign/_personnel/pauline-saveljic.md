@@ -10,7 +10,7 @@ skill-detail: 7+
 origin-faction: LA
 origin-planet: Mkuranga
 age: 20
-skill-list: Acrobatics (RP Only),Interrogation (RP Only),Tech/Mechanic
+skill-list: Acrobatics,Interrogation,Tech/Mechanic
 rank-number: 0
 slug: pauline-saveljic
 portrait: pauline-saveljic.png

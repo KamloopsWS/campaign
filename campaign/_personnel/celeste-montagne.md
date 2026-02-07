@@ -8,7 +8,7 @@ role-name: Vehicle Crew Ground
 origin-faction: MERC
 origin-planet: Sulafat
 age: 48
-skill-list: Animal Handling (RP Only),Computers (RP Only),Gunnery/Mek,Gunnery/Vehicle,Leadership,Piloting/Ground Vehicle,Science/Military (RP Only),Small Arms
+skill-list: Animal Handling,Computers,Gunnery/Mek,Gunnery/Vehicle,Leadership,Piloting/Ground Vehicle,Science/Military,Small Arms
 rank-number: 0
 unit: Sherpa Armored Truck (Mobile Canteen)
 unit-id: 6c8f1ef1-41d9-4fcf-a925-8e7cbd6a1bd0

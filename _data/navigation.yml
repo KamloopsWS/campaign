@@ -10,8 +10,8 @@
 - title: Management
   url: /management
   sublinks:
-  - title: Finances
-    url: /finances
+  # - title: Finances
+  #   url: /finances
   - title: TROs
     url: /tro-list
   - title: Warehouse

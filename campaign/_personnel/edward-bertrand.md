@@ -8,7 +8,7 @@ role-name: Vehicle Crew Ground
 origin-faction: GV
 origin-planet: Last Chance
 age: 49
-skill-list: Acrobatics (RP Only),Gunnery/Vehicle,Piloting/Ground Vehicle,Sleight of Hand/Any,Small Arms,Stealth,Strategy
+skill-list: Acrobatics,Gunnery/Vehicle,Piloting/Ground Vehicle,Sleight of Hand/Any,Small Arms,Stealth,Strategy
 rank-number: 0
 unit: MASH Truck 
 unit-id: 57cbf421-d964-4686-af55-c26279f7ba55

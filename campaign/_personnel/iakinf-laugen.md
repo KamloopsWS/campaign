@@ -10,7 +10,7 @@ skill-detail: 4+
 origin-faction: DC
 origin-planet: Bicester
 age: 23
-skill-list: Art/Singing (RP Only),Computers (RP Only),Interest/Antiques (RP Only),Small Arms
+skill-list: Art/Singing,Computers,Interest/Antiques,Small Arms
 rank-number: 0
 unit: Foot Platoon (Rifle)
 unit-id: f12bda79-1205-4860-a555-bed8f4fdca9b

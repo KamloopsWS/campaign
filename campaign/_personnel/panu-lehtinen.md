@@ -8,7 +8,7 @@ role-name: Vehicle Crew Ground
 origin-faction: IND
 origin-planet: Theta Carinae Cluster
 age: 30
-skill-list: Acrobatics (RP Only),Animal Handling (RP Only),Disguise,Gunnery/Vehicle,Leadership,Piloting/Ground Vehicle,Small Arms
+skill-list: Acrobatics,Animal Handling,Disguise,Gunnery/Vehicle,Leadership,Piloting/Ground Vehicle,Small Arms
 rank-number: 0
 unit: MASH Truck 
 unit-id: 57cbf421-d964-4686-af55-c26279f7ba55

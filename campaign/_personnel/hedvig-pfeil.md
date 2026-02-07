@@ -10,7 +10,7 @@ skill-detail: 4+
 origin-faction: MERC
 origin-planet: Otho
 age: 29
-skill-list: Administration,Interest/Philosophy (RP Only),Negotiation,Protocols/Any (RP Only),Streetwise/Any (RP Only)
+skill-list: Administration,Interest/Philosophy,Negotiation,Protocols/Any,Streetwise/Any
 rank-number: 0
 slug: hedvig-pfeil
 portrait: hedvig-pfeil.png

@@ -8,7 +8,7 @@ role-name: Vehicle Crew Ground
 origin-faction: LA
 origin-planet: Toland
 age: 19
-skill-list: Career/Any (RP Only),Gunnery/Vehicle,Piloting/Ground Vehicle,Protocols/Any (RP Only),Security Systems/Mechanical (RP Only),Small Arms
+skill-list: Career/Any,Gunnery/Vehicle,Piloting/Ground Vehicle,Protocols/Any,Security Systems/Mechanical,Small Arms
 rank-number: 0
 unit: BattleMech Recovery Vehicle 
 unit-id: d03c8b8b-d4b0-4793-a172-958c0da37f3d

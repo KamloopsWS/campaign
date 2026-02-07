@@ -10,7 +10,7 @@ skill-detail: 5+
 origin-faction: IND
 origin-planet: Santander V (Santander's World)
 age: 21
-skill-list: Administration,Animal Handling (RP Only),Career/Any (RP Only),Negotiation
+skill-list: Administration,Animal Handling,Career/Any,Negotiation
 rank-number: 0
 slug: prospero-pantani
 portrait: prospero-pantani.png

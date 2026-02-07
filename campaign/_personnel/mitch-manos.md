@@ -10,7 +10,7 @@ skill-detail: 5+
 origin-faction: IND
 origin-planet: Erin
 age: 19
-skill-list: Cryptography (RP Only),Protocols/Any (RP Only),Science/Other (RP Only),Security Systems/Electronic (RP Only),Small Arms
+skill-list: Cryptography,Protocols/Any,Science/Other,Security Systems/Electronic,Small Arms
 rank-number: 0
 unit: Foot Platoon (Rifle)
 unit-id: f12bda79-1205-4860-a555-bed8f4fdca9b

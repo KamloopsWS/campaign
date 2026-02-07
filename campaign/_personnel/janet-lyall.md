@@ -10,7 +10,7 @@ skill-detail: 5+
 origin-faction: LA
 origin-planet: Barcelona
 age: 31
-skill-list: Animal Handling (RP Only),Career/Any (RP Only),Interest/Holo-Games (RP Only),MedTech/Any,Protocols/Any (RP Only),Sensor Operations,Survival/Any (RP Only),Tech/Mechanic
+skill-list: Animal Handling,Career/Any,Interest/Holo-Games,MedTech/Any,Protocols/Any,Sensor Operations,Survival/Any,Tech/Mechanic
 rank-number: 0
 slug: janet-lyall
 portrait: janet-lyall.png

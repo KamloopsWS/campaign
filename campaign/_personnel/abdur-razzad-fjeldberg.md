@@ -8,7 +8,7 @@ role-name: Vehicle Crew Ground
 origin-faction: FRR
 origin-planet: Schnepfau
 age: 21
-skill-list: Gunnery/Vehicle,Piloting/Ground Vehicle,Small Arms,Streetwise/Any (RP Only)
+skill-list: Gunnery/Vehicle,Piloting/Ground Vehicle,Small Arms,Streetwise/Any
 rank-number: 0
 unit: MASH Truck 
 unit-id: 57cbf421-d964-4686-af55-c26279f7ba55

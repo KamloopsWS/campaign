@@ -10,7 +10,7 @@ skill-detail: 6+
 origin-faction: GV
 origin-planet: Last Chance
 age: 21
-skill-list: Cryptography (RP Only),Interrogation (RP Only),Investigation (RP Only),Science/Chemistry (RP Only),Survival/Any (RP Only),Tech/Mek
+skill-list: Cryptography,Interrogation,Investigation,Science/Chemistry,Survival/Any,Tech/Mek
 rank-number: 0
 slug: stephen-lachann
 portrait: stephen-lachann.png

@@ -8,7 +8,7 @@ role-name: Vehicle Crew Ground
 origin-faction: FRR
 origin-planet: Al Hillah
 age: 24
-skill-list: Gunnery/Vehicle,Language/Any (RP Only),Piloting/Ground Vehicle,Protocols/Any (RP Only),Small Arms
+skill-list: Gunnery/Vehicle,Language/Any,Piloting/Ground Vehicle,Protocols/Any,Small Arms
 rank-number: 0
 unit: Flatbed Truck 
 unit-id: 64a6b831-d41f-4fbd-a74a-a5a48df87014

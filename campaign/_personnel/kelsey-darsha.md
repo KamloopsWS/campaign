@@ -8,7 +8,7 @@ role-name: Vehicle Crew Ground
 origin-faction: LA
 origin-planet: Babaeski
 age: 16
-skill-list: Art/Other (RP Only),Gunnery/Vehicle,Investigation (RP Only),Piloting/Ground Vehicle,Security Systems/Electronic (RP Only),Small Arms
+skill-list: Art/Other,Gunnery/Vehicle,Investigation,Piloting/Ground Vehicle,Security Systems/Electronic,Small Arms
 rank-number: 0
 unit: MASH Truck 
 unit-id: 57cbf421-d964-4686-af55-c26279f7ba55

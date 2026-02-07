@@ -12,7 +12,7 @@ kills: 1
 origin-faction: DC
 origin-planet: Rasalhague
 age: 20
-skill-list: Demolitions,Gunnery/Mek,Interest/Music (RP Only),Martial Arts,Perception,Piloting/Mek,Small Arms
+skill-list: Demolitions,Gunnery/Mek,Interest/Music,Martial Arts,Perception,Piloting/Mek,Small Arms
 rank-number: 0
 unit: Wolverine WVR-6K
 unit-id: a9bea610-370d-4361-bede-7aeff68f7842

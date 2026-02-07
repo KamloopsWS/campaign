@@ -8,7 +8,7 @@ role-name: Medic
 origin-faction: FRR
 origin-planet: Heiligendreuz
 age: 24
-skill-list: Acrobatics (RP Only),Acting,Animal Handling (RP Only),MedTech/Any,Protocols/Any (RP Only),Running (RP Only)
+skill-list: Acrobatics,Acting,Animal Handling,MedTech/Any,Protocols/Any,Running
 rank-number: 0
 slug: malorie-schauermann
 portrait: malorie-schauermann.png

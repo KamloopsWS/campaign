@@ -8,7 +8,7 @@ role-name: Vehicle Crew Ground
 origin-faction: MERC
 origin-planet: Goat Path
 age: 25
-skill-list: Gunnery/Vehicle,Piloting/Ground Vehicle,Security Systems/Mechanical (RP Only),Survival/Any (RP Only)
+skill-list: Gunnery/Vehicle,Piloting/Ground Vehicle,Security Systems/Mechanical,Survival/Any
 rank-number: 0
 unit: Flatbed Truck 
 unit-id: fdf2e4dc-3a2d-4cd7-a1b0-730ad4795846

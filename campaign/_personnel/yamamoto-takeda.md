@@ -12,7 +12,7 @@ kills: 1
 origin-faction: DC
 origin-planet: Alshain
 age: 20
-skill-list: Computers (RP Only),Gunnery/Mek,Interest/History (RP Only),Interest/Military (RP Only),Interest/Philosophy (RP Only),Leadership,Martial Arts,Melee Weapons,Piloting/Mek,Science/Military (RP Only),Small Arms,Strategy,Tactics/Any,Tech/Mek,Training
+skill-list: Computers,Gunnery/Mek,Interest/History,Interest/Military,Interest/Philosophy,Leadership,Martial Arts,Melee Weapons,Piloting/Mek,Science/Military,Small Arms,Strategy,Tactics/Any,Tech/Mek,Training
 rank-number: 33
 rank-name: Lieutenant
 unit: Jenner JR7-F (Wind)

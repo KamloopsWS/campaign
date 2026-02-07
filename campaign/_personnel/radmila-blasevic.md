@@ -8,7 +8,7 @@ role-name: Vehicle Crew Ground
 origin-faction: MERC
 origin-planet: Camlann (LC)
 age: 26
-skill-list: Gunnery/Vehicle,Language/Any (RP Only),Piloting/Ground Vehicle,Small Arms,Streetwise/Any (RP Only),Tracking/Any
+skill-list: Gunnery/Vehicle,Language/Any,Piloting/Ground Vehicle,Small Arms,Streetwise/Any,Tracking/Any
 rank-number: 0
 unit: Sherpa Armored Truck (Mobile Canteen)
 unit-id: 6c8f1ef1-41d9-4fcf-a925-8e7cbd6a1bd0

@@ -11,7 +11,7 @@ callsign: Boatman
 origin-faction: LA
 origin-planet: Tharkad
 age: 20
-skill-list: Gunnery/Mek,Interest/Military (RP Only),Leadership,Negotiation,Perception,Piloting/Mek,Science/Military (RP Only),Sensor Operations,Small Arms,Survival/Any (RP Only),Swimming (RP Only),Tech/Mek,Thrown Weapons
+skill-list: Gunnery/Mek,Interest/Military,Leadership,Negotiation,Perception,Piloting/Mek,Science/Military,Sensor Operations,Small Arms,Survival/Any,Swimming,Tech/Mek,Thrown Weapons
 rank-number: 0
 unit: Gladiator GLD-4R (Kresek)
 unit-id: 10a053b9-33be-44c6-bc8b-eeacfc6a806b

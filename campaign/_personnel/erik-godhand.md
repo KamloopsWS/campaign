@@ -12,7 +12,7 @@ kills: 1
 origin-faction: CS
 origin-planet: Rasalhague
 age: 20
-skill-list: Administration,Astech,Gunnery/Mek,Interest/Literature (RP Only),Interest/Theology (RP Only),Interrogation (RP Only),Investigation (RP Only),Martial Arts,Perception,Piloting/Mek,Running (RP Only),Small Arms,Swimming (RP Only)
+skill-list: Administration,Astech,Gunnery/Mek,Interest/Literature,Interest/Theology,Interrogation,Investigation,Martial Arts,Perception,Piloting/Mek,Running,Small Arms,Swimming
 rank-number: 0
 unit: Assassin ASN-TMW1
 unit-id: 677bc2df-edef-473d-b6e9-34c86083ae74

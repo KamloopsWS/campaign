@@ -8,7 +8,7 @@ role-name: Vehicle Crew Ground
 origin-faction: DC
 origin-planet: Hanover
 age: 17
-skill-list: Animal Handling (RP Only),Gunnery/Vehicle,Piloting/Ground Vehicle,Security Systems/Electronic (RP Only),Small Arms,Streetwise/Any (RP Only)
+skill-list: Animal Handling,Gunnery/Vehicle,Piloting/Ground Vehicle,Security Systems/Electronic,Small Arms,Streetwise/Any
 rank-number: 0
 unit: MASH Truck 
 unit-id: 57cbf421-d964-4686-af55-c26279f7ba55

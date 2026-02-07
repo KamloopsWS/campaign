@@ -10,7 +10,7 @@ skill-detail: 4+
 origin-faction: GV
 origin-planet: Gotterdammerung
 age: 19
-skill-list: Animal Handling (RP Only),Appraisal,Running (RP Only),Survival/Any (RP Only),Tech/Mek
+skill-list: Animal Handling,Appraisal,Running,Survival/Any,Tech/Mek
 rank-number: 20
 rank-name: Master Sergeant
 slug: bryan-gonlag

@@ -10,7 +10,7 @@ skill-detail: 3+
 origin-faction: IND
 origin-planet: Erin
 age: 31
-skill-list: Computers (RP Only),Security Systems/Mechanical (RP Only),Small Arms,Streetwise/Any (RP Only)
+skill-list: Computers,Security Systems/Mechanical,Small Arms,Streetwise/Any
 rank-number: 0
 unit: Foot Platoon (Rifle)
 unit-id: f12bda79-1205-4860-a555-bed8f4fdca9b

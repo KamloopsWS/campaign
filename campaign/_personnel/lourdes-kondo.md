@@ -8,7 +8,7 @@ role-name: Vehicle Crew Ground
 origin-faction: DC
 origin-planet: Corsica Nueva
 age: 55
-skill-list: Computers (RP Only),Gunnery/Vehicle,Leadership,Perception,Piloting/Ground Vehicle,Small Arms,Survival/Any (RP Only)
+skill-list: Computers,Gunnery/Vehicle,Leadership,Perception,Piloting/Ground Vehicle,Small Arms,Survival/Any
 rank-number: 0
 unit: MASH Truck 
 unit-id: 57cbf421-d964-4686-af55-c26279f7ba55

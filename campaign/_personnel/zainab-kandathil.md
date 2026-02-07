@@ -10,7 +10,7 @@ skill-detail: 4+
 origin-faction: GV
 origin-planet: Gotterdammerung
 age: 25
-skill-list: Security Systems/Mechanical (RP Only),Small Arms
+skill-list: Security Systems/Mechanical,Small Arms
 rank-number: 0
 unit: Foot Platoon (Rifle)
 unit-id: f12bda79-1205-4860-a555-bed8f4fdca9b

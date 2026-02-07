@@ -10,7 +10,7 @@ skill-detail: 4+
 origin-faction: IND
 origin-planet: Erin
 age: 24
-skill-list: Acrobatics (RP Only),Art/Singing (RP Only),Investigation (RP Only),Running (RP Only),Small Arms
+skill-list: Acrobatics,Art/Singing,Investigation,Running,Small Arms
 rank-number: 0
 unit: Foot Platoon (Rifle)
 unit-id: f12bda79-1205-4860-a555-bed8f4fdca9b
