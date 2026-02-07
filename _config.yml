@@ -49,6 +49,8 @@ collections:
     output: true
   warehouse:
     output: true
+  finances:
+    output: true
 
 future: true # Important for this to be on if you want to date blog entries from ... the future!
 

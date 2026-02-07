@@ -7,10 +7,15 @@
   url: /missions
 - title: TO&E
   url: /toe
-- title: TROs
-  url: /tro-list
-- title: Warehouse
-  url: /warehouse
+- title: Management
+  url: /management
+  sublinks:
+  - title: Finances
+    url: /finances
+  - title: TROs
+    url: /tro-list
+  - title: Warehouse
+    url: /warehouse
 - title: Personnel
   url: /personnel
   sublinks:
