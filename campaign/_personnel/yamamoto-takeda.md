@@ -10,7 +10,7 @@ skill-level: Regular
 skill-detail: 4/5
 callsign: Spectre
 kill-count: 2
-kill-list: [{"date": "3034-04-04", "killer": "Jenner JR7-F (Wind)", "killed": "Zeus ZEU-6S", "missionId": "1", "missionName": "Grumium Metals Long Term Assistance", "scenarioId": "2", "scenarioName": "Bad Lands Convoy Ambush"}, {"date": "3034-05-05", "killer": "Jenner JR7-F (Wind)", "killed": "Ostwar OWR-2M", "missionId": "1", "missionName": "Grumium Metals Long Term Assistance", "scenarioId": "3", "scenarioName": "Coastal Mountain Checkpoint"}]
+kill-list: [{"date": "3034-04-04", "killer": "Jenner JR7-F (Wind)", "killed": "Zeus ZEU-6S", "missionId": "1", "missionName": "Grumium Metals Long Term Assistance", "scenarioId": "2", "scenarioName": "Bad Lands Convoy Ambush 1"}, {"date": "3034-05-05", "killer": "Jenner JR7-F (Wind)", "killed": "Ostwar OWR-2M", "missionId": "1", "missionName": "Grumium Metals Long Term Assistance", "scenarioId": "3", "scenarioName": "Coastal Mountain Checkpoint"}]
 origin-faction: DC
 origin-planet: Alshain
 age: 20

@@ -7,7 +7,9 @@ mission: Grumium Metals Long Term Assistance
 mission-slug: grumium-metals-long-term-assistance
 ---
 
+##### Briefing
 
+DCMS Ronin and their pirate allies have setup several highway checkpoints through the Tiaxi Mountains. They have been seizing any goods deemed releveant to their continued operations on planet. Grumium Metals want the bandits forcibly removed.
 
 ##### After-Action Report
 

@@ -7,7 +7,7 @@ con-size:
 con-equip-tonnage: 
 con-unit-tonnage: 0
 flag-isclan: false
-inv-amount: 977
+inv-amount: 862
 inv-quality: 3
 inv-quantity: 4
 inv-shots: 0
