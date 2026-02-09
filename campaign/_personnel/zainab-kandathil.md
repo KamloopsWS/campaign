@@ -3,6 +3,7 @@ layout: bio
 title: Zainab Kandathil
 name: Zainab Kandathil
 status: Active
+xp: 0
 role: SOLDIER
 role-name: Soldier
 skill-level: Regular

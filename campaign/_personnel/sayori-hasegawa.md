@@ -3,6 +3,7 @@ layout: bio
 title: Sayori Hasegawa
 name: Sayori Hasegawa
 status: Active
+xp: 0
 role: MEK_TECH
 role-name: Mech Tech
 skill-level: Regular

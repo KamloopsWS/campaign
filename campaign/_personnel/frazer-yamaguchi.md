@@ -3,6 +3,7 @@ layout: bio
 title: Frazer Yamaguchi
 name: Frazer Yamaguchi
 status: Active
+xp: 0
 role: SOLDIER
 role-name: Soldier
 skill-level: Veteran

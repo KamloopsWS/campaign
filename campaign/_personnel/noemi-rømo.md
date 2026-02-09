@@ -3,6 +3,7 @@ layout: bio
 title: Noemi Rømo
 name: Noemi Rømo
 status: Active
+xp: 0
 role: SOLDIER
 role-name: Soldier
 skill-level: Regular

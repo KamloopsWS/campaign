@@ -3,6 +3,7 @@ layout: bio
 title: Kaisa Vuorinen
 name: Kaisa Vuorinen
 status: Active
+xp: 0
 role: VEHICLE_CREW_GROUND
 role-name: Vehicle Crew Ground
 origin-faction: MERC

@@ -3,6 +3,7 @@ layout: bio
 title: Annabla O'Daal
 name: Annabla O'Daal
 status: Active
+xp: 1
 role: MEK_TECH
 role-name: Mech Tech
 skill-level: Veteran

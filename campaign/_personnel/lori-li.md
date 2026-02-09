@@ -3,6 +3,7 @@ layout: bio
 title: Lori Li
 name: Lori Li
 status: Active
+xp: 0
 role: SOLDIER
 role-name: Soldier
 skill-level: Green

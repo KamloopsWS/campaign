@@ -3,6 +3,7 @@ layout: bio
 title: Katsuhiko Tokuoka
 name: Katsuhiko Tokuoka
 status: Active
+xp: 0
 role: MECHANIC
 role-name: Mechanic
 skill-level: Regular

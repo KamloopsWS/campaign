@@ -21,8 +21,8 @@
   sublinks:
     - title: Mechwarriors
       url: /mechwarriors
-    # - title: Fighter Pilots
-    #   url: /fighter-pilots.html
+    - title: Fighter Pilots
+      url: /fighter-pilots.html
     # - title: Protomech Pilots
     #   url: /proto-pilots.html
     - title: Vehicle Crew

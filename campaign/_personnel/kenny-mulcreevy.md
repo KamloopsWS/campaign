@@ -3,6 +3,7 @@ layout: bio
 title: Kenny Mulcreevy
 name: Kenny Mulcreevy
 status: Active
+xp: 0
 role: SOLDIER
 role-name: Soldier
 skill-level: Veteran

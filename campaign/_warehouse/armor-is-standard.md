@@ -7,9 +7,9 @@ con-size:
 con-equip-tonnage: 
 con-unit-tonnage: 0
 flag-isclan: false
-inv-amount: 447
+inv-amount: 977
 inv-quality: 3
-inv-quantity: 1
+inv-quantity: 4
 inv-shots: 0
 type-attr-save: mekhq.campaign.parts.Armor
 type-attr-web: Armor

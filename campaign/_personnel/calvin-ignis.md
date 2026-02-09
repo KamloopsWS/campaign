@@ -3,12 +3,14 @@ layout: bio
 title: Calvin Ignis
 name: Calvin Ignis
 status: Active
+xp: 3
 role: MEKWARRIOR
 role-name: Mechwarrior
 skill-level: Regular
 skill-detail: 4/5
 callsign: Swampy
-kills: 1
+kill-count: 1
+kill-list: [{"date": "3034-04-04", "killer": "Blackjack BJ-1DB", "killed": "Blackjack BJ-1", "missionId": "1", "missionName": "Grumium Metals Long Term Assistance", "scenarioId": "1", "scenarioName": "Coastal Port Defense"}]
 origin-faction: MERC
 origin-planet: Galatea
 age: 40

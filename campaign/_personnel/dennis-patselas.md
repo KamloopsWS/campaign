@@ -3,11 +3,12 @@ layout: bio
 title: Dennis Patselas
 name: Dennis Patselas
 status: Active
+xp: 0
 role: VEHICLE_CREW_GROUND
 role-name: Vehicle Crew Ground
 origin-faction: DC
 origin-planet: Echo
-age: 27
+age: 28
 skill-list: Gunnery/Vehicle,Piloting/Ground Vehicle
 rank-number: 0
 unit: MASH Truck 

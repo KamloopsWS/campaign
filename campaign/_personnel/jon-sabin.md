@@ -3,11 +3,12 @@ layout: bio
 title: Jon Sabin
 name: Jon Sabin
 status: Active
+xp: 0
 role: VEHICLE_CREW_GROUND
 role-name: Vehicle Crew Ground
 origin-faction: GV
 origin-planet: Botany Bay
-age: 19
+age: 20
 skill-list: Art/Other,Career/Any,Gunnery/Vehicle,Interest/Literature,Piloting/Ground Vehicle,Small Arms
 rank-number: 0
 unit: BattleMech Recovery Vehicle 

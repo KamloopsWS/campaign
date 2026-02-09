@@ -3,6 +3,7 @@ layout: bio
 title: Rayne Smith
 name: Rayne Smith
 status: Active
+xp: 1
 role: MEKWARRIOR
 role-name: Mechwarrior
 skill-level: Regular

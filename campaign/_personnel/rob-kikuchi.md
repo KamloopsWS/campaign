@@ -3,6 +3,7 @@ layout: bio
 title: Rob Kikuchi
 name: Rob Kikuchi
 status: Active
+xp: 0
 role: SOLDIER
 role-name: Soldier
 skill-level: Regular

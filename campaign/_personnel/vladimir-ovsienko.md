@@ -3,6 +3,7 @@ layout: bio
 title: Vladimir Ovsienko
 name: Vladimir Ovsienko
 status: Active
+xp: 0
 role: SOLDIER
 role-name: Soldier
 skill-level: Green

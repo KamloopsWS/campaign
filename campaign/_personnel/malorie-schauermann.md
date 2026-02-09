@@ -3,6 +3,7 @@ layout: bio
 title: Malorie Schauermann
 name: Malorie Schauermann
 status: Active
+xp: 0
 role: MEDIC
 role-name: Medic
 origin-faction: FRR

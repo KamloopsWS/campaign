@@ -3,6 +3,7 @@ layout: bio
 title: Jaja Onipede
 name: Jaja Onipede
 status: Active
+xp: 2
 role: ADMINISTRATOR_HR
 role-name: Admin/HR
 skill-level: Regular

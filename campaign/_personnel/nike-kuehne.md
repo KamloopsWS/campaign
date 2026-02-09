@@ -3,6 +3,7 @@ layout: bio
 title: Nike Kuehne
 name: Nike Kuehne
 status: Active
+xp: 0
 role: SOLDIER
 role-name: Soldier
 skill-level: Regular

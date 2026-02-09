@@ -3,6 +3,7 @@ layout: bio
 title: Tom Tsalani
 name: Tom Tsalani
 status: Active
+xp: 0
 role: SOLDIER
 role-name: Soldier
 skill-level: Veteran

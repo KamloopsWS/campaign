@@ -3,6 +3,7 @@ layout: bio
 title: Bernadett Senderovits
 name: Bernadett Senderovits
 status: Active
+xp: 0
 role: MECHANIC
 role-name: Mechanic
 skill-level: Green

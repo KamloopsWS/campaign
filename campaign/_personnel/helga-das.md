@@ -3,6 +3,7 @@ layout: bio
 title: Helga Das
 name: Helga Das
 status: Active
+xp: 0
 role: SOLDIER
 role-name: Soldier
 skill-level: Regular

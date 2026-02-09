@@ -3,6 +3,7 @@ layout: bio
 title: Hannes Wittman
 name: Hannes Wittman
 status: Active
+xp: 0
 role: MECHANIC
 role-name: Mechanic
 skill-level: Veteran

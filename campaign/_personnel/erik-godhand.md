@@ -3,12 +3,14 @@ layout: bio
 title: Erik Godhand
 name: Erik Godhand
 status: Active
+xp: 2
 role: MEKWARRIOR
 role-name: Mechwarrior
 skill-level: Regular
 skill-detail: 4/5
 callsign: Priest
-kills: 1
+kill-count: 1
+kill-list: [{"date": "3034-04-04", "killer": "Assasin ASN-TMW1", "killed": "Rifleman RFL-3N", "missionId": "1", "missionName": "Grumium Metals Long Term Assistance", "scenarioId": "2", "scenarioName": "Bad Lands Convoy Ambush"}]
 origin-faction: CS
 origin-planet: Rasalhague
 age: 20

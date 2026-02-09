@@ -3,6 +3,7 @@ layout: bio
 title: Hedvig Pfeil
 name: Hedvig Pfeil
 status: Active
+xp: 0
 role: ADMINISTRATOR_COMMAND
 role-name: Admin/Command
 skill-level: Veteran

@@ -9,7 +9,7 @@ con-unit-tonnage: 0
 flag-isclan: 
 inv-amount: 0
 inv-quality: 3
-inv-quantity: 30
+inv-quantity: 55
 inv-shots: 0
 type-attr-save: mekhq.campaign.parts.equipment.HeatSink
 type-attr-web: Heat Sink

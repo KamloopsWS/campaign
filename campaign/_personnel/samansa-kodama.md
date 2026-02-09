@@ -3,6 +3,7 @@ layout: bio
 title: Samansa Kodama
 name: Samansa Kodama
 status: Active
+xp: 0
 role: VEHICLE_CREW_GROUND
 role-name: Vehicle Crew Ground
 origin-faction: GV

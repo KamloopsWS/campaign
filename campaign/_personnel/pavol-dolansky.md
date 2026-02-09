@@ -3,6 +3,7 @@ layout: bio
 title: Pavol Dolansky
 name: Pavol Dolansky
 status: Active
+xp: 0
 role: SOLDIER
 role-name: Soldier
 skill-level: Veteran

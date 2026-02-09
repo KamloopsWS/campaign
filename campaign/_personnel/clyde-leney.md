@@ -3,6 +3,7 @@ layout: bio
 title: Clyde Leney
 name: Clyde Leney
 status: Active
+xp: 0
 role: SOLDIER
 role-name: Soldier
 skill-level: Ultra-Green

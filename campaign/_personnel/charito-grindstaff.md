@@ -3,6 +3,7 @@ layout: bio
 title: Charito Grindstaff
 name: Charito Grindstaff
 status: Active
+xp: 0
 role: MEDIC
 role-name: Medic
 origin-faction: IND

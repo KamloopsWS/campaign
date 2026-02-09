@@ -3,6 +3,7 @@ layout: bio
 title: Bryan Gerso
 name: Bryan Gerso
 status: Active
+xp: 0
 role: SOLDIER
 role-name: Soldier
 skill-level: Regular

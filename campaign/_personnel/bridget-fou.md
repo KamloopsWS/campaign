@@ -3,13 +3,14 @@ layout: bio
 title: Bridget Fou
 name: Bridget Fou
 status: Active
+xp: 0
 role: SOLDIER
 role-name: Soldier
 skill-level: Veteran
 skill-detail: 3+
 origin-faction: GV
 origin-planet: Vali
-age: 24
+age: 25
 skill-list: Career/Any,Small Arms
 rank-number: 0
 unit: Foot Platoon (Rifle)

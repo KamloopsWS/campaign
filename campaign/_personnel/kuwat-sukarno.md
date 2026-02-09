@@ -3,6 +3,7 @@ layout: bio
 title: Kuwat Sukarno
 name: Kuwat Sukarno
 status: Active
+xp: 1
 role: ADMINISTRATOR_HR
 role-name: Admin/HR
 skill-level: Veteran

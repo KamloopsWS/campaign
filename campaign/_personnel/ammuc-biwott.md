@@ -3,6 +3,7 @@ layout: bio
 title: Ammuc Biwott
 name: Ammuc Biwott
 status: Active
+xp: 0
 role: SOLDIER
 role-name: Soldier
 skill-level: Veteran

@@ -3,6 +3,7 @@ layout: bio
 title: Mitch Manos
 name: Mitch Manos
 status: Active
+xp: 0
 role: SOLDIER
 role-name: Soldier
 skill-level: Green

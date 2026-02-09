@@ -3,11 +3,14 @@ layout: bio
 title: Vern Holden
 name: Vern Holden
 status: Active
+xp: 3
 role: MEKWARRIOR
 role-name: Mechwarrior
 skill-level: Regular
 skill-detail: 4/5
 callsign: Burgertime
+kill-count: 1
+kill-list: [{"date": "3034-05-05", "killer": "Hatchetman (Sigurd) HCT-TMW2X", "killed": "Orion ON1-K", "missionId": "1", "missionName": "Grumium Metals Long Term Assistance", "scenarioId": "3", "scenarioName": "Coastal Mountain Checkpoint"}]
 origin-faction: LA
 origin-planet: Galatia III
 age: 20

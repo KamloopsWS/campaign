@@ -3,6 +3,7 @@ layout: bio
 title: Callee Kristiansen
 name: Callee Kristiansen
 status: Active
+xp: 0
 role: SOLDIER
 role-name: Soldier
 skill-level: Regular

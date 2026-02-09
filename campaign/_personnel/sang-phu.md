@@ -3,6 +3,7 @@ layout: bio
 title: Sa'ng Phu
 name: Sa'ng Phu
 status: Active
+xp: 0
 role: SOLDIER
 role-name: Soldier
 skill-level: Regular

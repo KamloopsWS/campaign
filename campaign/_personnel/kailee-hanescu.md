@@ -3,6 +3,7 @@ layout: bio
 title: Kailee Hanescu
 name: Kailee Hanescu
 status: Active
+xp: 0
 role: SOLDIER
 role-name: Soldier
 skill-level: Veteran

@@ -3,6 +3,7 @@ layout: bio
 title: Karl Werner
 name: Karl Werner
 status: Active
+xp: 2
 role: MEKWARRIOR
 role-name: Mechwarrior
 skill-level: Regular

@@ -3,6 +3,7 @@ layout: bio
 title: Pauline Saveljic
 name: Pauline Saveljic
 status: Active
+xp: 0
 role: MECHANIC
 role-name: Mechanic
 skill-level: Green

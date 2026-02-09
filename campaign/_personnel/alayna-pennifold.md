@@ -3,6 +3,7 @@ layout: bio
 title: Alayna Pennifold
 name: Alayna Pennifold
 status: Active
+xp: 0
 role: MECHANIC
 role-name: Mechanic
 skill-level: Elite

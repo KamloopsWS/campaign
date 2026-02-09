@@ -3,6 +3,7 @@ layout: bio
 title: Thomas Mukundagiri
 name: Thomas Mukundagiri
 status: Active
+xp: 0
 role: VEHICLE_CREW_GROUND
 role-name: Vehicle Crew Ground
 origin-faction: LA

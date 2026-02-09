@@ -3,6 +3,7 @@ layout: bio
 title: Jacob Ashwell
 name: Jacob Ashwell
 status: Active
+xp: 0
 role: MECHANIC
 role-name: Mechanic
 skill-level: Veteran

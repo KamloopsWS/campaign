@@ -3,6 +3,7 @@ layout: bio
 title: Donald Pane
 name: Donald Pane
 status: Active
+xp: 0
 role: SOLDIER
 role-name: Soldier
 skill-level: Veteran

@@ -3,6 +3,7 @@ layout: bio
 title: Ji-hoon Kim
 name: Ji-hoon Kim
 status: Active
+xp: 0
 role: VEHICLE_CREW_GROUND
 role-name: Vehicle Crew Ground
 origin-faction: MERC

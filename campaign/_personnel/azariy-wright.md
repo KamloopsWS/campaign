@@ -3,6 +3,7 @@ layout: bio
 title: Azariy Wright
 name: Azariy Wright
 status: Active
+xp: 0
 role: SOLDIER
 role-name: Soldier
 skill-level: Regular

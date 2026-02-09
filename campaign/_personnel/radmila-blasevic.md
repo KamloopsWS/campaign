@@ -3,11 +3,12 @@ layout: bio
 title: Radmila Blasevic
 name: Radmila Blasevic
 status: Active
+xp: 0
 role: VEHICLE_CREW_GROUND
 role-name: Vehicle Crew Ground
 origin-faction: MERC
 origin-planet: Camlann (LC)
-age: 26
+age: 27
 skill-list: Gunnery/Vehicle,Language/Any,Piloting/Ground Vehicle,Small Arms,Streetwise/Any,Tracking/Any
 rank-number: 0
 unit: Sherpa Armored Truck (Mobile Canteen)

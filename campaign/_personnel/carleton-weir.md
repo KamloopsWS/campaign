@@ -3,6 +3,7 @@ layout: bio
 title: Carleton Weir
 name: Carleton Weir
 status: Active
+xp: 0
 role: MECHANIC
 role-name: Mechanic
 skill-level: Regular

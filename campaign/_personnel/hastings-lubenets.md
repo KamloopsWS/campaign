@@ -3,6 +3,7 @@ layout: bio
 title: Hastings Lubenets
 name: Hastings Lubenets
 status: Active
+xp: 0
 role: MEDIC
 role-name: Medic
 origin-faction: LA

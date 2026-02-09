@@ -3,6 +3,7 @@ layout: bio
 title: Iakinf Laugen
 name: Iakinf Laugen
 status: Active
+xp: 0
 role: SOLDIER
 role-name: Soldier
 skill-level: Regular

@@ -3,6 +3,7 @@ layout: bio
 title: Lutisha Estrada
 name: Lutisha Estrada
 status: Active
+xp: 0
 role: SOLDIER
 role-name: Soldier
 skill-level: Green

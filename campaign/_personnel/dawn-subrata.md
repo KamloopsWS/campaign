@@ -3,6 +3,7 @@ layout: bio
 title: Dawn Subrata
 name: Dawn Subrata
 status: Active
+xp: 2
 role: MEK_TECH
 role-name: Mech Tech
 skill-level: Regular

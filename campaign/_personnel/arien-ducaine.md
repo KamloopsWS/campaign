@@ -3,12 +3,14 @@ layout: bio
 title: Arien Ducaine
 name: Arien Ducaine
 status: Active
+xp: 4
 role: MEKWARRIOR
 role-name: Mechwarrior
 skill-level: Regular
 skill-detail: 4/5
 callsign: Ironfoot
-kills: 1
+kill-count: 2
+kill-list: [{"date": "3034-04-04", "killer": "Wolverine WVR-6K", "killed": "Crusader CRD-3K", "missionId": "1", "missionName": "Grumium Metals Long Term Assistance", "scenarioId": "1", "scenarioName": "Coastal Port Defense"}, {"date": "3034-05-05", "killer": "Wolverine WVR-6K", "killed": "Warhammer WHM-6R", "missionId": "1", "missionName": "Grumium Metals Long Term Assistance", "scenarioId": "3", "scenarioName": "Coastal Mountain Checkpoint"}]
 origin-faction: DC
 origin-planet: Rasalhague
 age: 20

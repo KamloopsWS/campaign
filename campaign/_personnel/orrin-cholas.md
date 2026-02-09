@@ -3,11 +3,12 @@ layout: bio
 title: Orrin Cholas
 name: Orrin Cholas
 status: Active
+xp: 0
 role: VEHICLE_CREW_GROUND
 role-name: Vehicle Crew Ground
 origin-faction: DC
 origin-planet: Ogano
-age: 31
+age: 32
 skill-list: Acrobatics,Animal Handling,Gunnery/Vehicle,Piloting/Ground Vehicle,Small Arms
 rank-number: 0
 unit: BattleMech Recovery Vehicle 

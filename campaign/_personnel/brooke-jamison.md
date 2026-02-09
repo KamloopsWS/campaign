@@ -3,6 +3,7 @@ layout: bio
 title: Brooke Jamison
 name: Brooke Jamison
 status: Active
+xp: 0
 role: DOCTOR
 role-name: Doctor
 callsign: Jam

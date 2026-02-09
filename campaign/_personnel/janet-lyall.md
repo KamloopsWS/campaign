@@ -3,6 +3,7 @@ layout: bio
 title: Janet Lyall
 name: Janet Lyall
 status: Active
+xp: 0
 role: MECHANIC
 role-name: Mechanic
 skill-level: Veteran

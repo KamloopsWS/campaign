@@ -3,6 +3,7 @@ layout: bio
 title: Laura bin Rabah
 name: Laura bin Rabah
 status: Active
+xp: 0
 role: VEHICLE_CREW_GROUND
 role-name: Vehicle Crew Ground
 origin-faction: MERC

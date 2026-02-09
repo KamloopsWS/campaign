@@ -3,11 +3,14 @@ layout: bio
 title: Charon Kresek
 name: Charon Kresek
 status: Active
+xp: 3
 role: MEKWARRIOR
 role-name: Mechwarrior
 skill-level: Regular
 skill-detail: 4/5
 callsign: Boatman
+kill-count: 1
+kill-list: [{"date": "3034-05-05", "killer": "Gladiator GLD-4R (Kresek)", "killed": "Thunderbolt TDR-5S", "missionId": "1", "missionName": "Grumium Metals Long Term Assistance", "scenarioId": "3", "scenarioName": "Coastal Mountain Checkpoint"}]
 origin-faction: LA
 origin-planet: Tharkad
 age: 20

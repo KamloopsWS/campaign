@@ -3,6 +3,7 @@ layout: bio
 title: Sotskar Shushanian
 name: Sotskar Shushanian
 status: Active
+xp: 0
 role: MEK_TECH
 role-name: Mech Tech
 skill-level: Regular

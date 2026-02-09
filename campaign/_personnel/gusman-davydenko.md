@@ -3,6 +3,7 @@ layout: bio
 title: Gusman Davydenko
 name: Gusman Davydenko
 status: Active
+xp: 0
 role: SOLDIER
 role-name: Soldier
 skill-level: Green

@@ -3,6 +3,7 @@ layout: bio
 title: Maurice Mabey
 name: Maurice Mabey
 status: Active
+xp: 0
 role: SOLDIER
 role-name: Soldier
 skill-level: Regular

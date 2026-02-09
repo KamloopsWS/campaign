@@ -3,6 +3,7 @@ layout: bio
 title: Febie Tantoco
 name: Febie Tantoco
 status: Active
+xp: 2
 role: ADMINISTRATOR_TRANSPORT
 role-name: Admin/Transport
 skill-level: Regular

@@ -3,6 +3,7 @@ layout: bio
 title: Brittany Saidi-Sief
 name: Brittany Saidi-Sief
 status: Active
+xp: 0
 role: SOLDIER
 role-name: Soldier
 skill-level: Green

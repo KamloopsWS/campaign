@@ -3,6 +3,7 @@ layout: bio
 title: Van Karakinos
 name: Van Karakinos
 status: Active
+xp: 0
 role: MEK_TECH
 role-name: Mech Tech
 skill-level: Regular
