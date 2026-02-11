@@ -8,8 +8,16 @@ permalink: /index.html
   <img src="{{ site.logo | relative_url }}" class="float-left w-25 mr-2 mb-2">
 {% endif %}
  
-
 <p>We are a small group of mercenaries, currently operating as subcontractors for a larger mercenary coopertive called 'Petterson's Pistolleros'.<br/><br/>Petterson named the group "Ram Heads" temporarily due to the amount of personnel that tried and failed to negotiate better employement terms with a man who hates the talking part of the hiring process.</p>
+
+{% if site.campaign_date %}
+{% assign campaignDateString = site.campaign_date %}
+<!-- <h4> -->
+<time datetime="{{ campaignDateString | date: '%Y-%m-%d' }}">
+  {{ campaignDateString | date: '%B %d, %Y' }}
+</time>
+<!-- </h4> -->
+{% endif %}
 
 {% if site.toe_front_page %}
 {% for force in site.forces %}

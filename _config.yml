@@ -34,6 +34,8 @@ url: "https://kamloopsws.github.io" # the base hostname & protocol for your site
 banner_image: true
 logo: /assets/images/unit_logo.png
 
+campaign_date: "3034-05-13"
+
 collections_dir: campaign
 
 collections:
