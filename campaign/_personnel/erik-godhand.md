@@ -13,6 +13,8 @@ skill-detail: 4/5
 callsign: Priest
 kill-count: 2
 kill-list: [{"date": "3034-04-04", "killer": "Assasin ASN-TMW1", "killed": "Rifleman RFL-3N", "missionId": "1", "missionName": "Grumium Metals Long Term Assistance", "scenarioId": "2", "scenarioName": "Bad Lands Convoy Ambush 1"}, {"date": "3034-05-13", "killer": "Assassin ASN-TMW1", "killed": "Locust LCT-1L (Pirates)", "missionId": "1", "missionName": "Grumium Metals Long Term Assistance", "scenarioId": "4", "scenarioName": "Bad Lands Convoy Amush 2"}]
+award-count: 1
+award-list: [{"date": "3034-05-01", "name": "Combat Action", "set": "standard"}]
 origin-faction: CS
 origin-planet: Rasalhague
 age: 20

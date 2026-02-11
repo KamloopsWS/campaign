@@ -11,6 +11,8 @@ role-name: Mechwarrior
 skill-level: Regular
 skill-detail: 4/5
 callsign: Hound
+award-count: 1
+award-list: [{"date": "3034-05-01", "name": "Combat Action", "set": "standard"}]
 origin-faction: LA
 origin-planet: Tharkad
 age: 35

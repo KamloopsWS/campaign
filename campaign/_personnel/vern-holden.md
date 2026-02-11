@@ -13,6 +13,8 @@ skill-detail: 4/5
 callsign: Burgertime
 kill-count: 1
 kill-list: [{"date": "3034-05-05", "killer": "Hatchetman (Sigurd) HCT-TMW2X", "killed": "Orion ON1-K", "missionId": "1", "missionName": "Grumium Metals Long Term Assistance", "scenarioId": "3", "scenarioName": "Coastal Mountain Checkpoint"}]
+award-count: 1
+award-list: [{"date": "3034-05-01", "name": "Combat Action", "set": "standard"}]
 origin-faction: LA
 origin-planet: Galatia III
 age: 20

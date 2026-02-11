@@ -13,6 +13,8 @@ skill-detail: 4/5
 callsign: Boatman
 kill-count: 1
 kill-list: [{"date": "3034-05-05", "killer": "Gladiator GLD-4R (Kresek)", "killed": "Thunderbolt TDR-5S", "missionId": "1", "missionName": "Grumium Metals Long Term Assistance", "scenarioId": "3", "scenarioName": "Coastal Mountain Checkpoint"}]
+award-count: 1
+award-list: [{"date": "3034-05-01", "name": "Combat Action", "set": "standard"}]
 origin-faction: LA
 origin-planet: Tharkad
 age: 20

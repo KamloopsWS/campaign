@@ -8,7 +8,7 @@
             <img class="img-fluid img-thumbnail rounded float-left mr-3" src="{{ site.baseurl}}/assets/images/portraits/{{ page.portrait }}">
           {% endif %}
           <div class="col-md-12 pt-1">
-            <h4>{{ page.name }}</h4>
+            <h3>{{ page.name }}</h3>
             {% if page.skill-level %}{{ page.skill-level }} {% endif %}{% if page.phenotype %} {{ page.phenotype }} {% endif%}{{ page.role-name }}{% if page.skill-detail %} ({{ page.skill-detail }}){% endif %}<br>
             <dl class="row">
             {% if page.rank-name %}
@@ -44,6 +44,10 @@
               <dt class="col-md-2 mb-0 pl-0">Origin:</dt>
               <dd class="col-md-10 mb-0 pl-0">{{page.origin-planet}}</dd>
             {% endif %}
+            {% if page.award-count %}
+              <dt class="col-sm-2 mb-0 pl-0">Awards #: </dt>
+              <dd class="col-sm-10 mb-0 pl-0">{{page.award-count}}</dd>
+            {% endif %}
             {% if page.kill-count %}
               <dt class="col-sm-2 mb-0 pl-0">Kills #: </dt>
               <dd class="col-sm-10 mb-0 pl-0">{{page.kill-count}}</dd>
@@ -67,10 +71,29 @@
 
       <hr>
 
+      {% if page.award-count %}
+      <div class="row">
+        <div class="col">
+          <div class="container">
+          <h3>Awards</h3>
+          <ul class="mb-0 pl-4">
+          {% assign award_list_json = page.award-list | parse_json %}
+          {% for award in award_list_json %}
+            <li>Awarded <strong>"{{ award.name }}"</strong> on <strong>{{ award.date }}</strong></li>
+          {% endfor %}
+          </ul>
+        </div>
+        </div>
+      </div>
+      <hr>
+      {% endif %}
+
       {% if page.kill-count %}
       <div class="row">
         <div class="col">
-          <ul class="mb-0">
+          <div class="container">
+          <h3>Kills</h3>
+          <ul class="mb-0 pl-4">
           {% assign kill_list_json = page.kill-list | parse_json %}
           {% for kill in kill_list_json %}
             <li>Killed <strong>"{{ kill.killed }}"</strong> while piloting <strong>"{{ kill.killer }}"</strong> 
@@ -87,6 +110,7 @@
           {% endfor %}
           </ul>
         </div>
+        </div>
       </div>
       <hr>
       {% endif %}
@@ -94,7 +118,11 @@
       <div class="row">
         <div class="col">
           <div class="container">
+            {% if content %}
+            <h3>Biography</h3>
             {{ content }}
+            {% endif %}
+
             {% assign hasFiction = false %}
             {% for post in site.posts %}
               {% if post.personnel contains page.slug %}
@@ -111,6 +139,7 @@
               {% endfor %}
               </ul>
             {% endif %}
+
           </div>
         </div>
       </div>
