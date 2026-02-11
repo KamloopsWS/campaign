@@ -4,6 +4,8 @@ title: Anastázie Damm
 name: Anastázie Damm
 status: Active
 xp: 0
+edge-current: 0
+edge-total: 0
 role: VEHICLE_CREW_GROUND
 role-name: Vehicle Crew Ground
 origin-faction: MERC
@@ -15,8 +17,8 @@ unit: BattleMech Recovery Vehicle
 unit-id: 4bcd2b1a-f144-4932-962b-4d792daa1025
 unit-slug: battlemech-recovery-vehicle
 slug: anastázie-damm
-force: Support Command, Salvage Forces
-force-slug: support-command-salvage-forces
+force: Support Battalion, Salvage Lance
+force-slug: support-battalion-salvage-lance
 portrait: anastázie-damm.png
 ---
 

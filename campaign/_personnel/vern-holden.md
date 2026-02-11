@@ -3,7 +3,9 @@ layout: bio
 title: Vern Holden
 name: Vern Holden
 status: Active
-xp: 3
+xp: 2
+edge-current: 1
+edge-total: 1
 role: MEKWARRIOR
 role-name: Mechwarrior
 skill-level: Regular
@@ -20,8 +22,8 @@ unit: Hatchetman (Sigurd) HCT-TMW2X
 unit-id: 3a4f3910-685d-47c4-8d66-1e16c43978bf
 unit-slug: hatchetman-sigurd-hcttmw2x
 slug: vern-holden
-force: 1st Company, Fire Lance
-force-slug: n1st-company-fire-lance
+force: Alfa Battalion, 1st Company, Fire Lance
+force-slug: alfa-battalion-1st-company-fire-lance
 portrait: vern-holden.gif
 ---
 

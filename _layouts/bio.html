@@ -48,6 +48,10 @@
               <dt class="col-sm-2 mb-0 pl-0">Kills #: </dt>
               <dd class="col-sm-10 mb-0 pl-0">{{page.kill-count}}</dd>
             {% endif %}
+            {% if page.edge-total != 0 %}
+              <dt class="col-sm-2 mb-0 pl-0">Edge #: </dt>
+              <dd class="col-sm-10 mb-0 pl-0">{{page.edge-current}}/{{page.edge-total}}</dd>
+            {% endif %}
             {% if page.xp %}
               <dt class="col-sm-2 mb-0 pl-0">EXP #: </dt>
               <dd class="col-sm-10 mb-0 pl-0">{{page.xp}}</dd>

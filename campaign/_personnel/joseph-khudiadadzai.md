@@ -4,6 +4,8 @@ title: Joseph Khudiadadzai
 name: Joseph Khudiadadzai
 status: Active
 xp: 0
+edge-current: 0
+edge-total: 0
 role: VEHICLE_CREW_GROUND
 role-name: Vehicle Crew Ground
 origin-faction: DC
@@ -15,8 +17,8 @@ unit: Flatbed Truck
 unit-id: 1e61539a-080f-487e-a42c-5cb9b3b7320d
 unit-slug: flatbed-truck
 slug: joseph-khudiadadzai
-force: Support Command, Convoy Forces
-force-slug: support-command-convoy-forces
+force: Support Battalion, Convoy Company, Convoy Lance 1
+force-slug: support-battalion-convoy-company-convoy-lance-1
 portrait: joseph-khudiadadzai.png
 ---
 

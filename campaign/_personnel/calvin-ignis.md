@@ -3,7 +3,9 @@ layout: bio
 title: Calvin Ignis
 name: Calvin Ignis
 status: Active
-xp: 3
+xp: 2
+edge-current: 1
+edge-total: 1
 role: MEKWARRIOR
 role-name: Mechwarrior
 skill-level: Regular
@@ -20,8 +22,8 @@ unit: Blackjack BJ-1DB
 unit-id: 2bd6e8f9-a914-46c8-813f-89ddf928a6f6
 unit-slug: blackjack-bj1db
 slug: calvin-ignis
-force: 1st Company, Fire Lance
-force-slug: n1st-company-fire-lance
+force: Alfa Battalion, 1st Company, Fire Lance
+force-slug: alfa-battalion-1st-company-fire-lance
 portrait: calvin-ignis.gif
 ---
 

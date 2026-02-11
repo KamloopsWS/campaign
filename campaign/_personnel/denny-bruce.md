@@ -4,6 +4,8 @@ title: Denny Bruce
 name: Denny Bruce
 status: Active
 xp: 0
+edge-current: -1
+edge-total: 0
 role: MECHANIC
 role-name: Mechanic
 skill-level: Regular

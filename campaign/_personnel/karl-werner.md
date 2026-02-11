@@ -4,6 +4,8 @@ title: Karl Werner
 name: Karl Werner
 status: Active
 xp: 2
+edge-current: 1
+edge-total: 1
 role: MEKWARRIOR
 role-name: Mechwarrior
 skill-level: Regular
@@ -18,8 +20,8 @@ unit: Griffin GRF-1S
 unit-id: d249a5dc-163f-4c9c-8a8d-ef74af9af3bb
 unit-slug: griffin-grf1s
 slug: karl-werner
-force: 1st Company, Fire Lance
-force-slug: n1st-company-fire-lance
+force: Alfa Battalion, 1st Company, Fire Lance
+force-slug: alfa-battalion-1st-company-fire-lance
 portrait: karl-werner.gif
 ---
 

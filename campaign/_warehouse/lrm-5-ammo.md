@@ -10,7 +10,7 @@ flag-isclan:
 inv-amount: 0
 inv-quality: 3
 inv-quantity: 1
-inv-shots: 26
+inv-shots: 11
 type-attr-save: mekhq.campaign.parts.AmmoStorage
 type-attr-web: Ammo
 ---

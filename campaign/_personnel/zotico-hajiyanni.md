@@ -4,6 +4,8 @@ title: Zotico Hajiyanni
 name: Zotico Hajiyanni
 status: Active
 xp: 1
+edge-current: 0
+edge-total: 0
 role: ADMINISTRATOR_LOGISTICS
 role-name: Admin/Logistical
 skill-level: Regular

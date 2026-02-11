@@ -4,6 +4,8 @@ title: Febie Tantoco
 name: Febie Tantoco
 status: Active
 xp: 2
+edge-current: 0
+edge-total: 0
 role: ADMINISTRATOR_TRANSPORT
 role-name: Admin/Transport
 skill-level: Regular

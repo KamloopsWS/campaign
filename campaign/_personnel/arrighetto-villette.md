@@ -4,6 +4,8 @@ title: Arrighetto Villette
 name: Arrighetto Villette
 status: Active
 xp: 2
+edge-current: 0
+edge-total: 0
 role: ADMINISTRATOR_LOGISTICS
 role-name: Admin/Logistical
 skill-level: Regular

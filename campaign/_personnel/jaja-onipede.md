@@ -4,6 +4,8 @@ title: Jaja Onipede
 name: Jaja Onipede
 status: Active
 xp: 2
+edge-current: 0
+edge-total: 0
 role: ADMINISTRATOR_HR
 role-name: Admin/HR
 skill-level: Regular

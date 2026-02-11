@@ -3,7 +3,9 @@ layout: bio
 title: Rayne Smith
 name: Rayne Smith
 status: Active
-xp: 3
+xp: 2
+edge-current: 1
+edge-total: 1
 role: MEKWARRIOR
 role-name: Mechwarrior
 skill-level: Regular
@@ -20,8 +22,8 @@ unit: Crab CRB-20
 unit-id: 2ab83019-a4de-4858-aec1-0f1d642cc1c6
 unit-slug: crab-crb20
 slug: rayne-smith
-force: 1st Company, Reserve Lance
-force-slug: n1st-company-reserve-lance
+force: Alfa Battalion, 1st Company, Command Lance
+force-slug: alfa-battalion-1st-company-command-lance
 portrait: rayne-smith.gif
 ---
 

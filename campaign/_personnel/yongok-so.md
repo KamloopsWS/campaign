@@ -4,6 +4,8 @@ title: Yongok So
 name: Yongok So
 status: Active
 xp: 0
+edge-current: 0
+edge-total: 0
 role: VEHICLE_CREW_GROUND
 role-name: Vehicle Crew Ground
 origin-faction: LA
@@ -15,8 +17,8 @@ unit: BattleMech Recovery Vehicle
 unit-id: ab45eae0-03ce-4273-a88b-7606d30c59cb
 unit-slug: battlemech-recovery-vehicle
 slug: yongok-so
-force: Support Command, Salvage Forces
-force-slug: support-command-salvage-forces
+force: Support Battalion, Salvage Lance
+force-slug: support-battalion-salvage-lance
 portrait: yongok-so.png
 ---
 

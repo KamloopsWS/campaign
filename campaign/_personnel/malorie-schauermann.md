@@ -4,6 +4,8 @@ title: Malorie Schauermann
 name: Malorie Schauermann
 status: Active
 xp: 0
+edge-current: 0
+edge-total: 0
 role: MEDIC
 role-name: Medic
 origin-faction: FRR

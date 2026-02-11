@@ -4,6 +4,8 @@ title: Kuwat Sukarno
 name: Kuwat Sukarno
 status: Active
 xp: 1
+edge-current: 0
+edge-total: 0
 role: ADMINISTRATOR_HR
 role-name: Admin/HR
 skill-level: Veteran

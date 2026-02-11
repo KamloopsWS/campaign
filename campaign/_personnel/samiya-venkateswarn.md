@@ -4,6 +4,8 @@ title: Samiya Venkateswarn
 name: Samiya Venkateswarn
 status: Active
 xp: 3
+edge-current: 0
+edge-total: 0
 role: ADMINISTRATOR_COMMAND
 role-name: Admin/Command
 skill-level: Regular

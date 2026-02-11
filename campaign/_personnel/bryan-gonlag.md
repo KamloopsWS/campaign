@@ -4,6 +4,8 @@ title: Master Sergeant Bryan Gonlag
 name: Bryan Gonlag
 status: Active
 xp: 0
+edge-current: 0
+edge-total: 0
 role: MEK_TECH
 role-name: Mech Tech
 skill-level: Elite

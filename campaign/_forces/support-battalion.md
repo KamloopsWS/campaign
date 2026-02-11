@@ -1,8 +1,8 @@
 ---
 layout: force
-title: Auxiliary Company
-order: 9
-slug: auxiliary-company
+title: Support Battalion
+order: 4
+slug: support-battalion
 parent-name: 
 parent-slug: pettersons-pistolleros-temp-hires
 ---

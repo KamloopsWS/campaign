@@ -3,7 +3,9 @@ layout: bio
 title: Lieutenant Yamamoto Takeda
 name: Yamamoto Takeda
 status: Active
-xp: 4
+xp: 2
+edge-current: 1
+edge-total: 1
 role: MEKWARRIOR
 role-name: Mechwarrior
 skill-level: Regular
@@ -21,8 +23,8 @@ unit: Jenner JR7-F (Wind)
 unit-id: 4a0a0eb9-da75-4bee-9177-368f24d0c7a6
 unit-slug: jenner-jr7f-wind
 slug: yamamoto-takeda
-force: 1st Company, Command Lance
-force-slug: n1st-company-command-lance
+force: Alfa Battalion, 1st Company, Command Lance
+force-slug: alfa-battalion-1st-company-command-lance
 portrait: yamamoto-takeda.gif
 ---
 

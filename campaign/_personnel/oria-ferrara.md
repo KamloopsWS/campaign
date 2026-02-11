@@ -4,6 +4,8 @@ title: Oria Ferrara
 name: Oria Ferrara
 status: Active
 xp: 0
+edge-current: 0
+edge-total: 0
 role: MECHANIC
 role-name: Mechanic
 skill-level: Regular

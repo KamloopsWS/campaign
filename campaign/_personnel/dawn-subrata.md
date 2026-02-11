@@ -4,6 +4,8 @@ title: Dawn Subrata
 name: Dawn Subrata
 status: Active
 xp: 2
+edge-current: 0
+edge-total: 0
 role: MEK_TECH
 role-name: Mech Tech
 skill-level: Regular

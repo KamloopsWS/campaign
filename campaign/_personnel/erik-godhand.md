@@ -3,7 +3,9 @@ layout: bio
 title: Erik Godhand
 name: Erik Godhand
 status: Active
-xp: 4
+xp: 2
+edge-current: 1
+edge-total: 1
 role: MEKWARRIOR
 role-name: Mechwarrior
 skill-level: Regular
@@ -20,8 +22,8 @@ unit: Assassin ASN-TMW1
 unit-id: 677bc2df-edef-473d-b6e9-34c86083ae74
 unit-slug: assassin-asntmw1
 slug: erik-godhand
-force: 1st Company, Reserve Lance
-force-slug: n1st-company-reserve-lance
+force: Alfa Battalion, 1st Company, Command Lance
+force-slug: alfa-battalion-1st-company-command-lance
 portrait: erik-godhand.gif
 ---
 

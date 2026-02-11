@@ -3,7 +3,9 @@ layout: bio
 title: Arien Ducaine
 name: Arien Ducaine
 status: Active
-xp: 4
+xp: 2
+edge-current: 0
+edge-total: 1
 role: MEKWARRIOR
 role-name: Mechwarrior
 skill-level: Regular
@@ -20,8 +22,8 @@ unit: Wolverine WVR-6K
 unit-id: a9bea610-370d-4361-bede-7aeff68f7842
 unit-slug: wolverine-wvr6k
 slug: arien-ducaine
-force: 1st Company, Fire Lance
-force-slug: n1st-company-fire-lance
+force: Alfa Battalion, 1st Company, Fire Lance
+force-slug: alfa-battalion-1st-company-fire-lance
 portrait: arien-ducaine.gif
 ---
 

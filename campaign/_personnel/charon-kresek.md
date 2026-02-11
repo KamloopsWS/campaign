@@ -3,7 +3,9 @@ layout: bio
 title: Charon Kresek
 name: Charon Kresek
 status: Active
-xp: 3
+xp: 2
+edge-current: 1
+edge-total: 1
 role: MEKWARRIOR
 role-name: Mechwarrior
 skill-level: Regular
@@ -20,8 +22,8 @@ unit: Gladiator GLD-4R (Kresek)
 unit-id: 10a053b9-33be-44c6-bc8b-eeacfc6a806b
 unit-slug: gladiator-gld4r-kresek
 slug: charon-kresek
-force: 1st Company, Command Lance
-force-slug: n1st-company-command-lance
+force: Alfa Battalion, 1st Company, Command Lance
+force-slug: alfa-battalion-1st-company-command-lance
 portrait: charon-kresek.gif
 ---
 

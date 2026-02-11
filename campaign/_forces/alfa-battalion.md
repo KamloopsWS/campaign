@@ -1,8 +1,8 @@
 ---
 layout: force
-title: 1st Company
-order: 3
-slug: n1st-company
+title: Alfa Battalion
+order: 15
+slug: alfa-battalion
 parent-name: 
 parent-slug: pettersons-pistolleros-temp-hires
 ---
