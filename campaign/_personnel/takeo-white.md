@@ -11,7 +11,8 @@ role-name: Vehicle Crew Ground
 origin-faction: DC
 origin-planet: Marshdale
 age: 18
-skill-list: Gunnery/Vehicle,Piloting/Ground Vehicle,Small Arms,Streetwise/Any
+skill-list: [{"name": "Gunnery/Vehicle", "level": 2, "bonus": 0}, {"name": "Piloting/Ground Vehicle", "level": 3, "bonus": 0}, {"name": "Small Arms", "level": 2, "bonus": 0}, {"name": "Streetwise/Any", "level": 1, "bonus": 0}]
+skill-count: 4
 rank-number: 0
 unit: Flatbed Truck 
 unit-id: 03f03ac5-fbe5-4f12-83af-573c58c1d956

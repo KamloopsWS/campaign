@@ -11,7 +11,8 @@ role-name: Vehicle Crew Ground
 origin-faction: GV
 origin-planet: Botany Bay
 age: 26
-skill-list: Gunnery/Vehicle,Interest/Pop-Culture,Piloting/Ground Vehicle,Science/Psychology,Small Arms
+skill-list: [{"name": "Gunnery/Vehicle", "level": 2, "bonus": 0}, {"name": "Interest/Pop-Culture", "level": 1, "bonus": 0}, {"name": "Piloting/Ground Vehicle", "level": 2, "bonus": 0}, {"name": "Science/Psychology", "level": 1, "bonus": 0}, {"name": "Small Arms", "level": 3, "bonus": 0}]
+skill-count: 5
 rank-number: 0
 unit: Flatbed Truck 
 unit-id: 9dd1ade8-3192-4541-84d1-c88b54194d18

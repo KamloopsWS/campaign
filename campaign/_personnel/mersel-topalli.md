@@ -13,7 +13,8 @@ skill-detail: 6+
 origin-faction: GV
 origin-planet: Erewhon
 age: 20
-skill-list: Tech/Mek
+skill-list: [{"name": "Tech/Mek", "level": 3, "bonus": 0}]
+skill-count: 1
 rank-number: 0
 slug: mersel-topalli
 portrait: mersel-topalli.png

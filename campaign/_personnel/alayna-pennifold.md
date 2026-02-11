@@ -13,7 +13,8 @@ skill-detail: 4+
 origin-faction: IND
 origin-planet: Star's End (Novo Cressidas)
 age: 33
-skill-list: Escape Artist,Sleight of Hand/Any,Tech/Mechanic
+skill-list: [{"name": "Escape Artist", "level": 1, "bonus": 0}, {"name": "Sleight of Hand/Any", "level": 2, "bonus": 0}, {"name": "Tech/Mechanic", "level": 5, "bonus": 0}]
+skill-count: 3
 rank-number: 0
 slug: alayna-pennifold
 portrait: alayna-pennifold.png

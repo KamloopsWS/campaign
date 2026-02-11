@@ -13,7 +13,8 @@ skill-detail: 6+
 origin-faction: LA
 origin-planet: Fatima
 age: 25
-skill-list: Career/Any,Interest/Archeology,Interrogation,Streetwise/Any,Survival/Any,Tech/Mechanic
+skill-list: [{"name": "Career/Any", "level": 1, "bonus": 0}, {"name": "Interest/Archeology", "level": 1, "bonus": 0}, {"name": "Interrogation", "level": 1, "bonus": 0}, {"name": "Streetwise/Any", "level": 1, "bonus": 0}, {"name": "Survival/Any", "level": 2, "bonus": 0}, {"name": "Tech/Mechanic", "level": 3, "bonus": 0}]
+skill-count: 6
 rank-number: 0
 slug: oria-ferrara
 portrait: oria-ferrara.png

@@ -11,7 +11,8 @@ role-name: Vehicle Crew Ground
 origin-faction: GV
 origin-planet: Gotterdammerung
 age: 23
-skill-list: Acrobatics,Career/Any,Cryptography,Gunnery/Vehicle,Piloting/Ground Vehicle,Survival/Any
+skill-list: [{"name": "Acrobatics", "level": 1, "bonus": 0}, {"name": "Career/Any", "level": 1, "bonus": 0}, {"name": "Cryptography", "level": 2, "bonus": 0}, {"name": "Gunnery/Vehicle", "level": 4, "bonus": 0}, {"name": "Piloting/Ground Vehicle", "level": 3, "bonus": 0}, {"name": "Survival/Any", "level": 1, "bonus": 0}]
+skill-count: 6
 rank-number: 0
 unit: MASH Truck 
 unit-id: 57cbf421-d964-4686-af55-c26279f7ba55

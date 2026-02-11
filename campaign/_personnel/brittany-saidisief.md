@@ -13,7 +13,8 @@ skill-detail: 5+
 origin-faction: LA
 origin-planet: Summit
 age: 20
-skill-list: Career/Any,Small Arms,Survival/Any
+skill-list: [{"name": "Career/Any", "level": 1, "bonus": 0}, {"name": "Small Arms", "level": 2, "bonus": 0}, {"name": "Survival/Any", "level": 1, "bonus": 0}]
+skill-count: 3
 rank-number: 0
 unit: Foot Platoon (Rifle)
 unit-id: f12bda79-1205-4860-a555-bed8f4fdca9b

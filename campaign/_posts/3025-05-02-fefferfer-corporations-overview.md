@@ -22,7 +22,7 @@ categories: fiction, fefferfer
 - **Tempest Metal Works** (megacorp)
   - The mega-corp of Fefferfer.
   - Subsidiaries:
-    - **Keen Petrochem  **            
+    - **Keen Petrochem**            
         - Conventional engines...
     - **Odin Optics Inc.**            
         - Lasers and optics...

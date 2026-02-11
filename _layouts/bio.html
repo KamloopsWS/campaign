@@ -60,9 +60,16 @@
               <dt class="col-sm-2 mb-0 pl-0">EXP #: </dt>
               <dd class="col-sm-10 mb-0 pl-0">{{page.xp}}</dd>
             {% endif %}
-            {% if page.skill-list %}
+            {% if page.skill-count and page.skill-count > 0 %}
                 <dt class="col-sm-2 mb-0 pl-0">Skills: </dt>
-                <dd class="col-sm-10 mb-0 pl-0">{{page.skill-list | replace: ',', '<br/>'}}</dd>
+                
+                <dd class="col-sm-10 mb-0 pl-0">
+                {% assign skill_list_json = page.skill-list | parse_json %}
+                {% for skill in skill_list_json %}
+                  {{ skill.name }}<br/>
+                {% endfor %}
+                </dd>
+
               {% endif %}
             </dl>
         </div>
@@ -105,6 +112,27 @@
                 {% if kill.scenarioName != '' %}
                   <li>Scenario: {{ kill.scenarioName }}</li>
                 {% endif %}
+              </ul>
+            </li>
+          {% endfor %}
+          </ul>
+        </div>
+        </div>
+      </div>
+      <hr>
+      {% endif %}
+
+      {% if page.medical-count %}
+      <div class="row">
+        <div class="col">
+          <div class="container">
+          <h3>Medical Log</h3>
+          <ul class="mb-0 pl-4">
+          {% assign medical_list_json = page.medical-list | parse_json %}
+          {% for medLog in medical_list_json %}
+            <li><strong>"{{ medLog.desc }}"</strong>
+              <ul>
+                <li>Date: {{ medLog.date }}</li>
               </ul>
             </li>
           {% endfor %}

@@ -11,7 +11,8 @@ role-name: Vehicle Crew Ground
 origin-faction: MERC
 origin-planet: Nox
 age: 21
-skill-list: Cryptography,Gunnery/Vehicle,Interest/Holo-Cinema,Interrogation,Piloting/Ground Vehicle,Small Arms
+skill-list: [{"name": "Cryptography", "level": 1, "bonus": 0}, {"name": "Gunnery/Vehicle", "level": 2, "bonus": 0}, {"name": "Interest/Holo-Cinema", "level": 1, "bonus": 0}, {"name": "Interrogation", "level": 1, "bonus": 0}, {"name": "Piloting/Ground Vehicle", "level": 2, "bonus": 0}, {"name": "Small Arms", "level": 1, "bonus": 0}]
+skill-count: 6
 rank-number: 0
 unit: Flatbed Truck 
 unit-id: 4eb341be-846d-4987-9de9-55480e2f5131

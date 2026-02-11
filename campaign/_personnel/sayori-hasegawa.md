@@ -13,7 +13,8 @@ skill-detail: 6+
 origin-faction: LA
 origin-planet: Accrington
 age: 19
-skill-list: Animal Handling,Streetwise/Any,Tech/Mek
+skill-list: [{"name": "Animal Handling", "level": 2, "bonus": 0}, {"name": "Streetwise/Any", "level": 2, "bonus": 0}, {"name": "Tech/Mek", "level": 3, "bonus": 0}]
+skill-count: 3
 rank-number: 0
 slug: sayori-hasegawa
 portrait: sayori-hasegawa.png

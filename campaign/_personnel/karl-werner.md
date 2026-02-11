@@ -16,7 +16,8 @@ award-list: [{"date": "3034-05-01", "name": "Combat Action", "set": "standard"}]
 origin-faction: LA
 origin-planet: Tharkad
 age: 35
-skill-list: Acting,Art/Poetry,Demolitions,Disguise,Escape Artist,Forgery,Gunnery/Mek,Language/Any,Piloting/Mek,Sleight of Hand/Any,Small Arms,Stealth,Zero-G Operations
+skill-list: [{"name": "Acting", "level": 2, "bonus": 0}, {"name": "Art/Poetry", "level": 2, "bonus": 0}, {"name": "Demolitions", "level": 2, "bonus": 0}, {"name": "Disguise", "level": 2, "bonus": 0}, {"name": "Escape Artist", "level": 2, "bonus": 0}, {"name": "Forgery", "level": 2, "bonus": 0}, {"name": "Gunnery/Mek", "level": 4, "bonus": 0}, {"name": "Language/Any", "level": 2, "bonus": 0}, {"name": "Piloting/Mek", "level": 3, "bonus": 0}, {"name": "Sleight of Hand/Any", "level": 2, "bonus": 0}, {"name": "Small Arms", "level": 2, "bonus": 0}, {"name": "Stealth", "level": 2, "bonus": 0}, {"name": "Zero-G Operations", "level": 2, "bonus": 0}]
+skill-count: 13
 rank-number: 0
 unit: Griffin GRF-1S
 unit-id: d249a5dc-163f-4c9c-8a8d-ef74af9af3bb

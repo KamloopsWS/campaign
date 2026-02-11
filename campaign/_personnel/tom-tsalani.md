@@ -13,7 +13,8 @@ skill-detail: 3+
 origin-faction: IND
 origin-planet: Erin
 age: 34
-skill-list: Animal Handling,Disguise,Small Arms,Strategy
+skill-list: [{"name": "Animal Handling", "level": 1, "bonus": 0}, {"name": "Disguise", "level": 2, "bonus": 0}, {"name": "Small Arms", "level": 4, "bonus": 0}, {"name": "Strategy", "level": 1, "bonus": 0}]
+skill-count: 4
 rank-number: 0
 unit: Foot Platoon (Rifle)
 unit-id: f12bda79-1205-4860-a555-bed8f4fdca9b

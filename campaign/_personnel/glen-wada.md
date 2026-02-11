@@ -11,7 +11,8 @@ role-name: Vehicle Crew Ground
 origin-faction: MERC
 origin-planet: Halesowen
 age: 16
-skill-list: Gunnery/Vehicle,Language/Any,Piloting/Ground Vehicle,Protocols/Any,Small Arms,Survival/Any
+skill-list: [{"name": "Gunnery/Vehicle", "level": 1, "bonus": 0}, {"name": "Language/Any", "level": 1, "bonus": 0}, {"name": "Piloting/Ground Vehicle", "level": 1, "bonus": 0}, {"name": "Protocols/Any", "level": 1, "bonus": 0}, {"name": "Small Arms", "level": 1, "bonus": 0}, {"name": "Survival/Any", "level": 1, "bonus": 0}]
+skill-count: 6
 rank-number: 0
 unit: BattleMech Recovery Vehicle 
 unit-id: 4bcd2b1a-f144-4932-962b-4d792daa1025

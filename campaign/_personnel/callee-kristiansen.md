@@ -13,7 +13,8 @@ skill-detail: 4+
 origin-faction: DC
 origin-planet: Hyner
 age: 33
-skill-list: Science/Military,Small Arms,Survival/Any
+skill-list: [{"name": "Science/Military", "level": 1, "bonus": 0}, {"name": "Small Arms", "level": 3, "bonus": 0}, {"name": "Survival/Any", "level": 2, "bonus": 0}]
+skill-count: 3
 rank-number: 0
 unit: Foot Platoon (Rifle)
 unit-id: f12bda79-1205-4860-a555-bed8f4fdca9b

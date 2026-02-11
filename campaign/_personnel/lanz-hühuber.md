@@ -13,7 +13,8 @@ skill-detail: 7+
 origin-faction: DC
 origin-planet: Pesht
 age: 21
-skill-list: Acrobatics,Tech/Mechanic
+skill-list: [{"name": "Acrobatics", "level": 2, "bonus": 0}, {"name": "Tech/Mechanic", "level": 2, "bonus": 0}]
+skill-count: 2
 rank-number: 0
 slug: lanz-hühuber
 portrait: lanz-hühuber.png

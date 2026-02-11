@@ -13,7 +13,8 @@ skill-detail: 4+
 origin-faction: MERC
 origin-planet: Otho
 age: 29
-skill-list: Administration,Interest/Philosophy,Negotiation,Protocols/Any,Streetwise/Any
+skill-list: [{"name": "Administration", "level": 4, "bonus": 0}, {"name": "Interest/Philosophy", "level": 1, "bonus": 0}, {"name": "Negotiation", "level": 2, "bonus": 0}, {"name": "Protocols/Any", "level": 1, "bonus": 0}, {"name": "Streetwise/Any", "level": 1, "bonus": 0}]
+skill-count: 5
 rank-number: 0
 slug: hedvig-pfeil
 portrait: hedvig-pfeil.png

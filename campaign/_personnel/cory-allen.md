@@ -11,7 +11,8 @@ role-name: Vehicle Crew Ground
 origin-faction: DC
 origin-planet: Mersa Matruh
 age: 30
-skill-list: Gunnery/Vehicle,Interrogation,Language/Any,Piloting/Ground Vehicle,Piloting/Naval
+skill-list: [{"name": "Gunnery/Vehicle", "level": 3, "bonus": 0}, {"name": "Interrogation", "level": 1, "bonus": 0}, {"name": "Language/Any", "level": 1, "bonus": 0}, {"name": "Piloting/Ground Vehicle", "level": 4, "bonus": 0}, {"name": "Piloting/Naval", "level": 2, "bonus": 0}]
+skill-count: 5
 rank-number: 0
 unit: BattleMech Recovery Vehicle 
 unit-id: ab45eae0-03ce-4273-a88b-7606d30c59cb

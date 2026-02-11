@@ -11,7 +11,8 @@ role-name: Vehicle Crew Ground
 origin-faction: DC
 origin-planet: Ogano
 age: 32
-skill-list: Acrobatics,Animal Handling,Gunnery/Vehicle,Piloting/Ground Vehicle,Small Arms
+skill-list: [{"name": "Acrobatics", "level": 2, "bonus": 0}, {"name": "Animal Handling", "level": 1, "bonus": 0}, {"name": "Gunnery/Vehicle", "level": 3, "bonus": 0}, {"name": "Piloting/Ground Vehicle", "level": 3, "bonus": 0}, {"name": "Small Arms", "level": 2, "bonus": 0}]
+skill-count: 5
 rank-number: 0
 unit: BattleMech Recovery Vehicle 
 unit-id: 24e75c8f-e0e4-41e0-ab0e-ad16f099d071

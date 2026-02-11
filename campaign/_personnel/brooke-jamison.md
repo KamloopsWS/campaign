@@ -12,7 +12,8 @@ callsign: Jam
 origin-faction: MERC
 origin-planet: Gahral
 age: 28
-skill-list: Surgery/Any
+skill-list: [{"name": "Surgery/Any", "level": 4, "bonus": 0}]
+skill-count: 1
 rank-number: 0
 slug: brooke-jamison
 portrait: brooke-jamison.png

@@ -13,7 +13,8 @@ skill-detail: 4+
 origin-faction: DC
 origin-planet: Ebensburg
 age: 32
-skill-list: Computers,Science/Xenobiology,Sensor Operations,Small Arms,Swimming
+skill-list: [{"name": "Computers", "level": 1, "bonus": 0}, {"name": "Science/Xenobiology", "level": 1, "bonus": 0}, {"name": "Sensor Operations", "level": 1, "bonus": 0}, {"name": "Small Arms", "level": 3, "bonus": 0}, {"name": "Swimming", "level": 1, "bonus": 0}]
+skill-count: 5
 rank-number: 0
 unit: Foot Platoon (Rifle)
 unit-id: f12bda79-1205-4860-a555-bed8f4fdca9b

@@ -13,7 +13,8 @@ skill-detail: 5+
 origin-faction: MERC
 origin-planet: Crimond
 age: 20
-skill-list: Computers,Cryptography,Protocols/Any,Tech/Mek
+skill-list: [{"name": "Computers", "level": 1, "bonus": 0}, {"name": "Cryptography", "level": 1, "bonus": 0}, {"name": "Protocols/Any", "level": 1, "bonus": 0}, {"name": "Tech/Mek", "level": 4, "bonus": 0}]
+skill-count: 4
 rank-number: 0
 slug: annabla-odaal
 portrait: annabla-odaal.png

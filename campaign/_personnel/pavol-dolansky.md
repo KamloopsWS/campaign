@@ -13,7 +13,8 @@ skill-detail: 3+
 origin-faction: GV
 origin-planet: Gotterdammerung
 age: 41
-skill-list: Leadership,Protocols/Any,Small Arms,Streetwise/Any,Survival/Any,Tactics/Any
+skill-list: [{"name": "Leadership", "level": 1, "bonus": 0}, {"name": "Protocols/Any", "level": 2, "bonus": 0}, {"name": "Small Arms", "level": 4, "bonus": 0}, {"name": "Streetwise/Any", "level": 1, "bonus": 0}, {"name": "Survival/Any", "level": 1, "bonus": 0}, {"name": "Tactics/Any", "level": 1, "bonus": 0}]
+skill-count: 6
 rank-number: 0
 unit: Foot Platoon (Rifle)
 unit-id: f12bda79-1205-4860-a555-bed8f4fdca9b

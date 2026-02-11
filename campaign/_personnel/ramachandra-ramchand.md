@@ -11,7 +11,8 @@ role-name: Vehicle Crew Ground
 origin-faction: GV
 origin-planet: Lackhove
 age: 23
-skill-list: Gunnery/Vehicle,Language/Any,Piloting/Ground Vehicle,Running
+skill-list: [{"name": "Gunnery/Vehicle", "level": 5, "bonus": 0}, {"name": "Language/Any", "level": 1, "bonus": 0}, {"name": "Piloting/Ground Vehicle", "level": 3, "bonus": 0}, {"name": "Running", "level": 1, "bonus": 0}]
+skill-count: 4
 rank-number: 0
 unit: MASH Truck 
 unit-id: 57cbf421-d964-4686-af55-c26279f7ba55

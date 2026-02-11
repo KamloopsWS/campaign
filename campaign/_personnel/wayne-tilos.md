@@ -11,7 +11,8 @@ role-name: Vehicle Crew Ground
 origin-faction: IND
 origin-planet: Star's End (Novo Cressidas)
 age: 24
-skill-list: Astech,Gunnery/Vehicle,Piloting/Ground Vehicle,Protocols/Any,Small Arms,Streetwise/Any,Survival/Any
+skill-list: [{"name": "Astech", "level": 3, "bonus": 0}, {"name": "Gunnery/Vehicle", "level": 4, "bonus": 0}, {"name": "Piloting/Ground Vehicle", "level": 3, "bonus": 0}, {"name": "Protocols/Any", "level": 2, "bonus": 0}, {"name": "Small Arms", "level": 3, "bonus": 0}, {"name": "Streetwise/Any", "level": 1, "bonus": 0}, {"name": "Survival/Any", "level": 1, "bonus": 0}]
+skill-count: 7
 rank-number: 0
 unit: MASH Truck 
 unit-id: 57cbf421-d964-4686-af55-c26279f7ba55

@@ -13,7 +13,8 @@ skill-detail: 8+
 origin-faction: MERC
 origin-planet: Stapelfeld
 age: 20
-skill-list: Investigation,Protocols/Any,Tech/Mechanic
+skill-list: [{"name": "Investigation", "level": 1, "bonus": 0}, {"name": "Protocols/Any", "level": 1, "bonus": 0}, {"name": "Tech/Mechanic", "level": 1, "bonus": 0}]
+skill-count: 3
 rank-number: 0
 slug: bernadett-senderovits
 portrait: bernadett-senderovits.png

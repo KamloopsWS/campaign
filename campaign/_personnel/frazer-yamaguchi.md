@@ -13,7 +13,8 @@ skill-detail: 3+
 origin-faction: IND
 origin-planet: Theta Carinae Cluster
 age: 29
-skill-list: Art/Writing,Forgery,Interest/Exotic Animals,Perception,Running,Small Arms,Zero-G Operations
+skill-list: [{"name": "Art/Writing", "level": 1, "bonus": 0}, {"name": "Forgery", "level": 2, "bonus": 0}, {"name": "Interest/Exotic Animals", "level": 2, "bonus": 0}, {"name": "Perception", "level": 1, "bonus": 0}, {"name": "Running", "level": 1, "bonus": 0}, {"name": "Small Arms", "level": 4, "bonus": 0}, {"name": "Zero-G Operations", "level": 2, "bonus": 0}]
+skill-count: 7
 rank-number: 0
 unit: Foot Platoon (Rifle)
 unit-id: f12bda79-1205-4860-a555-bed8f4fdca9b

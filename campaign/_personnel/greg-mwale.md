@@ -11,7 +11,8 @@ role-name: Vehicle Crew Ground
 origin-faction: MERC
 origin-planet: Planting
 age: 48
-skill-list: Appraisal,Art/Singing,Computers,Cryptography,Gunnery/Vehicle,Perception,Piloting/Ground Vehicle,Security Systems/Electronic,Small Arms
+skill-list: [{"name": "Appraisal", "level": 1, "bonus": 0}, {"name": "Art/Singing", "level": 1, "bonus": 0}, {"name": "Computers", "level": 1, "bonus": 0}, {"name": "Cryptography", "level": 1, "bonus": 0}, {"name": "Gunnery/Vehicle", "level": 5, "bonus": 0}, {"name": "Perception", "level": 2, "bonus": 0}, {"name": "Piloting/Ground Vehicle", "level": 6, "bonus": 0}, {"name": "Security Systems/Electronic", "level": 1, "bonus": 0}, {"name": "Small Arms", "level": 3, "bonus": 0}]
+skill-count: 9
 rank-number: 0
 unit: Sherpa Armored Truck (Mobile Canteen)
 unit-id: 6c8f1ef1-41d9-4fcf-a925-8e7cbd6a1bd0

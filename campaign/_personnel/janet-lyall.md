@@ -13,7 +13,8 @@ skill-detail: 5+
 origin-faction: LA
 origin-planet: Barcelona
 age: 31
-skill-list: Animal Handling,Career/Any,Interest/Holo-Games,MedTech/Any,Protocols/Any,Sensor Operations,Survival/Any,Tech/Mechanic
+skill-list: [{"name": "Animal Handling", "level": 2, "bonus": 0}, {"name": "Career/Any", "level": 1, "bonus": 0}, {"name": "Interest/Holo-Games", "level": 1, "bonus": 0}, {"name": "MedTech/Any", "level": 1, "bonus": 0}, {"name": "Protocols/Any", "level": 1, "bonus": 0}, {"name": "Sensor Operations", "level": 1, "bonus": 0}, {"name": "Survival/Any", "level": 2, "bonus": 0}, {"name": "Tech/Mechanic", "level": 4, "bonus": 0}]
+skill-count: 8
 rank-number: 0
 slug: janet-lyall
 portrait: janet-lyall.png

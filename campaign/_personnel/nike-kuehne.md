@@ -13,7 +13,8 @@ skill-detail: 4+
 origin-faction: GV
 origin-planet: Gotterdammerung
 age: 25
-skill-list: Investigation,Small Arms,Swimming
+skill-list: [{"name": "Investigation", "level": 1, "bonus": 0}, {"name": "Small Arms", "level": 3, "bonus": 0}, {"name": "Swimming", "level": 2, "bonus": 0}]
+skill-count: 3
 rank-number: 0
 unit: Foot Platoon (Rifle)
 unit-id: f12bda79-1205-4860-a555-bed8f4fdca9b

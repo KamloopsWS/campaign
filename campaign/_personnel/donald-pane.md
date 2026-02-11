@@ -13,7 +13,8 @@ skill-detail: 3+
 origin-faction: IND
 origin-planet: Santander V (Santander's World)
 age: 34
-skill-list: Acrobatics,Animal Handling,Investigation,Leadership,Sensor Operations,Sleight of Hand/Any,Small Arms,Strategy
+skill-list: [{"name": "Acrobatics", "level": 1, "bonus": 0}, {"name": "Animal Handling", "level": 1, "bonus": 0}, {"name": "Investigation", "level": 1, "bonus": 0}, {"name": "Leadership", "level": 1, "bonus": 0}, {"name": "Sensor Operations", "level": 1, "bonus": 0}, {"name": "Sleight of Hand/Any", "level": 1, "bonus": 0}, {"name": "Small Arms", "level": 4, "bonus": 0}, {"name": "Strategy", "level": 1, "bonus": 0}]
+skill-count: 8
 rank-number: 0
 unit: Foot Platoon (Rifle)
 unit-id: f12bda79-1205-4860-a555-bed8f4fdca9b

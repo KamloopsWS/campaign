@@ -11,7 +11,8 @@ role-name: Vehicle Crew Ground
 origin-faction: IND
 origin-planet: Star's End (Novo Cressidas)
 age: 23
-skill-list: Art/Writing,Gunnery/Vehicle,Piloting/Ground Vehicle
+skill-list: [{"name": "Art/Writing", "level": 1, "bonus": 0}, {"name": "Gunnery/Vehicle", "level": 4, "bonus": 0}, {"name": "Piloting/Ground Vehicle", "level": 2, "bonus": 0}]
+skill-count: 3
 rank-number: 0
 unit: BattleMech Recovery Vehicle 
 unit-id: 24e75c8f-e0e4-41e0-ab0e-ad16f099d071

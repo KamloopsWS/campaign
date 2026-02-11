@@ -11,7 +11,8 @@ role-name: Vehicle Crew Ground
 origin-faction: LA
 origin-planet: Waldorff
 age: 23
-skill-list: Gunnery/Vehicle,Interest/Pop-Culture,Piloting/Ground Vehicle,Sleight of Hand/Any,Small Arms,Streetwise/Any,Survival/Any
+skill-list: [{"name": "Gunnery/Vehicle", "level": 4, "bonus": 0}, {"name": "Interest/Pop-Culture", "level": 1, "bonus": 0}, {"name": "Piloting/Ground Vehicle", "level": 3, "bonus": 0}, {"name": "Sleight of Hand/Any", "level": 2, "bonus": 0}, {"name": "Small Arms", "level": 2, "bonus": 0}, {"name": "Streetwise/Any", "level": 2, "bonus": 0}, {"name": "Survival/Any", "level": 2, "bonus": 0}]
+skill-count: 7
 rank-number: 0
 unit: BattleMech Recovery Vehicle 
 unit-id: ab45eae0-03ce-4273-a88b-7606d30c59cb

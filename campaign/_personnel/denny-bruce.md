@@ -13,7 +13,8 @@ skill-detail: 6+
 origin-faction: MERC
 origin-planet: Macksburg
 age: 27
-skill-list: Gunnery/ProtoMek,Protocols/Any,Security Systems/Mechanical,Tech/Mechanic
+skill-list: [{"name": "Gunnery/ProtoMek", "level": 3, "bonus": 0}, {"name": "Protocols/Any", "level": 2, "bonus": 0}, {"name": "Security Systems/Mechanical", "level": 1, "bonus": 0}, {"name": "Tech/Mechanic", "level": 3, "bonus": 0}]
+skill-count: 4
 rank-number: 0
 slug: denny-bruce
 portrait: denny-bruce.png

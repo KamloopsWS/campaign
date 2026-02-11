@@ -13,7 +13,8 @@ skill-detail: 6+
 origin-faction: MERC
 origin-planet: Quarell
 age: 39
-skill-list: Perception,Protocols/Any,Tech/Mechanic
+skill-list: [{"name": "Perception", "level": 1, "bonus": 0}, {"name": "Protocols/Any", "level": 1, "bonus": 0}, {"name": "Tech/Mechanic", "level": 3, "bonus": 0}]
+skill-count: 3
 rank-number: 0
 slug: carleton-weir
 portrait: carleton-weir.png

@@ -13,7 +13,8 @@ skill-detail: 4+
 origin-faction: DC
 origin-planet: Aix-la-Chapelle
 age: 32
-skill-list: Interrogation,Science/Genetics,Tech/Mechanic
+skill-list: [{"name": "Interrogation", "level": 1, "bonus": 0}, {"name": "Science/Genetics", "level": 1, "bonus": 0}, {"name": "Tech/Mechanic", "level": 5, "bonus": 0}]
+skill-count: 3
 rank-number: 0
 slug: lennard-feierabend
 portrait: lennard-feierabend.png

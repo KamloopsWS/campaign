@@ -13,7 +13,8 @@ skill-detail: 5+
 origin-faction: GV
 origin-planet: Lackhove
 age: 33
-skill-list: Acrobatics,Computers,Tech/Mechanic
+skill-list: [{"name": "Acrobatics", "level": 2, "bonus": 0}, {"name": "Computers", "level": 1, "bonus": 0}, {"name": "Tech/Mechanic", "level": 4, "bonus": 0}]
+skill-count: 3
 rank-number: 0
 slug: hannes-wittman
 portrait: hannes-wittman.png

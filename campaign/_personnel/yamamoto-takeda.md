@@ -18,7 +18,8 @@ award-list: [{"date": "3034-05-01", "name": "Combat Action", "set": "standard"}]
 origin-faction: DC
 origin-planet: Alshain
 age: 20
-skill-list: Computers,Gunnery/Mek,Interest/History,Interest/Military,Interest/Philosophy,Leadership,Martial Arts,Melee Weapons,Piloting/Mek,Science/Military,Small Arms,Strategy,Tactics/Any,Tech/Mek,Training
+skill-list: [{"name": "Computers", "level": 2, "bonus": 0}, {"name": "Gunnery/Mek", "level": 4, "bonus": 0}, {"name": "Interest/History", "level": 2, "bonus": 0}, {"name": "Interest/Military", "level": 2, "bonus": 0}, {"name": "Interest/Philosophy", "level": 2, "bonus": 0}, {"name": "Leadership", "level": 2, "bonus": 0}, {"name": "Martial Arts", "level": 2, "bonus": 0}, {"name": "Melee Weapons", "level": 2, "bonus": 0}, {"name": "Piloting/Mek", "level": 3, "bonus": 0}, {"name": "Science/Military", "level": 2, "bonus": 0}, {"name": "Small Arms", "level": 2, "bonus": 0}, {"name": "Strategy", "level": 2, "bonus": 0}, {"name": "Tactics/Any", "level": 2, "bonus": 0}, {"name": "Tech/Mek", "level": 2, "bonus": 0}, {"name": "Training", "level": 2, "bonus": 0}]
+skill-count: 15
 rank-number: 33
 rank-name: Lieutenant
 unit: Jenner JR7-F (Wind)

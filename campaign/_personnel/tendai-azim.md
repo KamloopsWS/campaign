@@ -11,7 +11,8 @@ role-name: Vehicle Crew Ground
 origin-faction: MERC
 origin-planet: Romulus
 age: 17
-skill-list: Gunnery/Vehicle,Piloting/Ground Vehicle,Small Arms
+skill-list: [{"name": "Gunnery/Vehicle", "level": 1, "bonus": 0}, {"name": "Piloting/Ground Vehicle", "level": 1, "bonus": 0}, {"name": "Small Arms", "level": 1, "bonus": 0}]
+skill-count: 3
 rank-number: 0
 unit: Sherpa Armored Truck (Mobile Canteen)
 unit-id: 6c8f1ef1-41d9-4fcf-a925-8e7cbd6a1bd0

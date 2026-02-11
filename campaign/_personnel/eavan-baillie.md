@@ -16,7 +16,8 @@ kill-list: [{"date": "3034-05-13", "killer": "Mechbuster", "killed": "Locust LCT
 origin-faction: LA
 origin-planet: Persistence
 age: 20
-skill-list: Acrobatics,Gunnery/Aircraft,Interest/History,Piloting/Aircraft,Small Arms
+skill-list: [{"name": "Acrobatics", "level": 2, "bonus": 0}, {"name": "Gunnery/Aircraft", "level": 3, "bonus": 0}, {"name": "Interest/History", "level": 1, "bonus": 0}, {"name": "Piloting/Aircraft", "level": 3, "bonus": 0}, {"name": "Small Arms", "level": 3, "bonus": 0}]
+skill-count: 5
 rank-number: 0
 unit: Mechbuster 
 unit-id: 931895ab-f41b-4374-99ee-cd806d59d2d2

@@ -11,7 +11,8 @@ role-name: Vehicle Crew Ground
 origin-faction: DC
 origin-planet: Sulafat
 age: 23
-skill-list: Art/Other,Computers,Gunnery/Vehicle,Piloting/Ground Vehicle,Small Arms
+skill-list: [{"name": "Art/Other", "level": 1, "bonus": 0}, {"name": "Computers", "level": 1, "bonus": 0}, {"name": "Gunnery/Vehicle", "level": 4, "bonus": 0}, {"name": "Piloting/Ground Vehicle", "level": 3, "bonus": 0}, {"name": "Small Arms", "level": 2, "bonus": 0}]
+skill-count: 5
 rank-number: 0
 unit: Flatbed Truck 
 unit-id: 1e61539a-080f-487e-a42c-5cb9b3b7320d

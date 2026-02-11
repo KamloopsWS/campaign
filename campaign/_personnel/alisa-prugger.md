@@ -11,7 +11,8 @@ role-name: Vehicle Crew Ground
 origin-faction: MERC
 origin-planet: Engadin
 age: 31
-skill-list: Cryptography,Gunnery/Vehicle,Interrogation,Piloting/Ground Vehicle,Small Arms
+skill-list: [{"name": "Cryptography", "level": 1, "bonus": 0}, {"name": "Gunnery/Vehicle", "level": 4, "bonus": 0}, {"name": "Interrogation", "level": 1, "bonus": 0}, {"name": "Piloting/Ground Vehicle", "level": 3, "bonus": 0}, {"name": "Small Arms", "level": 3, "bonus": 0}]
+skill-count: 5
 rank-number: 0
 unit: BattleMech Recovery Vehicle 
 unit-id: ab45eae0-03ce-4273-a88b-7606d30c59cb

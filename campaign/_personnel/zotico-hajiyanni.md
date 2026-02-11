@@ -13,7 +13,8 @@ skill-detail: 5+
 origin-faction: IND
 origin-planet: Erin
 age: 18
-skill-list: Administration,Animal Handling,Career/Any,Negotiation,Swimming
+skill-list: [{"name": "Administration", "level": 3, "bonus": 0}, {"name": "Animal Handling", "level": 1, "bonus": 0}, {"name": "Career/Any", "level": 1, "bonus": 0}, {"name": "Negotiation", "level": 2, "bonus": 0}, {"name": "Swimming", "level": 1, "bonus": 0}]
+skill-count: 5
 rank-number: 0
 slug: zotico-hajiyanni
 portrait: zotico-hajiyanni.png

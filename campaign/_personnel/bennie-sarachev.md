@@ -13,7 +13,8 @@ skill-detail: 6+
 origin-faction: MERC
 origin-planet: Kiesen
 age: 28
-skill-list: Investigation,Language/Any,Science/Military,Tech/Mechanic,Tracking/Any
+skill-list: [{"name": "Investigation", "level": 1, "bonus": 0}, {"name": "Language/Any", "level": 1, "bonus": 0}, {"name": "Science/Military", "level": 1, "bonus": 0}, {"name": "Tech/Mechanic", "level": 3, "bonus": 0}, {"name": "Tracking/Any", "level": 1, "bonus": 0}]
+skill-count: 5
 rank-number: 0
 slug: bennie-sarachev
 portrait: bennie-sarachev.png

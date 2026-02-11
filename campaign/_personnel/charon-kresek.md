@@ -18,7 +18,8 @@ award-list: [{"date": "3034-05-01", "name": "Combat Action", "set": "standard"}]
 origin-faction: LA
 origin-planet: Tharkad
 age: 20
-skill-list: Gunnery/Mek,Interest/Military,Leadership,Negotiation,Perception,Piloting/Mek,Science/Military,Sensor Operations,Small Arms,Survival/Any,Swimming,Tech/Mek,Thrown Weapons
+skill-list: [{"name": "Gunnery/Mek", "level": 4, "bonus": 0}, {"name": "Interest/Military", "level": 2, "bonus": 0}, {"name": "Leadership", "level": 2, "bonus": 0}, {"name": "Negotiation", "level": 2, "bonus": 0}, {"name": "Perception", "level": 2, "bonus": 0}, {"name": "Piloting/Mek", "level": 3, "bonus": 0}, {"name": "Science/Military", "level": 2, "bonus": 0}, {"name": "Sensor Operations", "level": 2, "bonus": 0}, {"name": "Small Arms", "level": 2, "bonus": 0}, {"name": "Survival/Any", "level": 2, "bonus": 0}, {"name": "Swimming", "level": 2, "bonus": 0}, {"name": "Tech/Mek", "level": 2, "bonus": 0}, {"name": "Thrown Weapons", "level": 2, "bonus": 0}]
+skill-count: 13
 rank-number: 0
 unit: Gladiator GLD-4R (Kresek)
 unit-id: 10a053b9-33be-44c6-bc8b-eeacfc6a806b

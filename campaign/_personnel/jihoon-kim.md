@@ -11,7 +11,8 @@ role-name: Vehicle Crew Ground
 origin-faction: MERC
 origin-planet: Accrington
 age: 37
-skill-list: Art/Dancing,Gunnery/Vehicle,Piloting/Ground Vehicle,Science/Genetics,Sensor Operations,Small Arms,Strategy
+skill-list: [{"name": "Art/Dancing", "level": 1, "bonus": 0}, {"name": "Gunnery/Vehicle", "level": 5, "bonus": 0}, {"name": "Piloting/Ground Vehicle", "level": 4, "bonus": 0}, {"name": "Science/Genetics", "level": 1, "bonus": 0}, {"name": "Sensor Operations", "level": 2, "bonus": 0}, {"name": "Small Arms", "level": 2, "bonus": 0}, {"name": "Strategy", "level": 1, "bonus": 0}]
+skill-count: 7
 rank-number: 0
 unit: MASH Truck 
 unit-id: 57cbf421-d964-4686-af55-c26279f7ba55

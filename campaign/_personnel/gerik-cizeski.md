@@ -13,7 +13,8 @@ skill-detail: 8+
 origin-faction: GV
 origin-planet: Botany Bay
 age: 17
-skill-list: Small Arms,Tech/Mechanic
+skill-list: [{"name": "Small Arms", "level": 1, "bonus": 0}, {"name": "Tech/Mechanic", "level": 1, "bonus": 0}]
+skill-count: 2
 rank-number: 0
 slug: gerik-cizeski
 portrait: gerik-cizeski.png

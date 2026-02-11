@@ -13,7 +13,8 @@ skill-detail: 6+
 origin-faction: MERC
 origin-planet: Teniente
 age: 16
-skill-list: Protocols/Any,Science/Xenobiology,Small Arms
+skill-list: [{"name": "Protocols/Any", "level": 1, "bonus": 0}, {"name": "Science/Xenobiology", "level": 1, "bonus": 0}, {"name": "Small Arms", "level": 1, "bonus": 0}]
+skill-count: 3
 rank-number: 0
 unit: Foot Platoon (Rifle)
 unit-id: f12bda79-1205-4860-a555-bed8f4fdca9b
