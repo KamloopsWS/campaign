@@ -18,8 +18,8 @@ unit: Flatbed Truck
 unit-id: 1e61539a-080f-487e-a42c-5cb9b3b7320d
 unit-slug: flatbed-truck
 slug: joseph-khudiadadzai
-force: Support Battalion, Convoy Company, Convoy Lance 1
-force-slug: support-battalion-convoy-company-convoy-lance-1
+force: Support Battalion, Convoy Company, Ground Convoy Lance 1
+force-slug: support-battalion-convoy-company-ground-convoy-lance-1
 portrait: joseph-khudiadadzai.png
 ---
 

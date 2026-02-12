@@ -1,5 +1,5 @@
 <div class="accordion" id="accordion-{{include.parent_slug}}">
-  {% assign sortedForces = site.forces | sort: 'order' %}
+  {% assign sortedForces = site.forces | sort: 'name' %}
   {% for subforce in sortedForces %}
     {% if subforce.parent-slug == include.parent_slug %}
       <div class="card">

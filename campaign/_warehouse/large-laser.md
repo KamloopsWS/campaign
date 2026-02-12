@@ -5,7 +5,7 @@ name-full: Large Laser
 name-type: Large Laser
 con-size: 1.0
 con-equip-tonnage: 5.0
-con-unit-tonnage: 50
+con-unit-tonnage: 0
 flag-isclan: 
 inv-amount: 0
 inv-quality: 3

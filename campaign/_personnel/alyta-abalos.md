@@ -18,8 +18,8 @@ unit: Flatbed Truck
 unit-id: 62651df2-1592-43df-8971-081a44d094c6
 unit-slug: flatbed-truck
 slug: alyta-abalos
-force: Support Battalion, Convoy Company, Convoy Lance 1
-force-slug: support-battalion-convoy-company-convoy-lance-1
+force: Support Battalion, Convoy Company, Ground Convoy Lance 1
+force-slug: support-battalion-convoy-company-ground-convoy-lance-1
 portrait: alyta-abalos.png
 ---
 

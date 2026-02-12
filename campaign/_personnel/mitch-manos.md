@@ -12,7 +12,7 @@ skill-level: Green
 skill-detail: 5+
 origin-faction: IND
 origin-planet: Erin
-age: 19
+age: 20
 skill-list: [{"name": "Cryptography", "level": 1, "bonus": 0}, {"name": "Protocols/Any", "level": 1, "bonus": 0}, {"name": "Science/Other", "level": 1, "bonus": 0}, {"name": "Security Systems/Electronic", "level": 1, "bonus": 0}, {"name": "Small Arms", "level": 2, "bonus": 0}]
 skill-count: 5
 rank-number: 0

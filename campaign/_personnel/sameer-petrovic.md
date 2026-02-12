@@ -18,8 +18,8 @@ unit: Flatbed Truck
 unit-id: 4eb341be-846d-4987-9de9-55480e2f5131
 unit-slug: flatbed-truck
 slug: sameer-petrovic
-force: Support Battalion, Convoy Company, Convoy Lance 2
-force-slug: support-battalion-convoy-company-convoy-lance-2
+force: Support Battalion, Convoy Company, Ground Convoy Lance 2
+force-slug: support-battalion-convoy-company-ground-convoy-lance-2
 portrait: sameer-petrovic.png
 ---
 

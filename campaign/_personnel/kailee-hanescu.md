@@ -1,6 +1,6 @@
 ---
 layout: bio
-title: Kailee Hanescu
+title: Sergeant Kailee Hanescu
 name: Kailee Hanescu
 status: Active
 xp: 0
@@ -15,7 +15,8 @@ origin-planet: Erin
 age: 24
 skill-list: [{"name": "Animal Handling", "level": 2, "bonus": 0}, {"name": "Small Arms", "level": 4, "bonus": 0}]
 skill-count: 2
-rank-number: 0
+rank-number: 12
+rank-name: Sergeant
 unit: Foot Platoon (Rifle)
 unit-id: f12bda79-1205-4860-a555-bed8f4fdca9b
 unit-slug: foot-platoon-rifle

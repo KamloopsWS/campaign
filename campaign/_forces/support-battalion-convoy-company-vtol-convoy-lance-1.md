@@ -1,8 +1,8 @@
 ---
 layout: force
-title: Convoy Lance 2
-order: 13
-slug: support-battalion-convoy-company-convoy-lance-2
+title: VTOL Convoy Lance 1
+order: 17
+slug: support-battalion-convoy-company-vtol-convoy-lance-1
 parent-name: Support Battalion, Convoy Company
 parent-slug: support-battalion-convoy-company
 ---

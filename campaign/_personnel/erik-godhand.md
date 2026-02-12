@@ -15,8 +15,8 @@ kill-count: 2
 kill-list: [{"date": "3034-04-04", "killer": "Assasin ASN-TMW1", "killed": "Rifleman RFL-3N", "missionId": "1", "missionName": "Grumium Metals Long Term Assistance", "scenarioId": "2", "scenarioName": "Bad Lands Convoy Ambush 1"}, {"date": "3034-05-13", "killer": "Assassin ASN-TMW1", "killed": "Locust LCT-1L (Pirates)", "missionId": "1", "missionName": "Grumium Metals Long Term Assistance", "scenarioId": "4", "scenarioName": "Bad Lands Convoy Amush 2"}]
 award-count: 1
 award-list: [{"date": "3034-05-01", "name": "Combat Action", "set": "standard"}]
-medical-count: 5
-medical-list: [{"date": "3034-04-04", "desc": "Suffered the following new injuries:\n\t\tA fractured Chest", "type": "MEDICAL"}, {"date": "3034-04-05", "desc": "Brooke \"Jam\" Jamison successfully treated Fractured Chest", "type": "MEDICAL"}, {"date": "3034-04-06", "desc": "Fractured Chest healed", "type": "MEDICAL"}, {"date": "3034-04-06", "desc": "Got dismissed from the infirmary", "type": "MEDICAL"}, {"date": "3034-05-13", "desc": "Suffered the following new injuries:\n\t\tA fractured Right Foot", "type": "MEDICAL"}]
+medical-count: 6
+medical-list: [{"date": "3034-04-04", "desc": "Suffered the following new injuries:\n\t\tA fractured Chest", "type": "MEDICAL"}, {"date": "3034-04-05", "desc": "Brooke \"Jam\" Jamison successfully treated Fractured Chest", "type": "MEDICAL"}, {"date": "3034-04-06", "desc": "Got dismissed from the infirmary", "type": "MEDICAL"}, {"date": "3034-04-06", "desc": "Fractured Chest healed", "type": "MEDICAL"}, {"date": "3034-05-13", "desc": "Suffered the following new injuries:\n\t\tA fractured Right Foot", "type": "MEDICAL"}, {"date": "3034-05-15", "desc": "Fractured Right Foot took longer to heal than expected", "type": "MEDICAL"}]
 origin-faction: CS
 origin-planet: Rasalhague
 age: 20

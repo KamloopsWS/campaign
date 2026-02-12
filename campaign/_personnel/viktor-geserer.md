@@ -18,8 +18,8 @@ unit: Flatbed Truck
 unit-id: fdf2e4dc-3a2d-4cd7-a1b0-730ad4795846
 unit-slug: flatbed-truck
 slug: viktor-geserer
-force: Support Battalion, Convoy Company, Convoy Lance 1
-force-slug: support-battalion-convoy-company-convoy-lance-1
+force: Support Battalion, Convoy Company, Ground Convoy Lance 1
+force-slug: support-battalion-convoy-company-ground-convoy-lance-1
 portrait: viktor-geserer.png
 ---
 

@@ -12,7 +12,7 @@ skill-level: Veteran
 skill-detail: 3+
 origin-faction: MERC
 origin-planet: Orkney (LC)
-age: 28
+age: 29
 skill-list: [{"name": "Protocols/Any", "level": 1, "bonus": 0}, {"name": "Small Arms", "level": 4, "bonus": 0}, {"name": "Survival/Any", "level": 1, "bonus": 0}]
 skill-count: 3
 rank-number: 0

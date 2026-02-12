@@ -1,7 +1,7 @@
 ---
 layout: bio
-title: Lieutenant Yamamoto Takeda
-name: Yamamoto Takeda
+title: Lieutenant Yamato Takeda
+name: Yamato Takeda
 status: Active
 xp: 2
 edge-current: 1
@@ -25,10 +25,10 @@ rank-name: Lieutenant
 unit: Jenner JR7-F (Wind)
 unit-id: 4a0a0eb9-da75-4bee-9177-368f24d0c7a6
 unit-slug: jenner-jr7f-wind
-slug: yamamoto-takeda
+slug: yamato-takeda
 force: Alfa Battalion, 1st Company, Command Lance
 force-slug: alfa-battalion-1st-company-command-lance
-portrait: yamamoto-takeda.gif
+portrait: yamato-takeda.gif
 ---
 
 Kevin's character.

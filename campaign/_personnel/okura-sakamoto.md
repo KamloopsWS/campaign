@@ -18,8 +18,8 @@ unit: Flatbed Truck
 unit-id: 64a6b831-d41f-4fbd-a74a-a5a48df87014
 unit-slug: flatbed-truck
 slug: okura-sakamoto
-force: Support Battalion, Convoy Company, Convoy Lance 2
-force-slug: support-battalion-convoy-company-convoy-lance-2
+force: Support Battalion, Convoy Company, Ground Convoy Lance 2
+force-slug: support-battalion-convoy-company-ground-convoy-lance-2
 portrait: okura-sakamoto.png
 ---
 

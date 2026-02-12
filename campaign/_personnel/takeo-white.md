@@ -18,8 +18,8 @@ unit: Flatbed Truck
 unit-id: 03f03ac5-fbe5-4f12-83af-573c58c1d956
 unit-slug: flatbed-truck
 slug: takeo-white
-force: Support Battalion, Convoy Company, Convoy Lance 2
-force-slug: support-battalion-convoy-company-convoy-lance-2
+force: Support Battalion, Convoy Company, Ground Convoy Lance 2
+force-slug: support-battalion-convoy-company-ground-convoy-lance-2
 portrait: takeo-white.png
 ---
 

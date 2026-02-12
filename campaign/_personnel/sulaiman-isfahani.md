@@ -18,8 +18,8 @@ unit: Flatbed Truck
 unit-id: 824d28dd-0aef-4f7a-8569-25428c1922e5
 unit-slug: flatbed-truck
 slug: sulaiman-isfahani
-force: Support Battalion, Convoy Company, Convoy Lance 2
-force-slug: support-battalion-convoy-company-convoy-lance-2
+force: Support Battalion, Convoy Company, Ground Convoy Lance 2
+force-slug: support-battalion-convoy-company-ground-convoy-lance-2
 portrait: sulaiman-isfahani.png
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: bio
-title: Eavan Baillie
-name: Eavan Baillie
+title: Evan Baillie
+name: Evan Baillie
 status: Active
 xp: 2
 edge-current: 0
@@ -22,9 +22,9 @@ rank-number: 0
 unit: Mechbuster 
 unit-id: 931895ab-f41b-4374-99ee-cd806d59d2d2
 unit-slug: mechbuster
-slug: eavan-baillie
+slug: evan-baillie
 force: Alfa Battalion, Auxiliary Company, Hammer Flight
 force-slug: alfa-battalion-auxiliary-company-hammer-flight
-portrait: eavan-baillie.png
+portrait: evan-baillie.png
 ---
 
