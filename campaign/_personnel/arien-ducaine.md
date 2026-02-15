@@ -23,9 +23,9 @@ age: 20
 skill-list: [{"name": "Demolitions", "level": 3, "bonus": 0}, {"name": "Gunnery/Mek", "level": 4, "bonus": 0}, {"name": "Interest/Music", "level": 1, "bonus": 0}, {"name": "Martial Arts", "level": 3, "bonus": 0}, {"name": "Perception", "level": 3, "bonus": 0}, {"name": "Piloting/Mek", "level": 3, "bonus": 0}, {"name": "Small Arms", "level": 2, "bonus": 0}]
 skill-count: 7
 rank-number: 0
-unit: Wolverine WVR-6K
+unit: Wolverine WVR-6K (Iron)
 unit-id: a9bea610-370d-4361-bede-7aeff68f7842
-unit-slug: wolverine-wvr6k
+unit-slug: wolverine-wvr6k-iron
 slug: arien-ducaine
 force: Alfa Battalion, 1st Company, Fire Lance
 force-slug: alfa-battalion-1st-company-fire-lance

@@ -16,7 +16,7 @@ kill-list: [{"date": "3034-04-04", "killer": "Assasin ASN-TMW1", "killed": "Rifl
 award-count: 1
 award-list: [{"date": "3034-05-01", "name": "Combat Action", "set": "standard"}]
 medical-count: 6
-medical-list: [{"date": "3034-04-04", "desc": "Suffered the following new injuries:\n\t\tA fractured Chest", "type": "MEDICAL"}, {"date": "3034-04-05", "desc": "Brooke \"Jam\" Jamison successfully treated Fractured Chest", "type": "MEDICAL"}, {"date": "3034-04-06", "desc": "Got dismissed from the infirmary", "type": "MEDICAL"}, {"date": "3034-04-06", "desc": "Fractured Chest healed", "type": "MEDICAL"}, {"date": "3034-05-13", "desc": "Suffered the following new injuries:\n\t\tA fractured Right Foot", "type": "MEDICAL"}, {"date": "3034-05-15", "desc": "Fractured Right Foot took longer to heal than expected", "type": "MEDICAL"}]
+medical-list: [{"date": "3034-04-04", "desc": "Suffered the following new injuries:\n\t\tA fractured Chest", "type": "MEDICAL"}, {"date": "3034-04-05", "desc": "Brooke \"Jam\" Jamison successfully treated Fractured Chest", "type": "MEDICAL"}, {"date": "3034-04-06", "desc": "Fractured Chest healed", "type": "MEDICAL"}, {"date": "3034-04-06", "desc": "Got dismissed from the infirmary", "type": "MEDICAL"}, {"date": "3034-05-13", "desc": "Suffered the following new injuries:\n\t\tA fractured Right Foot", "type": "MEDICAL"}, {"date": "3034-05-15", "desc": "Fractured Right Foot took longer to heal than expected", "type": "MEDICAL"}]
 origin-faction: CS
 origin-planet: Rasalhague
 age: 20

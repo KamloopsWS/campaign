@@ -4,8 +4,8 @@ title: Evan Baillie
 name: Evan Baillie
 status: Active
 xp: 2
-edge-current: 0
-edge-total: 0
+edge-current: 1
+edge-total: 1
 role: CONVENTIONAL_AIRCRAFT_PILOT
 role-name: Conventional Fighter Pilot
 skill-level: Green
@@ -13,6 +13,8 @@ skill-detail: 5+
 callsign: Crater
 kill-count: 1
 kill-list: [{"date": "3034-05-13", "killer": "Mechbuster", "killed": "Locust LCT-3V (Pirates)", "missionId": "1", "missionName": "Grumium Metals Long Term Assistance", "scenarioId": "4", "scenarioName": "Bad Lands Convoy Amush 2"}]
+award-count: 1
+award-list: [{"date": "3034-06-01", "name": "Combat Action", "set": "standard"}]
 origin-faction: LA
 origin-planet: Persistence
 age: 20

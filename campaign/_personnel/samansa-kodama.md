@@ -8,6 +8,8 @@ edge-current: 0
 edge-total: 0
 role: VEHICLE_CREW_GROUND
 role-name: Vehicle Crew Ground
+award-count: 2
+award-list: [{"date": "3034-06-01", "name": "Marksmanship", "set": "standard"}, {"date": "3034-06-01", "name": "Expert Marksmanship", "set": "standard"}]
 origin-faction: GV
 origin-planet: Botany Bay
 age: 45

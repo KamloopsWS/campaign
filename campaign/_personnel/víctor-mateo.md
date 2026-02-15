@@ -8,6 +8,8 @@ edge-current: 0
 edge-total: 0
 role: VEHICLE_CREW_VTOL
 role-name: Vehicle Crew VTOL
+award-count: 1
+award-list: [{"date": "3034-06-01", "name": "Marksmanship", "set": "standard"}]
 origin-faction: GV
 origin-planet: Gotterdammerung
 age: 38

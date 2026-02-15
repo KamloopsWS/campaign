@@ -12,7 +12,7 @@ skill-level: Regular
 skill-detail: 4+
 origin-faction: DC
 origin-planet: Hyner
-age: 33
+age: 34
 skill-list: [{"name": "Science/Military", "level": 1, "bonus": 0}, {"name": "Small Arms", "level": 3, "bonus": 0}, {"name": "Survival/Any", "level": 2, "bonus": 0}]
 skill-count: 3
 rank-number: 0
