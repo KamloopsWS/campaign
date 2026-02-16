@@ -4,12 +4,16 @@ title: Sergeant Niel Røssland
 name: Niel Røssland
 status: Active
 xp: 0
-edge-current: 0
-edge-total: 0
+edge-current: 1
+edge-total: 1
 role: SOLDIER
 role-name: Soldier
 skill-level: Elite
 skill-detail: 2+
+kill-count: 1
+kill-list: [{"date": "3034-06-10", "killer": "Thumper Artillery", "killed": "Cicada CDA-3C", "missionId": "1", "missionName": "Grumium Metals Long Term Assistance", "scenarioId": "6", "scenarioName": "Coastal Port Defense 2"}]
+award-count: 1
+award-list: [{"date": "3034-06-10", "name": "Combat Action", "set": "standard"}]
 origin-faction: GV
 origin-planet: Gotterdammerung
 age: 39

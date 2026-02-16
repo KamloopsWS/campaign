@@ -13,4 +13,6 @@ The Lyran seperatists are still sending convoys through the hills west of the co
 
 ##### After-Action Report
 
-Salvaged (exchange) Locust LCT-1L, Locust LCT-3V, Wolfhound WLF-1B to exchange. 
+**Salvaged (exchange):** Locust LCT-1L, Locust LCT-3V, Wolfhound WLF-1B mechs. 
+
+~100K in exchange. 

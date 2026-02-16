@@ -10,7 +10,7 @@ role: CONVENTIONAL_AIRCRAFT_PILOT
 role-name: Conventional Fighter Pilot
 skill-level: Green
 skill-detail: 5+
-callsign: Crater
+callsign: Phoenix
 kill-count: 1
 kill-list: [{"date": "3034-05-13", "killer": "Mechbuster", "killed": "Locust LCT-3V (Pirates)", "missionId": "1", "missionName": "Grumium Metals Long Term Assistance", "scenarioId": "4", "scenarioName": "Bad Lands Convoy Amush 2"}]
 award-count: 1

@@ -13,6 +13,6 @@ Engage and destroy the convoy of Lyran seperatists that is moving supplies acros
 
 ##### After-Action Report
 
-Salvaged (exchange) Archer ARC-2R, Rifleman RFL-3N, and Zeus ZEU-6S to exchange.
+**Salvaged (exchange):** Archer ARC-2R, Rifleman RFL-3N, and Zeus ZEU-6S mechs.
 
-1.5 million in exchange. 
+~1.5 million in exchange. 

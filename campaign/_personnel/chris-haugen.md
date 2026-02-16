@@ -3,14 +3,18 @@ layout: bio
 title: Chris Haugen
 name: Chris Haugen
 status: Active
-xp: 0
-edge-current: 1
-edge-total: 1
+xp: 1
+edge-current: 2
+edge-total: 2
 role: MEKWARRIOR
 role-name: Mechwarrior
 skill-level: Regular
 skill-detail: 4/5
 callsign: Archie
+award-count: 1
+award-list: [{"date": "3034-06-10", "name": "Combat Action", "set": "standard"}]
+medical-count: 1
+medical-list: [{"date": "3034-06-10", "desc": "Suffered the following new injuries:\n\t\tLeft Elbow Fracture (Compound)", "type": "MEDICAL"}]
 origin-faction: MERC
 origin-planet: Galatea
 age: 30

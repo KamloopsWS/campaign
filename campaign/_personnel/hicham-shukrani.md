@@ -4,12 +4,14 @@ title: Sergeant Hicham Shukrani
 name: Hicham Shukrani
 status: Active
 xp: 0
-edge-current: 0
-edge-total: 0
+edge-current: 1
+edge-total: 1
 role: SOLDIER
 role-name: Soldier
 skill-level: Elite
 skill-detail: 2+
+award-count: 1
+award-list: [{"date": "3034-06-10", "name": "Combat Action", "set": "standard"}]
 origin-faction: DC
 origin-planet: Mersa Matruh
 age: 40

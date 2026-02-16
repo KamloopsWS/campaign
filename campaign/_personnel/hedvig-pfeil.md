@@ -3,7 +3,7 @@ layout: bio
 title: Hedvig Pfeil
 name: Hedvig Pfeil
 status: Active
-xp: 1
+xp: 3
 edge-current: 0
 edge-total: 0
 role: ADMINISTRATOR_COMMAND

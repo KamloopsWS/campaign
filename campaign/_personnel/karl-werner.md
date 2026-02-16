@@ -3,7 +3,7 @@ layout: bio
 title: Karl Werner
 name: Karl Werner
 status: Active
-xp: 2
+xp: 3
 edge-current: 1
 edge-total: 1
 role: MEKWARRIOR
@@ -11,6 +11,8 @@ role-name: Mechwarrior
 skill-level: Regular
 skill-detail: 4/5
 callsign: Hound
+kill-count: 1
+kill-list: [{"date": "3034-06-10", "killer": "Griffin GRF-1S (Werner)", "killed": "Charger CGR-1A9", "missionId": "1", "missionName": "Grumium Metals Long Term Assistance", "scenarioId": "6", "scenarioName": "Coastal Port Defense 2"}]
 award-count: 1
 award-list: [{"date": "3034-05-01", "name": "Combat Action", "set": "standard"}]
 origin-faction: LA

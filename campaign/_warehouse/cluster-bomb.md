@@ -9,8 +9,8 @@ con-unit-tonnage: 1
 flag-isclan: 
 inv-amount: 0
 inv-quality: 3
-inv-quantity: 9
-inv-shots: 25
+inv-quantity: 1
+inv-shots: 40
 type-attr-save: mekhq.campaign.parts.AmmoStorage
 type-attr-web: Ammo
 ---

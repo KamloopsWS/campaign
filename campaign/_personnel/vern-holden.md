@@ -3,7 +3,7 @@ layout: bio
 title: Vern Holden
 name: Vern Holden
 status: Active
-xp: 2
+xp: 3
 edge-current: 1
 edge-total: 1
 role: MEKWARRIOR
@@ -11,10 +11,12 @@ role-name: Mechwarrior
 skill-level: Regular
 skill-detail: 4/5
 callsign: Burgertime
-kill-count: 1
-kill-list: [{"date": "3034-05-05", "killer": "Hatchetman HCT-TMW2X (Sigurd)", "killed": "Orion ON1-K", "missionId": "1", "missionName": "Grumium Metals Long Term Assistance", "scenarioId": "3", "scenarioName": "Coastal Mountain Checkpoint"}]
+kill-count: 2
+kill-list: [{"date": "3034-05-05", "killer": "Hatchetman HCT-TMW2X (Sigurd)", "killed": "Orion ON1-K", "missionId": "1", "missionName": "Grumium Metals Long Term Assistance", "scenarioId": "3", "scenarioName": "Coastal Mountain Checkpoint"}, {"date": "3034-06-10", "killer": "Hatchetman HCT-TMW2X (Sigurd)", "killed": "Zeus ZEU-6T", "missionId": "1", "missionName": "Grumium Metals Long Term Assistance", "scenarioId": "5", "scenarioName": "Bad Lands Convoy Amush 3"}]
 award-count: 1
 award-list: [{"date": "3034-05-01", "name": "Combat Action", "set": "standard"}]
+medical-count: 1
+medical-list: [{"date": "3034-06-10", "desc": "Suffered the following new injuries:\n\t\tUpper Left Arm Fracture (Compound)", "type": "MEDICAL"}]
 origin-faction: LA
 origin-planet: Galatia III
 age: 21

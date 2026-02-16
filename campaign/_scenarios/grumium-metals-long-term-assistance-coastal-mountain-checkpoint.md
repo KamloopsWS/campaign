@@ -13,6 +13,8 @@ DCMS Ronin and their pirate allies have setup several highway checkpoints throug
 
 ##### After-Action Report
 
-Salvaged (exchange) Orion ON1-K, Ostwar OWR-2M, Thunderbolt TDR-5S, Warhammer WHM-6R to exchange.
+**Salvaged (exchange):** Orion ON1-K, Ostwar OWR-2M, Thunderbolt TDR-5S, Warhammer WHM-6R mechs.
 
-Captured Shadow Hawk SHD-2K while it was parked in a pirate maintenance gantry, and forged purchase papers to appear as if we purchased/owned the mech. 
+**Captured:** Shadow Hawk SHD-2K while it was parked in a pirate maintenance gantry, and forged purchase papers to appear as if we purchased/owned the mech. 
+
+~500K in exchange. 

@@ -3,7 +3,7 @@ layout: bio
 title: Prospero Pantani
 name: Prospero Pantani
 status: Active
-xp: 0
+xp: 1
 edge-current: 0
 edge-total: 0
 role: ADMINISTRATOR_TRANSPORT

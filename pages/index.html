@@ -13,10 +13,17 @@ permalink: /index.html
 {% if site.campaign_date %}
 {% assign campaignDateString = site.campaign_date %}
 <!-- <h4> -->
+<strong>Date: 
 <time datetime="{{ campaignDateString | date: '%Y-%m-%d' }}">
-  {{ campaignDateString | date: '%B %d, %Y' }}
+{{ campaignDateString | date: '%B %d, %Y' }}
 </time>
+</strong>
 <!-- </h4> -->
+{% endif %}
+
+{% if site.campaign_funds %}
+<br/>
+<strong>Funds: {{ site.campaign_funds }} C-Bills</strong>
 {% endif %}
 
 {% if site.toe_front_page %}

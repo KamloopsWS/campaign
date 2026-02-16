@@ -3,7 +3,7 @@ layout: bio
 title: Calvin Ignis
 name: Calvin Ignis
 status: Active
-xp: 2
+xp: 3
 edge-current: 1
 edge-total: 1
 role: MEKWARRIOR
@@ -11,10 +11,12 @@ role-name: Mechwarrior
 skill-level: Regular
 skill-detail: 4/5
 callsign: Swampy
-kill-count: 1
-kill-list: [{"date": "3034-04-04", "killer": "Blackjack BJ-1DB", "killed": "Blackjack BJ-1", "missionId": "1", "missionName": "Grumium Metals Long Term Assistance", "scenarioId": "1", "scenarioName": "Coastal Port Defense"}]
-award-count: 1
-award-list: [{"date": "3034-05-01", "name": "Combat Action", "set": "standard"}]
+kill-count: 2
+kill-list: [{"date": "3034-04-04", "killer": "Blackjack BJ-1DB", "killed": "Blackjack BJ-1", "missionId": "1", "missionName": "Grumium Metals Long Term Assistance", "scenarioId": "1", "scenarioName": "Coastal Port Defense"}, {"date": "3034-06-10", "killer": "Blackjack BG-1DB (Lucky Jack)", "killed": "Guillotine GLT-4P", "missionId": "1", "missionName": "Grumium Metals Long Term Assistance", "scenarioId": "6", "scenarioName": "Coastal Port Defense 2"}]
+award-count: 2
+award-list: [{"date": "3034-05-01", "name": "Combat Action", "set": "standard"}, {"date": "3034-06-10", "name": "Purple Heart", "set": "standard"}]
+medical-count: 4
+medical-list: [{"date": "3034-06-10", "desc": "Suffered the following new injuries:\n\t\tBurned Left Calf\n\t\tBurned Upper Right Arm\n\t\tLeft Wrist Fracture (Compound)\n\t\tLeft Foot Fracture\n\t\tRight Shoulder Fracture", "type": "MEDICAL"}, {"date": "3034-06-12", "desc": "Burned Upper Right Arm took longer to heal than expected", "type": "MEDICAL"}, {"date": "3034-06-14", "desc": "Burned Upper Right Arm took longer to heal than expected", "type": "MEDICAL"}, {"date": "3034-06-14", "desc": "Burned Left Calf took longer to heal than expected", "type": "MEDICAL"}]
 origin-faction: MERC
 origin-planet: Galatea
 age: 40
