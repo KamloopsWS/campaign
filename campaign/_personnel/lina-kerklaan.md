@@ -12,7 +12,7 @@ award-count: 1
 award-list: [{"date": "3034-06-01", "name": "Marksmanship", "set": "standard"}]
 origin-faction: LA
 origin-planet: Toland
-age: 19
+age: 20
 skill-list: [{"name": "Career/Any", "level": 1, "bonus": 0}, {"name": "Gunnery/Vehicle", "level": 5, "bonus": 0}, {"name": "Piloting/Ground Vehicle", "level": 4, "bonus": 0}, {"name": "Protocols/Any", "level": 1, "bonus": 0}, {"name": "Security Systems/Mechanical", "level": 1, "bonus": 0}, {"name": "Small Arms", "level": 2, "bonus": 0}]
 skill-count: 6
 rank-number: 0

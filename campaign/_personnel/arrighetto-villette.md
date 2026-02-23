@@ -3,7 +3,7 @@ layout: bio
 title: Arrighetto Villette
 name: Arrighetto Villette
 status: Active
-xp: 2
+xp: 3
 edge-current: 0
 edge-total: 0
 role: ADMINISTRATOR_LOGISTICS

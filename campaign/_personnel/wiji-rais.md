@@ -12,7 +12,7 @@ skill-level: Green
 skill-detail: 5+
 origin-faction: MERC
 origin-planet: Cheriton
-age: 18
+age: 19
 skill-list: [{"name": "Art/Cooking", "level": 1, "bonus": 0}, {"name": "Investigation", "level": 2, "bonus": 0}, {"name": "Running", "level": 1, "bonus": 0}, {"name": "Small Arms", "level": 2, "bonus": 0}, {"name": "Streetwise/Any", "level": 1, "bonus": 0}, {"name": "Survival/Any", "level": 2, "bonus": 0}, {"name": "Swimming", "level": 1, "bonus": 0}]
 skill-count: 7
 rank-number: 0

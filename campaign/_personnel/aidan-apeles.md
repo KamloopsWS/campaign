@@ -12,7 +12,7 @@ award-count: 1
 award-list: [{"date": "3034-06-01", "name": "Marksmanship", "set": "standard"}]
 origin-faction: MERC
 origin-planet: Schwartz
-age: 40
+age: 41
 skill-list: [{"name": "Acrobatics", "level": 1, "bonus": 0}, {"name": "Gunnery/Vehicle", "level": 5, "bonus": 0}, {"name": "Piloting/Ground Vehicle", "level": 4, "bonus": 0}, {"name": "Small Arms", "level": 3, "bonus": 0}, {"name": "Tactics/Any", "level": 1, "bonus": 0}]
 skill-count: 5
 rank-number: 0

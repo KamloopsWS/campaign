@@ -12,7 +12,7 @@ award-count: 2
 award-list: [{"date": "3034-06-01", "name": "Marksmanship", "set": "standard"}, {"date": "3034-06-01", "name": "Expert Marksmanship", "set": "standard"}]
 origin-faction: MERC
 origin-planet: Sulafat
-age: 48
+age: 49
 skill-list: [{"name": "Animal Handling", "level": 2, "bonus": 0}, {"name": "Computers", "level": 1, "bonus": 0}, {"name": "Gunnery/Mek", "level": 1, "bonus": 0}, {"name": "Gunnery/Vehicle", "level": 7, "bonus": 0}, {"name": "Leadership", "level": 1, "bonus": 0}, {"name": "Piloting/Ground Vehicle", "level": 5, "bonus": 0}, {"name": "Science/Military", "level": 1, "bonus": 0}, {"name": "Small Arms", "level": 2, "bonus": 0}]
 skill-count: 8
 rank-number: 0

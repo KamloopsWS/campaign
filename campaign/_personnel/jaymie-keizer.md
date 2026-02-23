@@ -12,7 +12,7 @@ skill-level: Green
 skill-detail: 5+
 origin-faction: MERC
 origin-planet: Altona
-age: 19
+age: 20
 skill-list: [{"name": "Acrobatics", "level": 1, "bonus": 0}, {"name": "Art/Painting", "level": 1, "bonus": 0}, {"name": "Small Arms", "level": 2, "bonus": 0}]
 skill-count: 3
 rank-number: 0

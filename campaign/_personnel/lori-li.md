@@ -12,7 +12,7 @@ skill-level: Green
 skill-detail: 5+
 origin-faction: MERC
 origin-planet: Goat Path
-age: 21
+age: 22
 skill-list: [{"name": "Science/Psychology", "level": 1, "bonus": 0}, {"name": "Security Systems/Mechanical", "level": 1, "bonus": 0}, {"name": "Small Arms", "level": 2, "bonus": 0}]
 skill-count: 3
 rank-number: 0

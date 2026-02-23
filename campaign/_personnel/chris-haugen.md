@@ -25,8 +25,8 @@ unit: Stinger STG-3G
 unit-id: 48d2a5b9-c8e5-4443-881a-e55ccb19e3e7
 unit-slug: stinger-stg3g
 slug: chris-haugen
-force: Alfa Battalion, 1st Company, Recon Lance
-force-slug: alfa-battalion-1st-company-recon-lance
+force: Alfa Battalion, 1st Company, Reserve Lance
+force-slug: alfa-battalion-1st-company-reserve-lance
 portrait: chris-haugen.gif
 ---
 

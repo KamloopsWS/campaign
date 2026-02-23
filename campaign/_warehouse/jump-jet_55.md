@@ -9,7 +9,7 @@ con-unit-tonnage: 55
 flag-isclan: 
 inv-amount: 0
 inv-quality: 3
-inv-quantity: 11
+inv-quantity: 8
 inv-shots: 0
 type-attr-save: mekhq.campaign.parts.equipment.JumpJet
 type-attr-web: Jump Jet

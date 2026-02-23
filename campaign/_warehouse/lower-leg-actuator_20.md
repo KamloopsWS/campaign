@@ -1,15 +1,15 @@
 ---
 layout: warehouse
-name: Upper Arm Actuator
-name-full: Upper Arm Actuator (55)
+name: Lower Leg Actuator
+name-full: Lower Leg Actuator (20)
 name-type: 
 con-size: 
 con-equip-tonnage: 
-con-unit-tonnage: 55
+con-unit-tonnage: 20
 flag-isclan: 
 inv-amount: 0
 inv-quality: 3
-inv-quantity: 5
+inv-quantity: 1
 inv-shots: 0
 type-attr-save: mekhq.campaign.parts.meks.MekActuator
 type-attr-web: Mech Actuator

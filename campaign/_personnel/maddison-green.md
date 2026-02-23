@@ -3,16 +3,16 @@ layout: bio
 title: Maddison Green
 name: Maddison Green
 status: Active
-xp: 0
+xp: 2
 edge-current: 1
 edge-total: 1
 role: CONVENTIONAL_AIRCRAFT_PILOT
 role-name: Conventional Fighter Pilot
 skill-level: Green
 skill-detail: 5+
-callsign: Cratos
+callsign: Phoenix
 kill-count: 2
-kill-list: [{"date": "3034-06-10", "killer": "Mechbuster", "killed": "Panther PNT-9ALAG", "missionId": "1", "missionName": "Grumium Metals Long Term Assistance", "scenarioId": "6", "scenarioName": "Coastal Port Defense 2"}, {"date": "3034-06-10", "killer": "Mechbuster", "killed": "Zeus ZEU-6T", "missionId": "1", "missionName": "Grumium Metals Long Term Assistance", "scenarioId": "5", "scenarioName": "Bad Lands Convoy Amush 3"}]
+kill-list: [{"date": "3034-06-10", "killer": "Mechbuster", "killed": "Zeus ZEU-6T", "missionId": "1", "missionName": "Grumium Metals Long Term Assistance", "scenarioId": "5", "scenarioName": "Bad Lands Convoy Amush 3"}, {"date": "3034-06-10", "killer": "Mechbuster", "killed": "Panther PNT-9ALAG", "missionId": "1", "missionName": "Grumium Metals Long Term Assistance", "scenarioId": "6", "scenarioName": "Coastal Port Defense 2"}]
 award-count: 1
 award-list: [{"date": "3034-06-10", "name": "Combat Action", "set": "standard"}]
 origin-faction: MERC

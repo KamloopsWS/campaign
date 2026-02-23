@@ -3,7 +3,7 @@ layout: bio
 title: Lieutenant Charon Kresek
 name: Charon Kresek
 status: Active
-xp: 3
+xp: 5
 edge-current: 1
 edge-total: 1
 role: MEKWARRIOR
@@ -11,10 +11,12 @@ role-name: Mechwarrior
 skill-level: Regular
 skill-detail: 4/5
 callsign: Boatman
-kill-count: 2
-kill-list: [{"date": "3034-05-05", "killer": "Gladiator GLD-4R (Kresek)", "killed": "Thunderbolt TDR-5S", "missionId": "1", "missionName": "Grumium Metals Long Term Assistance", "scenarioId": "3", "scenarioName": "Coastal Mountain Checkpoint"}, {"date": "3034-06-10", "killer": "Gladiator GLD-4R (Kresek)", "killed": "Panther PNT-9R", "missionId": "1", "missionName": "Grumium Metals Long Term Assistance", "scenarioId": "6", "scenarioName": "Coastal Port Defense 2"}]
+kill-count: 3
+kill-list: [{"date": "3034-05-05", "killer": "Gladiator GLD-4R (Kresek)", "killed": "Thunderbolt TDR-5S", "missionId": "1", "missionName": "Grumium Metals Long Term Assistance", "scenarioId": "3", "scenarioName": "Coastal Mountain Checkpoint"}, {"date": "3034-06-10", "killer": "Gladiator GLD-4R (Kresek)", "killed": "Panther PNT-9R", "missionId": "1", "missionName": "Grumium Metals Long Term Assistance", "scenarioId": "6", "scenarioName": "Coastal Port Defense 2"}, {"date": "3034-06-29", "killer": "Gladiator GLD-4R (Kresek)", "killed": "Phoenix Hawk PXH-1", "missionId": "1", "missionName": "Grumium Metals Long Term Assistance", "scenarioId": "8", "scenarioName": "Coastal Raid"}]
 award-count: 1
 award-list: [{"date": "3034-05-01", "name": "Combat Action", "set": "standard"}]
+medical-count: 1
+medical-list: [{"date": "3034-06-15", "desc": "Suffered the following new injuries:\n\t\tCollapsed Lung\n\t\tBurned Left Calf\n\t\tJaw Fracture", "type": "MEDICAL"}]
 origin-faction: LA
 origin-planet: Tharkad
 age: 20

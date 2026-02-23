@@ -3,8 +3,8 @@ layout: bio
 title: Rayne Smith
 name: Rayne Smith
 status: Active
-xp: 3
-edge-current: 0
+xp: 4
+edge-current: 1
 edge-total: 1
 role: MEKWARRIOR
 role-name: Mechwarrior

@@ -12,7 +12,7 @@ skill-level: Green
 skill-detail: 5+
 origin-faction: DC
 origin-planet: Thessalonika
-age: 22
+age: 23
 skill-list: [{"name": "Acrobatics", "level": 1, "bonus": 0}, {"name": "Computers", "level": 1, "bonus": 0}, {"name": "Protocols/Any", "level": 1, "bonus": 0}, {"name": "Science/Psychology", "level": 1, "bonus": 0}, {"name": "Small Arms", "level": 2, "bonus": 0}, {"name": "Training", "level": 1, "bonus": 0}]
 skill-count: 6
 rank-number: 0

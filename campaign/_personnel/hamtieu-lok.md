@@ -10,7 +10,7 @@ role: VEHICLE_CREW_GROUND
 role-name: Vehicle Crew Ground
 origin-faction: FRR
 origin-planet: Galuzzo
-age: 20
+age: 21
 skill-list: [{"name": "Career/Any", "level": 1, "bonus": 0}, {"name": "Gunnery/Vehicle", "level": 2, "bonus": 0}, {"name": "Piloting/Ground Vehicle", "level": 2, "bonus": 0}, {"name": "Small Arms", "level": 2, "bonus": 0}]
 skill-count: 4
 rank-number: 0

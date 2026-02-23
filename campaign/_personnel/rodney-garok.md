@@ -3,7 +3,7 @@ layout: bio
 title: Rodney Garok
 name: Rodney Garok
 status: Active
-xp: 0
+xp: 1
 edge-current: 0
 edge-total: 0
 role: MEKWARRIOR
@@ -11,6 +11,8 @@ role-name: Mechwarrior
 skill-level: Regular
 skill-detail: 4/5
 callsign: Blur
+medical-count: 1
+medical-list: [{"date": "3034-06-15", "desc": "Suffered the following new injuries:\n\t\tDisemboweled", "type": "MEDICAL"}]
 origin-faction: SIC
 origin-planet: St. Ives
 age: 22
@@ -21,8 +23,8 @@ unit: Locust LCT-1E
 unit-id: e50b057b-20d0-44fe-8f0c-d567e89a89ab
 unit-slug: locust-lct1e
 slug: rodney-garok
-force: Alfa Battalion, 1st Company, Recon Lance
-force-slug: alfa-battalion-1st-company-recon-lance
+force: Alfa Battalion, 1st Company, Reserve Lance
+force-slug: alfa-battalion-1st-company-reserve-lance
 portrait: rodney-garok.gif
 ---
 

@@ -12,7 +12,7 @@ skill-level: Green
 skill-detail: 5+
 origin-faction: LA
 origin-planet: Summit
-age: 20
+age: 21
 skill-list: [{"name": "Career/Any", "level": 1, "bonus": 0}, {"name": "Small Arms", "level": 2, "bonus": 0}, {"name": "Survival/Any", "level": 1, "bonus": 0}]
 skill-count: 3
 rank-number: 0

@@ -1,11 +1,11 @@
 ---
 layout: warehouse
-name: Mek Right Arm
-name-full: Mek Right Arm (55)
+name: Mek Left Torso
+name-full: Mek Left Torso (20)
 name-type: 
 con-size: 
 con-equip-tonnage: 
-con-unit-tonnage: 55
+con-unit-tonnage: 20
 flag-isclan: false
 inv-amount: 0
 inv-quality: 3
