@@ -107,10 +107,10 @@
               <ul>
                 <li>Date: {{ kill.date }}</li>
                 {% if kill.missionName != '' %}
-                  <li>Mission: {{ kill.missionName }}</li>
+                  <li>Mission: <a href="{{ site.baseurl }}/missions/{{ kill.missionSlug }}">{{ kill.missionName }}</a></li>
                 {% endif %}
                 {% if kill.scenarioName != '' %}
-                  <li>Scenario: {{ kill.scenarioName }}</li>
+                  <li>Scenario: <a href="{{ site.baseurl }}/missions/{{ kill.missionSlug }}#{{ kill.scenarioSlug }}">{{ kill.scenarioName }}</a></li>
                 {% endif %}
               </ul>
             </li>

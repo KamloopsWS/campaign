@@ -1,6 +1,7 @@
 ---
 layout: mission
 title: Coastal Port Defense 2
+scenario-slug: coastal-port-defense-2
 date: 3034-06-10
 status: Decisive Victory
 mission: Grumium Metals Long Term Assistance

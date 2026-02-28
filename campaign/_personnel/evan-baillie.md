@@ -12,7 +12,7 @@ skill-level: Green
 skill-detail: 5+
 callsign: Crater
 kill-count: 2
-kill-list: [{"date": "3034-05-13", "killer": "Mechbuster", "killed": "Locust LCT-3V (Pirates)", "missionId": "1", "missionName": "Grumium Metals Long Term Assistance", "scenarioId": "4", "scenarioName": "Bad Lands Convoy Amush 2"}, {"date": "3034-06-15", "killer": "Mechbuster", "killed": "Warhammer WHM-6R (Steiner)", "missionId": "1", "missionName": "Grumium Metals Long Term Assistance", "scenarioId": "7", "scenarioName": "Coastal Convoy Escort"}]
+kill-list: [{"date": "3034-05-13", "killer": "Mechbuster", "killed": "Locust LCT-3V (Pirates)", "missionId": "1", "missionName": "Grumium Metals Long Term Assistance", "missionSlug": "grumium-metals-long-term-assistance", "scenarioId": "4", "scenarioName": "Bad Lands Convoy Amush 2", "scenarioSlug": "bad-lands-convoy-amush-2"}, {"date": "3034-06-15", "killer": "Mechbuster", "killed": "Warhammer WHM-6R (Steiner)", "missionId": "1", "missionName": "Grumium Metals Long Term Assistance", "missionSlug": "grumium-metals-long-term-assistance", "scenarioId": "7", "scenarioName": "Coastal Convoy Escort", "scenarioSlug": "coastal-convoy-escort"}]
 award-count: 2
 award-list: [{"date": "3034-06-01", "name": "Combat Action", "set": "standard"}, {"date": "3034-06-15", "name": "Purple Heart", "set": "standard"}]
 medical-count: 7

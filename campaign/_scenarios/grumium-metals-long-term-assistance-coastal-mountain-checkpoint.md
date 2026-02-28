@@ -1,6 +1,7 @@
 ---
 layout: mission
 title: Coastal Mountain Checkpoint
+scenario-slug: coastal-mountain-checkpoint
 date: 3034-05-05
 status: Decisive Victory
 mission: Grumium Metals Long Term Assistance

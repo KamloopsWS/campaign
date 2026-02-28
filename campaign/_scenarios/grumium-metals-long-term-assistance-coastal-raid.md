@@ -1,6 +1,7 @@
 ---
 layout: mission
 title: Coastal Raid
+scenario-slug: coastal-raid
 date: 3034-06-29
 status: Decisive Victory
 mission: Grumium Metals Long Term Assistance

@@ -12,7 +12,7 @@ skill-level: Regular
 skill-detail: 4/5
 callsign: Hound
 kill-count: 1
-kill-list: [{"date": "3034-06-10", "killer": "Griffin GRF-1S (Werner)", "killed": "Charger CGR-1A9", "missionId": "1", "missionName": "Grumium Metals Long Term Assistance", "scenarioId": "6", "scenarioName": "Coastal Port Defense 2"}]
+kill-list: [{"date": "3034-06-10", "killer": "Griffin GRF-1S (Werner)", "killed": "Charger CGR-1A9", "missionId": "1", "missionName": "Grumium Metals Long Term Assistance", "missionSlug": "grumium-metals-long-term-assistance", "scenarioId": "6", "scenarioName": "Coastal Port Defense 2", "scenarioSlug": "coastal-port-defense-2"}]
 award-count: 1
 award-list: [{"date": "3034-05-01", "name": "Combat Action", "set": "standard"}]
 medical-count: 1

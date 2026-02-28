@@ -1,6 +1,7 @@
 ---
 layout: mission
 title: Bad Lands Convoy Amush 2
+scenario-slug: bad-lands-convoy-amush-2
 date: 3034-05-13
 status: Decisive Victory
 mission: Grumium Metals Long Term Assistance

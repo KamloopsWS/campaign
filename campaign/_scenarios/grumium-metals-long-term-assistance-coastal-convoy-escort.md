@@ -1,6 +1,7 @@
 ---
 layout: mission
 title: Coastal Convoy Escort
+scenario-slug: coastal-convoy-escort
 date: 3034-06-15
 status: Marginal Victory
 mission: Grumium Metals Long Term Assistance

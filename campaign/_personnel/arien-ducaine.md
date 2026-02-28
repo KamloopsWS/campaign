@@ -12,7 +12,7 @@ skill-level: Regular
 skill-detail: 4/5
 callsign: Ironfoot
 kill-count: 2
-kill-list: [{"date": "3034-04-04", "killer": "Wolverine WVR-6K", "killed": "Crusader CRD-3K", "missionId": "1", "missionName": "Grumium Metals Long Term Assistance", "scenarioId": "1", "scenarioName": "Coastal Port Defense"}, {"date": "3034-05-05", "killer": "Wolverine WVR-6K", "killed": "Warhammer WHM-6R", "missionId": "1", "missionName": "Grumium Metals Long Term Assistance", "scenarioId": "3", "scenarioName": "Coastal Mountain Checkpoint"}]
+kill-list: [{"date": "3034-04-04", "killer": "Wolverine WVR-6K", "killed": "Crusader CRD-3K", "missionId": "1", "missionName": "Grumium Metals Long Term Assistance", "missionSlug": "grumium-metals-long-term-assistance", "scenarioId": "1", "scenarioName": "Coastal Port Defense", "scenarioSlug": "coastal-port-defense"}, {"date": "3034-05-05", "killer": "Wolverine WVR-6K", "killed": "Warhammer WHM-6R", "missionId": "1", "missionName": "Grumium Metals Long Term Assistance", "missionSlug": "grumium-metals-long-term-assistance", "scenarioId": "3", "scenarioName": "Coastal Mountain Checkpoint", "scenarioSlug": "coastal-mountain-checkpoint"}]
 award-count: 1
 award-list: [{"date": "3034-05-01", "name": "Combat Action", "set": "standard"}]
 medical-count: 6

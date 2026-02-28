@@ -12,7 +12,7 @@ skill-level: Regular
 skill-detail: 4/5
 callsign: Swampy
 kill-count: 2
-kill-list: [{"date": "3034-04-04", "killer": "Blackjack BJ-1DB", "killed": "Blackjack BJ-1", "missionId": "1", "missionName": "Grumium Metals Long Term Assistance", "scenarioId": "1", "scenarioName": "Coastal Port Defense"}, {"date": "3034-06-10", "killer": "Blackjack BG-1DB (Lucky Jack)", "killed": "Guillotine GLT-4P", "missionId": "1", "missionName": "Grumium Metals Long Term Assistance", "scenarioId": "6", "scenarioName": "Coastal Port Defense 2"}]
+kill-list: [{"date": "3034-04-04", "killer": "Blackjack BJ-1DB", "killed": "Blackjack BJ-1", "missionId": "1", "missionName": "Grumium Metals Long Term Assistance", "missionSlug": "grumium-metals-long-term-assistance", "scenarioId": "1", "scenarioName": "Coastal Port Defense", "scenarioSlug": "coastal-port-defense"}, {"date": "3034-06-10", "killer": "Blackjack BG-1DB (Lucky Jack)", "killed": "Guillotine GLT-4P", "missionId": "1", "missionName": "Grumium Metals Long Term Assistance", "missionSlug": "grumium-metals-long-term-assistance", "scenarioId": "6", "scenarioName": "Coastal Port Defense 2", "scenarioSlug": "coastal-port-defense-2"}]
 award-count: 2
 award-list: [{"date": "3034-05-01", "name": "Combat Action", "set": "standard"}, {"date": "3034-06-10", "name": "Purple Heart", "set": "standard"}]
 medical-count: 7

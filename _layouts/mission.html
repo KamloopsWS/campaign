@@ -45,7 +45,7 @@
       {% assign sortedScenarios = site.scenarios | sort: 'date' %}
       {% for scenario in sortedScenarios %}
       {% if scenario.mission-slug == page.slug %}
-      <div class="row">
+      <div id="{{ scenario.scenario-slug }}" class="row">
         <div class="col">
           <div class="container scenario border bg-info text-white border-primary rounded my-2">
             <h3>{{ scenario.title }}</h3>

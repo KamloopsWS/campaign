@@ -12,7 +12,7 @@ skill-level: Regular
 skill-detail: 4/5
 callsign: Burgertime
 kill-count: 2
-kill-list: [{"date": "3034-05-05", "killer": "Hatchetman HCT-TMW2X (Sigurd)", "killed": "Orion ON1-K", "missionId": "1", "missionName": "Grumium Metals Long Term Assistance", "scenarioId": "3", "scenarioName": "Coastal Mountain Checkpoint"}, {"date": "3034-06-10", "killer": "Hatchetman HCT-TMW2X (Sigurd)", "killed": "Zeus ZEU-6T", "missionId": "1", "missionName": "Grumium Metals Long Term Assistance", "scenarioId": "5", "scenarioName": "Bad Lands Convoy Amush 3"}]
+kill-list: [{"date": "3034-05-05", "killer": "Hatchetman HCT-TMW2X (Sigurd)", "killed": "Orion ON1-K", "missionId": "1", "missionName": "Grumium Metals Long Term Assistance", "missionSlug": "grumium-metals-long-term-assistance", "scenarioId": "3", "scenarioName": "Coastal Mountain Checkpoint", "scenarioSlug": "coastal-mountain-checkpoint"}, {"date": "3034-06-10", "killer": "Hatchetman HCT-TMW2X (Sigurd)", "killed": "Zeus ZEU-6T", "missionId": "1", "missionName": "Grumium Metals Long Term Assistance", "missionSlug": "grumium-metals-long-term-assistance", "scenarioId": "5", "scenarioName": "Bad Lands Convoy Amush 3", "scenarioSlug": "bad-lands-convoy-amush-3"}]
 award-count: 1
 award-list: [{"date": "3034-05-01", "name": "Combat Action", "set": "standard"}]
 medical-count: 3
