@@ -41,5 +41,7 @@
     - title: Administrators
       url: /admin
     - title: separator
+    - title: Kill Board
+      url: /kill-board
     - title: Rolls of Honor
       url: /rolls-honor
