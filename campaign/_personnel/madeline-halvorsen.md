@@ -1,0 +1,26 @@
+---
+layout: bio
+title: Madeline Halvorsen
+name: Madeline Halvorsen
+status: Active
+xp-current: 9
+xp-lifetime: 9
+edge-current: 0
+edge-total: 0
+is-player: 0
+role: MEK_TECH
+role-name: Mech Tech
+skill-level: Regular
+skill-detail: 6+
+award-count: 2
+award-list: [{"date": "3036-04-01", "name": "Galactic Service", "set": "standard"}, {"date": "3036-04-01", "name": "Ronin Wars Campaign", "set": "standard"}]
+origin-faction: LA
+origin-planet: Bountiful Harvest
+age: 36
+skill-list: [{"name": "Career/Any", "level": 1, "bonus": 0}, {"name": "Investigation", "level": 1, "bonus": 0}, {"name": "Running", "level": 1, "bonus": 0}, {"name": "Tech/Mek", "level": 3, "bonus": 0}]
+skill-count: 4
+rank-number: "000"
+slug: madeline-halvorsen
+portrait: madeline-halvorsen.png
+---
+

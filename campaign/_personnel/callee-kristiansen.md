@@ -3,25 +3,29 @@ layout: bio
 title: Callee Kristiansen
 name: Callee Kristiansen
 status: Active
-xp: 0
-edge-current: 0
-edge-total: 0
+xp-current: 1
+xp-lifetime: 1
+edge-current: 1
+edge-total: 1
+is-player: 0
 role: SOLDIER
 role-name: Soldier
 skill-level: Regular
 skill-detail: 4+
+award-count: 3
+award-list: [{"date": "3035-11-20", "name": "Combat Action", "set": "standard"}, {"date": "3036-04-01", "name": "Galactic Service", "set": "standard"}, {"date": "3036-04-01", "name": "House Unit Citation", "set": "standard"}]
 origin-faction: DC
 origin-planet: Hyner
-age: 34
+age: 35
 skill-list: [{"name": "Science/Military", "level": 1, "bonus": 0}, {"name": "Small Arms", "level": 3, "bonus": 0}, {"name": "Survival/Any", "level": 2, "bonus": 0}]
 skill-count: 3
-rank-number: 0
-unit: Foot Platoon (Rifle)
+rank-number: "000"
+unit: Foot Platoon (Anti-'Mech) Merc (Rifle)
 unit-id: f12bda79-1205-4860-a555-bed8f4fdca9b
-unit-slug: foot-platoon-rifle
+unit-slug: foot-platoon-antimech-merc-rifle
 slug: callee-kristiansen
-force: Support Battalion, Security Lance
-force-slug: support-battalion-security-lance
+formation: 1st Regiment, Alfa Battalion, Auxiliary Company, Mobile Infantry Force
+formation-slug: n1st-regiment-alfa-battalion-auxiliary-company-mobile-infantry-force
 portrait: callee-kristiansen.png
 ---
 

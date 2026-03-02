@@ -2,7 +2,7 @@
 layout: post
 title:  "Planet Fefferfer - Corporations Overview"
 date:   3025-05-02
-categories: fiction, fefferfer
+categories: fiction
 ---
 
 #### Major (Interstellar)

@@ -3,19 +3,23 @@ layout: bio
 title: Alayna Pennifold
 name: Alayna Pennifold
 status: Active
-xp: 0
+xp-current: 0
+xp-lifetime: 0
 edge-current: 0
 edge-total: 0
+is-player: 0
 role: MECHANIC
 role-name: Mechanic
 skill-level: Elite
 skill-detail: 4+
+award-count: 2
+award-list: [{"date": "3036-04-01", "name": "Galactic Service", "set": "standard"}, {"date": "3036-04-01", "name": "Ronin Wars Campaign", "set": "standard"}]
 origin-faction: IND
 origin-planet: Star's End (Novo Cressidas)
-age: 33
+age: 35
 skill-list: [{"name": "Escape Artist", "level": 1, "bonus": 0}, {"name": "Sleight of Hand/Any", "level": 2, "bonus": 0}, {"name": "Tech/Mechanic", "level": 5, "bonus": 0}]
 skill-count: 3
-rank-number: 0
+rank-number: "000"
 slug: alayna-pennifold
 portrait: alayna-pennifold.png
 ---

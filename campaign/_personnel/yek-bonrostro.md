@@ -1,0 +1,26 @@
+---
+layout: bio
+title: Yek Bonrostro
+name: Yek Bonrostro
+status: Active
+xp-current: 0
+xp-lifetime: 0
+edge-current: 0
+edge-total: 0
+is-player: 0
+role: ADMINISTRATOR_TRANSPORT
+role-name: Admin/Transport
+skill-level: Regular
+skill-detail: 5+
+award-count: 2
+award-list: [{"date": "3036-04-01", "name": "Galactic Service", "set": "standard"}, {"date": "3036-04-01", "name": "Ronin Wars Campaign", "set": "standard"}]
+origin-faction: MERC
+origin-planet: Dziewanna
+age: 26
+skill-list: [{"name": "Administration", "level": 3, "bonus": 0}, {"name": "Negotiation", "level": 2, "bonus": 0}, {"name": "Running", "level": 1, "bonus": 0}]
+skill-count: 3
+rank-number: "000"
+slug: yek-bonrostro
+portrait: yek-bonrostro.png
+---
+
