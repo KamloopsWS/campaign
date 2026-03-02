@@ -1,34 +1,32 @@
 ---
 layout: bio
-title: Vern Holden
+title: Sergeant Vern Holden
 name: Vern Holden
 status: Active
-xp: 4
+xp-current: 12
+xp-lifetime: 20
 edge-current: 1
 edge-total: 1
+is-player: 1
 role: MEKWARRIOR
 role-name: Mechwarrior
 skill-level: Regular
-skill-detail: 4/5
+skill-detail: 4/4
 callsign: Burgertime
-kill-count: 2
-kill-list: [{"date": "3034-05-05", "killer": "Hatchetman HCT-TMW2X (Sigurd)", "killed": "Orion ON1-K", "missionId": "1", "missionName": "Grumium Metals Long Term Assistance", "missionSlug": "grumium-metals-long-term-assistance", "scenarioId": "3", "scenarioName": "Coastal Mountain Checkpoint", "scenarioSlug": "coastal-mountain-checkpoint"}, {"date": "3034-06-10", "killer": "Hatchetman HCT-TMW2X (Sigurd)", "killed": "Zeus ZEU-6T", "missionId": "1", "missionName": "Grumium Metals Long Term Assistance", "missionSlug": "grumium-metals-long-term-assistance", "scenarioId": "5", "scenarioName": "Bad Lands Convoy Amush 3", "scenarioSlug": "bad-lands-convoy-amush-3"}]
-award-count: 1
-award-list: [{"date": "3034-05-01", "name": "Combat Action", "set": "standard"}]
-medical-count: 3
-medical-list: [{"date": "3034-06-10", "desc": "Suffered the following new injuries:\n\t\tUpper Left Arm Fracture (Compound)", "type": "MEDICAL"}, {"date": "3034-06-20", "desc": "Upper Left Arm Fracture (Compound) took longer to heal than expected", "type": "MEDICAL"}, {"date": "3034-06-29", "desc": "Suffered the following new injuries:\n\t\tLeft Shoulder Fracture (Compound)", "type": "MEDICAL"}]
+kill-count: "012"
+kill-list: [{"date": "3034-05-05", "killer": "Hatchetman HCT-TMW2X (Sigurd)", "killed": "Orion ON1-K", "missionId": "1", "missionName": "Grumium Metals Long Term Assistance", "missionSlug": "grumium-metals-long-term-assistance", "scenarioId": "3", "scenarioName": "Coastal Mountain Checkpoint", "scenarioSlug": "coastal-mountain-checkpoint"}, {"date": "3034-06-10", "killer": "Hatchetman HCT-TMW2X (Sigurd)", "killed": "Zeus ZEU-6T", "missionId": "1", "missionName": "Grumium Metals Long Term Assistance", "missionSlug": "grumium-metals-long-term-assistance", "scenarioId": "5", "scenarioName": "Bad Lands Convoy Amush 3", "scenarioSlug": "bad-lands-convoy-amush-3"}, {"date": "3034-07-12", "killer": "Hatchetman HCT-TMW2X (Sigurd)", "killed": "Highlander HGN-733P", "missionId": "1", "missionName": "Grumium Metals Long Term Assistance", "missionSlug": "grumium-metals-long-term-assistance", "scenarioId": "9", "scenarioName": "Bad Lands Attack on Steiner Base", "scenarioSlug": "bad-lands-attack-on-steiner-base"}, {"date": "3034-09-16", "killer": "Wolverine WVR-6K (Crimson)", "killed": "Centurion CN9-A", "missionId": "1", "missionName": "Grumium Metals Long Term Assistance", "missionSlug": "grumium-metals-long-term-assistance", "scenarioId": "13", "scenarioName": "Defense of Rendrezi Pass", "scenarioSlug": "defense-of-rendrezi-pass"}, {"date": "3034-10-08", "killer": "Wolverine WVR-6K (Crimson)", "killed": "Kintaro KTO-18", "missionId": "1", "missionName": "Grumium Metals Long Term Assistance", "missionSlug": "grumium-metals-long-term-assistance", "scenarioId": "15", "scenarioName": "Coastal Mounatin Skirmish", "scenarioSlug": "coastal-mounatin-skirmish"}, {"date": "3035-01-10", "killer": "Wolverine WVR-6K (Crimson)", "killed": "Warhammer WHM-6R", "missionId": "1", "missionName": "Grumium Metals Long Term Assistance", "missionSlug": "grumium-metals-long-term-assistance", "scenarioId": "18", "scenarioName": "City Factory Defense", "scenarioSlug": "city-factory-defense"}, {"date": "3035-01-28", "killer": "Wolverine WVR-6K (Crimson)", "killed": "Griffin GRF-1N", "missionId": "1", "missionName": "Grumium Metals Long Term Assistance", "missionSlug": "grumium-metals-long-term-assistance", "scenarioId": "19", "scenarioName": "City Peace Talks", "scenarioSlug": "city-peace-talks"}, {"date": "3035-01-28", "killer": "Wolverine WVR-6K (Crimson)", "killed": "Griffin GRF-1N", "missionId": "1", "missionName": "Grumium Metals Long Term Assistance", "missionSlug": "grumium-metals-long-term-assistance", "scenarioId": "19", "scenarioName": "City Peace Talks", "scenarioSlug": "city-peace-talks"}, {"date": "3035-02-20", "killer": "Wolverine WVR-6K (Crimson)", "killed": "Charger CGR-1A5", "missionId": "1", "missionName": "Grumium Metals Long Term Assistance", "missionSlug": "grumium-metals-long-term-assistance", "scenarioId": "21", "scenarioName": "City Skirmish", "scenarioSlug": "city-skirmish"}, {"date": "3035-04-17", "killer": "Wolverine WVR-6K (Crimson)", "killed": "Galahad GLH-2D", "missionId": "1", "missionName": "Grumium Metals Long Term Assistance", "missionSlug": "grumium-metals-long-term-assistance", "scenarioId": "22", "scenarioName": "City Supply Depot Defense", "scenarioSlug": "city-supply-depot-defense"}, {"date": "3035-04-20", "killer": "Wolverine WVR-6K (Crimson)", "killed": "Clint CLNT-2-4T #2 (Princess-Shadowfiend)", "missionId": "1", "missionName": "Grumium Metals Long Term Assistance", "missionSlug": "grumium-metals-long-term-assistance", "scenarioId": "25", "scenarioName": "City Highway Probing Counter Attack", "scenarioSlug": "city-highway-probing-counter-attack"}, {"date": "3035-04-21", "killer": "Wolverine WVR-6K (Crimson)", "killed": "Emperor EMP-5A-RL", "missionId": "1", "missionName": "Grumium Metals Long Term Assistance", "missionSlug": "grumium-metals-long-term-assistance", "scenarioId": "26", "scenarioName": "City Assault on FOB", "scenarioSlug": "city-assault-on-fob"}]
+award-count: 4
+award-list: [{"date": "3034-05-01", "name": "Combat Action", "set": "standard"}, {"date": "3034-11-15", "name": "Basic Training", "set": "standard"}, {"date": "3035-03-30", "name": "NCO Academy Graduate", "set": "standard"}, {"date": "3035-04-21", "name": "Purple Heart", "set": "standard"}]
+medical-count: 10
+medical-list: [{"date": "3034-06-10", "desc": "Suffered the following new injuries:\n\t\tUpper Left Arm Fracture (Compound)", "type": "MEDICAL"}, {"date": "3034-06-29", "desc": "Suffered the following new injuries:\n\t\tLeft Shoulder Fracture (Compound)", "type": "MEDICAL"}, {"date": "3034-07-12", "desc": "Suffered the following new injuries:\n\t\tOrgan Trauma", "type": "MEDICAL"}, {"date": "3034-07-12", "desc": "Suffered the following new injuries:\n\t\tSmoke Inhalation", "type": "MEDICAL"}, {"date": "3034-08-03", "desc": "Suffered the following new injuries:\n\t\tDisemboweled\n\t\tBurned Right Calf\n\t\tAbdominal Burn", "type": "MEDICAL"}, {"date": "3034-10-08", "desc": "Suffered the following new injuries:\n\t\tRight Shoulder Fracture", "type": "MEDICAL"}, {"date": "3034-11-26", "desc": "Suffered the following new injuries:\n\t\tPelvic Fracture", "type": "MEDICAL"}, {"date": "3035-02-20", "desc": "Suffered the following new injuries:\n\t\tBurned Left Hand", "type": "MEDICAL"}, {"date": "3035-04-17", "desc": "Suffered the following new injuries:\n\t\tBurned Left Hand", "type": "MEDICAL"}, {"date": "3035-04-21", "desc": "Suffered the following new injuries:\n\t\tBurned Chest\n\t\tLeft Hand Fracture (Compound)\n\t\tPelvic Fracture", "type": "MEDICAL"}]
 origin-faction: LA
-origin-planet: Galatia III
+origin-planet: Tamar
 age: 21
-skill-list: [{"name": "Appraisal", "level": 2, "bonus": 0}, {"name": "Communications/Any", "level": 2, "bonus": 0}, {"name": "Demolitions", "level": 2, "bonus": 0}, {"name": "Gunnery/Mek", "level": 4, "bonus": 0}, {"name": "Interest/Antiques", "level": 2, "bonus": 0}, {"name": "Interest/Holo-Games", "level": 2, "bonus": 0}, {"name": "Interest/Music", "level": 2, "bonus": 0}, {"name": "Melee Weapons", "level": 2, "bonus": 0}, {"name": "Perception", "level": 2, "bonus": 0}, {"name": "Piloting/Mek", "level": 3, "bonus": 0}, {"name": "Small Arms", "level": 2, "bonus": 0}, {"name": "Stealth", "level": 2, "bonus": 0}, {"name": "Support Weapons", "level": 2, "bonus": 0}]
+skill-list: [{"name": "Appraisal", "level": 2, "bonus": 0}, {"name": "Communications/Any", "level": 2, "bonus": 0}, {"name": "Demolitions", "level": 2, "bonus": 0}, {"name": "Gunnery/Mek", "level": 4, "bonus": 0}, {"name": "Interest/Antiques", "level": 2, "bonus": 0}, {"name": "Interest/Holo-Games", "level": 2, "bonus": 0}, {"name": "Interest/Music", "level": 2, "bonus": 0}, {"name": "Melee Weapons", "level": 2, "bonus": 0}, {"name": "Perception", "level": 2, "bonus": 0}, {"name": "Piloting/Mek", "level": 4, "bonus": 0}, {"name": "Small Arms", "level": 2, "bonus": 0}, {"name": "Stealth", "level": 2, "bonus": 0}, {"name": "Support Weapons", "level": 2, "bonus": 0}]
 skill-count: 13
-rank-number: 0
-unit: Hatchetman HCT-TMW2X (Sigurd)
-unit-id: 3a4f3910-685d-47c4-8d66-1e16c43978bf
-unit-slug: hatchetman-hcttmw2x-sigurd
+rank-number: "012"
+rank-name: Sergeant
 slug: vern-holden
-force: Alfa Battalion, 1st Company, Fire Lance
-force-slug: alfa-battalion-1st-company-fire-lance
 portrait: vern-holden.gif
 ---
 

@@ -5,11 +5,11 @@ name-full: Small Laser
 name-type: Small Laser
 con-size: 1.0
 con-equip-tonnage: 0.5
-con-unit-tonnage: 55
+con-unit-tonnage: 70
 flag-isclan: 
 inv-amount: 0
-inv-quality: 3
-inv-quantity: 7
+inv-quality: 2
+inv-quantity: 11
 inv-shots: 0
 type-attr-save: mekhq.campaign.parts.equipment.EquipmentPart
 type-attr-web: Equipment

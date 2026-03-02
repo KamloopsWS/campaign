@@ -19,8 +19,9 @@
         {% for group in staffGroupedSorted %}
 
             {% if page.roles contains group.name or page.roles == nil %}
+                
                 <!-- DEBUG -->
-                <!-- <span>{{ group.name }} ({{ group.size }})</span> -->
+                <!-- <span>Name = {{ group.name }}<br/>Size = {{ group.size }}</span><br/> -->
                 
 
                 <!-- Breakdown staff in this role by rank -->
@@ -34,7 +35,7 @@
                 {% for rank in groupedRanksSorted %}
 
                     <!-- DEBUG -->
-                    <!-- <span>{{ rank.name }} ({{ rank.size }})</span> -->
+                    <!-- <span>Rank = {{ rank.name }}<br/>Size = {{ rank.size }}</span><br/> -->
 
                     <!-- Breakdown all staff in current rank -->
                     {% assign staffList = rank.items | sort: "name" %}

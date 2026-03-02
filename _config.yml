@@ -21,7 +21,8 @@
 # ========================================
 # Basic Jekyll configuration
 # ========================================
-title: Petterson's Pistolleros
+# title: Petterson's Pistolleros
+title: Crimson Lancers
 email: kamloopswargamingsociety@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Petterson's Pistolleros mercenary profile.
@@ -34,8 +35,9 @@ url: "https://kamloopsws.github.io" # the base hostname & protocol for your site
 banner_image: true
 logo: /assets/images/unit_logo.png
 
-campaign_date: "3034-06-30"
-campaign_funds: "9,309,553"
+update_date: "2026-05-25"
+campaign_date: "3035-04-18"
+campaign_funds: "146,106,746"
 
 collections_dir: campaign
 

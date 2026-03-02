@@ -1,0 +1,31 @@
+---
+layout: bio
+title: Natasha Rohmer
+name: Natasha Rohmer
+status: Active
+xp-current: 4
+xp-lifetime: 4
+edge-current: 1
+edge-total: 1
+is-player: 0
+role: MEKWARRIOR
+role-name: Mechwarrior
+skill-level: Regular
+skill-detail: 4/5
+callsign: Rogue
+kill-count: "003"
+kill-list: [{"date": "3035-02-05", "killer": "Shadow Hawk SHD-TMW1", "killed": "Stinger STG-3G", "missionId": "1", "missionName": "Grumium Metals Long Term Assistance", "missionSlug": "grumium-metals-long-term-assistance", "scenarioId": "20", "scenarioName": "City Academy Ambush", "scenarioSlug": "city-academy-ambush"}, {"date": "3035-04-19", "killer": "Shadow Hawk SHD-TMW1", "killed": "Wasp LAM WSP-105", "missionId": "1", "missionName": "Grumium Metals Long Term Assistance", "missionSlug": "grumium-metals-long-term-assistance", "scenarioId": "24", "scenarioName": "City Highway Breakthrough Flank Defense", "scenarioSlug": "city-highway-breakthrough-flank-defense"}, {"date": "3035-04-21", "killer": "Rifleman RFL-3N (Crimson)", "killed": "Victor VTR-9B", "missionId": "1", "missionName": "Grumium Metals Long Term Assistance", "missionSlug": "grumium-metals-long-term-assistance", "scenarioId": "26", "scenarioName": "City Assault on FOB", "scenarioSlug": "city-assault-on-fob"}]
+award-count: 2
+award-list: [{"date": "3035-02-03", "name": "Basic Training", "set": "standard"}, {"date": "3035-02-05", "name": "Combat Action", "set": "standard"}]
+medical-count: 2
+medical-list: [{"date": "3035-02-05", "desc": "Suffered the following new injuries:\n\t\tRibs Fracture", "type": "MEDICAL"}, {"date": "3035-04-21", "desc": "Suffered the following new injuries:\n\t\tAbdominal Burn", "type": "MEDICAL"}]
+origin-faction: IND
+origin-planet: Erin
+age: 20
+skill-list: [{"name": "Gunnery/Mek", "level": 4, "bonus": 0}, {"name": "Piloting/Mek", "level": 3, "bonus": 0}, {"name": "Small Arms", "level": 2, "bonus": 0}]
+skill-count: 3
+rank-number: "000"
+slug: natasha-rohmer
+portrait: natasha-rohmer.gif
+---
+

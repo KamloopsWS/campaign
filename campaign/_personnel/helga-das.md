@@ -3,25 +3,27 @@ layout: bio
 title: Helga Das
 name: Helga Das
 status: Active
-xp: 0
+xp-current: 0
+xp-lifetime: 0
 edge-current: 0
 edge-total: 0
+is-player: 0
 role: SOLDIER
 role-name: Soldier
 skill-level: Regular
 skill-detail: 4+
 origin-faction: IND
 origin-planet: Santander V (Santander's World)
-age: 25
+age: 26
 skill-list: [{"name": "Small Arms", "level": 3, "bonus": 0}]
 skill-count: 1
-rank-number: 0
-unit: Foot Platoon (Rifle)
+rank-number: "000"
+unit: Foot Platoon (Anti-'Mech) Merc (Rifle)
 unit-id: f12bda79-1205-4860-a555-bed8f4fdca9b
-unit-slug: foot-platoon-rifle
+unit-slug: foot-platoon-antimech-merc-rifle
 slug: helga-das
-force: Support Battalion, Security Lance
-force-slug: support-battalion-security-lance
+force: 1st Regiment, Support Battalion, Security Lance
+force-slug: n1st-regiment-support-battalion-security-lance
 portrait: helga-das.png
 ---
 
