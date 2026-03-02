@@ -10,7 +10,7 @@ mission-slug: grumium-metals-long-term-assistance
 
 ##### Briefing
 
-Attempt a stealthy approach on the Ronin industrial facility and destroy the objective buildings. Intel reports that a company of Vinson's Vigilantes mercenaries has been contracted for defense of the facility, so maintain cautiion on your approach to the base. First drop the power grid to disable the turrets and then take out the objective buildings. After primary objective completion you may retreat or stay and fight for control of the field of battle for salvage.
+Attempt a stealthy approach on the Ronin industrial facility and destroy the objective buildings. Intel reports that a company of Dread Legion mercenaries has been contracted for defense of the facility, so maintain cautiion on your approach to the base. First drop the power grid to disable the turrets and then take out the objective buildings. After primary objective completion you may retreat or stay and fight for control of the field of battle for salvage.
 
 ##### After-Action Report
 

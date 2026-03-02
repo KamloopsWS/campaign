@@ -10,8 +10,8 @@ role: SOLDIER
 role-name: Soldier
 skill-level: Elite
 skill-detail: 2+
-award-count: 1
-award-list: [{"date": "3034-06-10", "name": "Combat Action", "set": "standard"}]
+award-count: 2
+award-list: [{"date": "3034-06-10", "name": "Combat Action", "set": "standard"}, {"date": "3034-07-01", "name": "Marksmanship", "set": "standard"}]
 origin-faction: DC
 origin-planet: Mersa Matruh
 age: 40

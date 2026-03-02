@@ -10,7 +10,7 @@ role: MEDIC
 role-name: Medic
 origin-faction: LA
 origin-planet: Orkney (LC)
-age: 22
+age: 23
 skill-list: [{"name": "Cryptography", "level": 1, "bonus": 0}, {"name": "Interrogation", "level": 1, "bonus": 0}, {"name": "Language/Any", "level": 1, "bonus": 0}, {"name": "MedTech/Any", "level": 3, "bonus": 0}]
 skill-count: 4
 rank-number: 0

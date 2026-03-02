@@ -3,8 +3,8 @@ layout: bio
 title: Rayne Smith
 name: Rayne Smith
 status: Active
-xp: 4
-edge-current: 1
+xp: 5
+edge-current: 0
 edge-total: 1
 role: MEKWARRIOR
 role-name: Mechwarrior
@@ -15,8 +15,8 @@ kill-count: 2
 kill-list: [{"date": "3034-05-13", "killer": "Crab CRB-20", "killed": "Wolfhound WLF-1B (Pirates)", "missionId": "1", "missionName": "Grumium Metals Long Term Assistance", "missionSlug": "grumium-metals-long-term-assistance", "scenarioId": "4", "scenarioName": "Bad Lands Convoy Amush 2", "scenarioSlug": "bad-lands-convoy-amush-2"}, {"date": "3034-06-10", "killer": "Crab CRB-20", "killed": "Panther PNT-9R", "missionId": "1", "missionName": "Grumium Metals Long Term Assistance", "missionSlug": "grumium-metals-long-term-assistance", "scenarioId": "6", "scenarioName": "Coastal Port Defense 2", "scenarioSlug": "coastal-port-defense-2"}]
 award-count: 1
 award-list: [{"date": "3034-05-01", "name": "Combat Action", "set": "standard"}]
-medical-count: 1
-medical-list: [{"date": "3034-05-13", "desc": "Suffered the following new injuries:\n\t\tPuncture wound to the Right Foot", "type": "MEDICAL"}]
+medical-count: 2
+medical-list: [{"date": "3034-05-13", "desc": "Suffered the following new injuries:\n\t\tPuncture wound to the Right Foot", "type": "MEDICAL"}, {"date": "3034-07-12", "desc": "Suffered the following new injuries:\n\t\tRight Shoulder Fracture\n\t\tHeart Trauma\n\t\tPelvic Fracture", "type": "MEDICAL"}]
 origin-faction: MERC
 origin-planet: Hesperus II
 age: 20

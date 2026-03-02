@@ -10,6 +10,8 @@ role: SOLDIER
 role-name: Soldier
 skill-level: Elite
 skill-detail: 2+
+award-count: 1
+award-list: [{"date": "3034-07-01", "name": "Marksmanship", "set": "standard"}]
 origin-faction: MERC
 origin-planet: Nykvarn
 age: 29

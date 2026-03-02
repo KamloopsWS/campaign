@@ -3,7 +3,7 @@ layout: bio
 title: Jaja Onipede
 name: Jaja Onipede
 status: Active
-xp: 2
+xp: 3
 edge-current: 0
 edge-total: 0
 role: ADMINISTRATOR_HR

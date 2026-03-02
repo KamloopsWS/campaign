@@ -10,7 +10,7 @@ role: VEHICLE_CREW_GROUND
 role-name: Vehicle Crew Ground
 origin-faction: MERC
 origin-planet: Nyserta
-age: 18
+age: 19
 skill-list: [{"name": "Art/Instrument", "level": 2, "bonus": 0}, {"name": "Gunnery/Vehicle", "level": 2, "bonus": 0}, {"name": "Piloting/Ground Vehicle", "level": 2, "bonus": 0}, {"name": "Protocols/Any", "level": 1, "bonus": 0}, {"name": "Science/Biology", "level": 1, "bonus": 0}, {"name": "Small Arms", "level": 4, "bonus": 0}]
 skill-count: 6
 rank-number: 0

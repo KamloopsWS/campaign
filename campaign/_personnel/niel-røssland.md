@@ -12,8 +12,8 @@ skill-level: Elite
 skill-detail: 2+
 kill-count: 1
 kill-list: [{"date": "3034-06-10", "killer": "Thumper Artillery", "killed": "Cicada CDA-3C", "missionId": "1", "missionName": "Grumium Metals Long Term Assistance", "missionSlug": "grumium-metals-long-term-assistance", "scenarioId": "6", "scenarioName": "Coastal Port Defense 2", "scenarioSlug": "coastal-port-defense-2"}]
-award-count: 1
-award-list: [{"date": "3034-06-10", "name": "Combat Action", "set": "standard"}]
+award-count: 2
+award-list: [{"date": "3034-06-10", "name": "Combat Action", "set": "standard"}, {"date": "3034-07-01", "name": "Marksmanship", "set": "standard"}]
 origin-faction: GV
 origin-planet: Gotterdammerung
 age: 39

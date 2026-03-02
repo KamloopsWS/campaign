@@ -3,7 +3,7 @@ layout: bio
 title: Annabla O'Daal
 name: Annabla O'Daal
 status: Active
-xp: 1
+xp: 2
 edge-current: 0
 edge-total: 0
 role: MEK_TECH
