@@ -1,35 +1,38 @@
 ---
 layout: bio
-title: Arien Ducaine
+title: Sergeant Arien Ducaine
 name: Arien Ducaine
 status: Active
-xp: 4
+xp-current: 5
+xp-lifetime: 21
 edge-current: 1
 edge-total: 1
+is-player: 1
 role: MEKWARRIOR
 role-name: Mechwarrior
 skill-level: Regular
-skill-detail: 4/5
+skill-detail: 3/5
 callsign: Ironfoot
-kill-count: 2
-kill-list: [{"date": "3034-04-04", "killer": "Wolverine WVR-6K", "killed": "Crusader CRD-3K", "missionId": "1", "missionName": "Grumium Metals Long Term Assistance", "missionSlug": "grumium-metals-long-term-assistance", "scenarioId": "1", "scenarioName": "Coastal Port Defense", "scenarioSlug": "coastal-port-defense"}, {"date": "3034-05-05", "killer": "Wolverine WVR-6K", "killed": "Warhammer WHM-6R", "missionId": "1", "missionName": "Grumium Metals Long Term Assistance", "missionSlug": "grumium-metals-long-term-assistance", "scenarioId": "3", "scenarioName": "Coastal Mountain Checkpoint", "scenarioSlug": "coastal-mountain-checkpoint"}]
-award-count: 1
-award-list: [{"date": "3034-05-01", "name": "Combat Action", "set": "standard"}]
-medical-count: 6
-medical-list: [{"date": "3034-05-05", "desc": "Suffered the following new injuries:\n\t\tA torn muscle in her Left Foot\n\t\tA fractured Left Leg", "type": "MEDICAL"}, {"date": "3034-05-07", "desc": "Brooke \"Jam\" Jamison successfully treated Fractured Left Leg", "type": "MEDICAL"}, {"date": "3034-05-07", "desc": "Brooke \"Jam\" Jamison performed some amazing work in treating Torn Left Foot (1 fewer day(s) to heal)", "type": "MEDICAL"}, {"date": "3034-05-10", "desc": "Fractured Left Leg healed", "type": "MEDICAL"}, {"date": "3034-06-10", "desc": "Suffered the following new injuries:\n\t\tLeft Elbow Fracture (Compound)", "type": "MEDICAL"}, {"date": "3034-06-29", "desc": "Suffered the following new injuries:\n\t\tRight Shoulder Fracture", "type": "MEDICAL"}]
+kill-count: "014"
+kill-list: [{"date": "3034-04-04", "killer": "Wolverine WVR-6K", "killed": "Crusader CRD-3K", "missionId": "1", "missionName": "Grumium Metals Long Term Assistance", "missionSlug": "grumium-metals-long-term-assistance", "scenarioId": "1", "scenarioName": "Coastal Port Defense", "scenarioSlug": "coastal-port-defense"}, {"date": "3034-05-05", "killer": "Wolverine WVR-6K", "killed": "Warhammer WHM-6R", "missionId": "1", "missionName": "Grumium Metals Long Term Assistance", "missionSlug": "grumium-metals-long-term-assistance", "scenarioId": "3", "scenarioName": "Coastal Mountain Checkpoint", "scenarioSlug": "coastal-mountain-checkpoint"}, {"date": "3034-08-07", "killer": "Wolverine WVR-6K (Iron)", "killed": "Stinger STG-3G", "missionId": "1", "missionName": "Grumium Metals Long Term Assistance", "missionSlug": "grumium-metals-long-term-assistance", "scenarioId": "11", "scenarioName": "Governor Mansion Cleanup", "scenarioSlug": "governor-mansion-cleanup"}, {"date": "3034-09-24", "killer": "Rifleman RFL-3N (Crimson)", "killed": "Trebuchet TBT-5S", "missionId": "1", "missionName": "Grumium Metals Long Term Assistance", "missionSlug": "grumium-metals-long-term-assistance", "scenarioId": "14", "scenarioName": "Defense of Rendrezi Pass Cleanup", "scenarioSlug": "defense-of-rendrezi-pass-cleanup"}, {"date": "3034-11-26", "killer": "Awesome AQS-8Q", "killed": "Hunchback HBK-4G", "missionId": "1", "missionName": "Grumium Metals Long Term Assistance", "missionSlug": "grumium-metals-long-term-assistance", "scenarioId": "16", "scenarioName": "Coastal Port Ambush", "scenarioSlug": "coastal-port-ambush"}, {"date": "3034-12-08", "killer": "Rifleman RFL-3N (Crimson)", "killed": "Valkyrie VLK-QF", "missionId": "1", "missionName": "Grumium Metals Long Term Assistance", "missionSlug": "grumium-metals-long-term-assistance", "scenarioId": "17", "scenarioName": "Coastal Port Skirmish (Post Ambush)", "scenarioSlug": "coastal-port-skirmish-post-ambush"}, {"date": "3035-01-10", "killer": "Rifleman RFL-3N (Crimson)", "killed": "Crusader CRD-3R", "missionId": "1", "missionName": "Grumium Metals Long Term Assistance", "missionSlug": "grumium-metals-long-term-assistance", "scenarioId": "18", "scenarioName": "City Factory Defense", "scenarioSlug": "city-factory-defense"}, {"date": "3035-02-05", "killer": "Awesome AWS-8Q", "killed": "Wasp WSP-1A", "missionId": "1", "missionName": "Grumium Metals Long Term Assistance", "missionSlug": "grumium-metals-long-term-assistance", "scenarioId": "20", "scenarioName": "City Academy Ambush", "scenarioSlug": "city-academy-ambush"}, {"date": "3035-04-18", "killer": "Awesome AWS-8Q", "killed": "Charger CGR-1A5", "missionId": "1", "missionName": "Grumium Metals Long Term Assistance", "missionSlug": "grumium-metals-long-term-assistance", "scenarioId": "23", "scenarioName": "City Highway Breakthrough Defense", "scenarioSlug": "city-highway-breakthrough-defense"}, {"date": "3035-04-20", "killer": "Awesome AWS-8Q", "killed": "Clint CLNT-2-3T #3 (Princess-Shadowfiend)", "missionId": "1", "missionName": "Grumium Metals Long Term Assistance", "missionSlug": "grumium-metals-long-term-assistance", "scenarioId": "25", "scenarioName": "City Highway Probing Counter Attack", "scenarioSlug": "city-highway-probing-counter-attack"}, {"date": "3035-04-20", "killer": "Awesome AWS-8Q", "killed": "Raven RVN-4X #4 (Princess-Shadowfiend)", "missionId": "1", "missionName": "Grumium Metals Long Term Assistance", "missionSlug": "grumium-metals-long-term-assistance", "scenarioId": "25", "scenarioName": "City Highway Probing Counter Attack", "scenarioSlug": "city-highway-probing-counter-attack"}, {"date": "3035-04-21", "killer": "Awesome AWS-8Q", "killed": "Crab CRB-27b-RL", "missionId": "1", "missionName": "Grumium Metals Long Term Assistance", "missionSlug": "grumium-metals-long-term-assistance", "scenarioId": "26", "scenarioName": "City Assault on FOB", "scenarioSlug": "city-assault-on-fob"}, {"date": "3035-04-22", "killer": "Rifleman RFL-3N (Crimson)", "killed": "Cicada CDA-3C-RL", "missionId": "1", "missionName": "Grumium Metals Long Term Assistance", "missionSlug": "grumium-metals-long-term-assistance", "scenarioId": "27", "scenarioName": "City Cappellan Counter Assault", "scenarioSlug": "city-cappellan-counter-assault"}, {"date": "3035-11-15", "killer": "Awesome AWS-8Q", "killed": "Bombardier", "missionId": "1", "missionName": "Grumium Metals Long Term Assistance", "missionSlug": "grumium-metals-long-term-assistance", "scenarioId": "32", "scenarioName": "Pirates Dropship LZ Patrol Ambush", "scenarioSlug": "pirates-dropship-lz-patrol-ambush"}]
+award-count: 7
+award-list: [{"date": "3034-05-01", "name": "Combat Action", "set": "standard"}, {"date": "3034-09-24", "name": "Purple Heart", "set": "standard"}, {"date": "3034-11-15", "name": "Basic Training", "set": "standard"}, {"date": "3034-11-26", "name": "Crimson Banner", "set": "merc_custom"}, {"date": "3035-01-28", "name": "Ceremonial Duty", "set": "standard"}, {"date": "3035-03-30", "name": "NCO Academy Graduate", "set": "standard"}, {"date": "3035-04-21", "name": "Marksmanship", "set": "standard"}]
+medical-count: 13
+medical-list: [{"date": "3034-05-05", "desc": "Suffered the following new injuries:\n\t\tA torn muscle in her Left Foot\n\t\tA fractured Left Leg", "type": "MEDICAL"}, {"date": "3034-06-10", "desc": "Suffered the following new injuries:\n\t\tLeft Elbow Fracture (Compound)", "type": "MEDICAL"}, {"date": "3034-06-29", "desc": "Suffered the following new injuries:\n\t\tRight Shoulder Fracture", "type": "MEDICAL"}, {"date": "3034-07-12", "desc": "Suffered the following new injuries:\n\t\tLeft Foot Fracture\n\t\tRibs Fracture", "type": "MEDICAL"}, {"date": "3034-08-07", "desc": "Suffered the following new injuries:\n\t\tLeft Femur Fracture (Compound)", "type": "MEDICAL"}, {"date": "3034-09-24", "desc": "Suffered the following new injuries:\n\t\tSmoke Inhalation\n\t\tRight Femur Fracture (Compound)\n\t\tRight Shin Fracture (Compound)\n\t\tBurned Upper Left Arm\n\t\tRight Wrist Fracture (Compound)", "type": "MEDICAL"}, {"date": "3034-12-08", "desc": "Suffered the following new injuries:\n\t\tRight Shoulder Fracture (Compound)", "type": "MEDICAL"}, {"date": "3035-01-28", "desc": "Suffered the following new injuries:\n\t\tAbdominal Burn", "type": "MEDICAL"}, {"date": "3035-02-20", "desc": "Suffered the following new injuries:\n\t\tLeft Femur Fracture\n\t\tBurned Right Thigh", "type": "MEDICAL"}, {"date": "3035-04-18", "desc": "Suffered the following new injuries:\n\t\tBurned Left Calf", "type": "MEDICAL"}, {"date": "3035-04-20", "desc": "Suffered the following new injuries:\n\t\tBruised Left Femur", "type": "MEDICAL"}, {"date": "3035-08-11", "desc": "Suffered the following new injuries:\n\t\tBruised Right Femur\n\t\tLeft Femur Fracture", "type": "MEDICAL"}, {"date": "3035-11-15", "desc": "Suffered the following new injuries:\n\t\tRight Femur Fracture (Compound)\n\t\tRight Hand Fracture (Compound)\n\t\tRight Elbow Fracture (Compound)\n\t\tRight Wrist Fracture (Compound)", "type": "MEDICAL"}]
 origin-faction: DC
 origin-planet: Rasalhague
-age: 20
-skill-list: [{"name": "Demolitions", "level": 3, "bonus": 0}, {"name": "Gunnery/Mek", "level": 4, "bonus": 0}, {"name": "Interest/Music", "level": 1, "bonus": 0}, {"name": "Martial Arts", "level": 3, "bonus": 0}, {"name": "Perception", "level": 3, "bonus": 0}, {"name": "Piloting/Mek", "level": 3, "bonus": 0}, {"name": "Small Arms", "level": 2, "bonus": 0}]
+age: 22
+skill-list: [{"name": "Demolitions", "level": 3, "bonus": 0}, {"name": "Gunnery/Mek", "level": 5, "bonus": 0}, {"name": "Interest/Music", "level": 1, "bonus": 0}, {"name": "Martial Arts", "level": 3, "bonus": 0}, {"name": "Perception", "level": 3, "bonus": 0}, {"name": "Piloting/Mek", "level": 3, "bonus": 0}, {"name": "Small Arms", "level": 2, "bonus": 0}]
 skill-count: 7
-rank-number: 0
-unit: Wolverine WVR-6K (Iron)
-unit-id: a9bea610-370d-4361-bede-7aeff68f7842
-unit-slug: wolverine-wvr6k-iron
+rank-number: "012"
+rank-name: Sergeant
+unit: Rifleman RFL-3N (Crimson)
+unit-id: 3b657223-fe04-4134-9e2b-f5b69ff5b1df
+unit-slug: rifleman-rfl3n-crimson
 slug: arien-ducaine
-force: Alfa Battalion, 1st Company, Command Lance
-force-slug: alfa-battalion-1st-company-command-lance
+force: 1st Regiment, Alfa Battalion, 1st Company, Command Lance (1st)
+force-slug: n1st-regiment-alfa-battalion-1st-company-command-lance-1st
 portrait: arien-ducaine.gif
 ---
 
-Devon's charatcer.
+Devon's character.

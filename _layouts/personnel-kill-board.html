@@ -27,7 +27,7 @@
 
                 <!-- Breakdown staff in this role by rank -->
                 {% assign groupedRanks = group.items | group_by: 'rank-number' %}       
-                {% assign groupedRanksSorted = groupedRanks | sort: "name" | reverse %}
+                {% assign groupedRanksSorted = groupedRanks | sort: "value" | reverse %}
 
                 <!-- DEBUG -->
                 <!-- <span>{{ groupedRanksSorted }}</span> -->
@@ -36,7 +36,7 @@
                 {% for rank in groupedRanksSorted %}
 
                     <!-- DEBUG -->
-                    <!-- <span>{{ rank.name }} ({{ rank.size }})</span> -->
+                    <!-- <span>Rank = {{ rank.name }}<br/>Size = {{ rank.size }}</span><br/> -->
 
                     <!-- Breakdown all staff in current rank -->
                     {% assign staffList = rank.items | sort: "name" %}

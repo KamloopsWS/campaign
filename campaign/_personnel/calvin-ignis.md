@@ -1,34 +1,37 @@
 ---
 layout: bio
-title: Calvin Ignis
+title: Sergeant Calvin Ignis
 name: Calvin Ignis
 status: Active
-xp: 4
-edge-current: 1
-edge-total: 1
+xp-current: 4
+xp-lifetime: 20
+edge-current: 2
+edge-total: 2
+is-player: 1
 role: MEKWARRIOR
 role-name: Mechwarrior
 skill-level: Regular
-skill-detail: 4/5
+skill-detail: 3/5
 callsign: Swampy
-kill-count: 2
-kill-list: [{"date": "3034-04-04", "killer": "Blackjack BJ-1DB", "killed": "Blackjack BJ-1", "missionId": "1", "missionName": "Grumium Metals Long Term Assistance", "missionSlug": "grumium-metals-long-term-assistance", "scenarioId": "1", "scenarioName": "Coastal Port Defense", "scenarioSlug": "coastal-port-defense"}, {"date": "3034-06-10", "killer": "Blackjack BG-1DB (Lucky Jack)", "killed": "Guillotine GLT-4P", "missionId": "1", "missionName": "Grumium Metals Long Term Assistance", "missionSlug": "grumium-metals-long-term-assistance", "scenarioId": "6", "scenarioName": "Coastal Port Defense 2", "scenarioSlug": "coastal-port-defense-2"}]
-award-count: 2
-award-list: [{"date": "3034-05-01", "name": "Combat Action", "set": "standard"}, {"date": "3034-06-10", "name": "Purple Heart", "set": "standard"}]
-medical-count: 7
-medical-list: [{"date": "3034-06-10", "desc": "Suffered the following new injuries:\n\t\tBurned Left Calf\n\t\tBurned Upper Right Arm\n\t\tLeft Wrist Fracture (Compound)\n\t\tLeft Foot Fracture\n\t\tRight Shoulder Fracture", "type": "MEDICAL"}, {"date": "3034-06-12", "desc": "Burned Upper Right Arm took longer to heal than expected", "type": "MEDICAL"}, {"date": "3034-06-14", "desc": "Burned Upper Right Arm took longer to heal than expected", "type": "MEDICAL"}, {"date": "3034-06-14", "desc": "Burned Left Calf took longer to heal than expected", "type": "MEDICAL"}, {"date": "3034-06-16", "desc": "Burned Upper Right Arm took longer to heal than expected", "type": "MEDICAL"}, {"date": "3034-06-18", "desc": "Burned Upper Right Arm took longer to heal than expected", "type": "MEDICAL"}, {"date": "3034-06-19", "desc": "Left Foot Fracture took longer to heal than expected", "type": "MEDICAL"}]
+kill-count: "012"
+kill-list: [{"date": "3034-04-04", "killer": "Blackjack BJ-1DB", "killed": "Blackjack BJ-1", "missionId": "1", "missionName": "Grumium Metals Long Term Assistance", "missionSlug": "grumium-metals-long-term-assistance", "scenarioId": "1", "scenarioName": "Coastal Port Defense", "scenarioSlug": "coastal-port-defense"}, {"date": "3034-06-10", "killer": "Blackjack BG-1DB (Lucky Jack)", "killed": "Guillotine GLT-4P", "missionId": "1", "missionName": "Grumium Metals Long Term Assistance", "missionSlug": "grumium-metals-long-term-assistance", "scenarioId": "6", "scenarioName": "Coastal Port Defense 2", "scenarioSlug": "coastal-port-defense-2"}, {"date": "3034-09-16", "killer": "Blackjack BG-1DB (Lucky Jack)", "killed": "Commando COM-7Y", "missionId": "1", "missionName": "Grumium Metals Long Term Assistance", "missionSlug": "grumium-metals-long-term-assistance", "scenarioId": "13", "scenarioName": "Defense of Rendrezi Pass", "scenarioSlug": "defense-of-rendrezi-pass"}, {"date": "3034-11-26", "killer": "Thunderbolt TDR-5S-T (Tallman)", "killed": "Lancelot LNC25-05 (Dread Legion)", "missionId": "1", "missionName": "Grumium Metals Long Term Assistance", "missionSlug": "grumium-metals-long-term-assistance", "scenarioId": "16", "scenarioName": "Coastal Port Ambush", "scenarioSlug": "coastal-port-ambush"}, {"date": "3034-12-08", "killer": "Thunderbolt TDR-5S-T (Tallman)", "killed": "Quickdraw QKD-4G", "missionId": "1", "missionName": "Grumium Metals Long Term Assistance", "missionSlug": "grumium-metals-long-term-assistance", "scenarioId": "17", "scenarioName": "Coastal Port Skirmish (Post Ambush)", "scenarioSlug": "coastal-port-skirmish-post-ambush"}, {"date": "3035-01-10", "killer": "Thunderbolt TDR-5S-T (Tallman)", "killed": "Griffin GRF-1N", "missionId": "1", "missionName": "Grumium Metals Long Term Assistance", "missionSlug": "grumium-metals-long-term-assistance", "scenarioId": "18", "scenarioName": "City Factory Defense", "scenarioSlug": "city-factory-defense"}, {"date": "3035-01-10", "killer": "Thunderbolt TDR-5S-T (Tallman)", "killed": "Griffin GRF-1N", "missionId": "1", "missionName": "Grumium Metals Long Term Assistance", "missionSlug": "grumium-metals-long-term-assistance", "scenarioId": "18", "scenarioName": "City Factory Defense", "scenarioSlug": "city-factory-defense"}, {"date": "3035-01-28", "killer": "Thunderbolt TDR-5S-T (Tallman)", "killed": "Griffin GRF-1N", "missionId": "1", "missionName": "Grumium Metals Long Term Assistance", "missionSlug": "grumium-metals-long-term-assistance", "scenarioId": "19", "scenarioName": "City Peace Talks", "scenarioSlug": "city-peace-talks"}, {"date": "3035-01-28", "killer": "Thunderbolt TDR-5S-T (Tallman)", "killed": "Locust LCT-1V", "missionId": "1", "missionName": "Grumium Metals Long Term Assistance", "missionSlug": "grumium-metals-long-term-assistance", "scenarioId": "19", "scenarioName": "City Peace Talks", "scenarioSlug": "city-peace-talks"}, {"date": "3035-01-28", "killer": "Thunderbolt TDR-5S-T (Tallman)", "killed": "Vindicator VND-1R", "missionId": "1", "missionName": "Grumium Metals Long Term Assistance", "missionSlug": "grumium-metals-long-term-assistance", "scenarioId": "19", "scenarioName": "City Peace Talks", "scenarioSlug": "city-peace-talks"}, {"date": "3035-01-28", "killer": "Thunderbolt TDR-5S-T (Tallman)", "killed": "Wasp WSP-1L", "missionId": "1", "missionName": "Grumium Metals Long Term Assistance", "missionSlug": "grumium-metals-long-term-assistance", "scenarioId": "19", "scenarioName": "City Peace Talks", "scenarioSlug": "city-peace-talks"}, {"date": "3035-02-05", "killer": "Thunderbolt TDR-5S-T (Tallman)", "killed": "Stinger STG-3R", "missionId": "1", "missionName": "Grumium Metals Long Term Assistance", "missionSlug": "grumium-metals-long-term-assistance", "scenarioId": "20", "scenarioName": "City Academy Ambush", "scenarioSlug": "city-academy-ambush"}]
+award-count: 8
+award-list: [{"date": "3034-05-01", "name": "Combat Action", "set": "standard"}, {"date": "3034-06-10", "name": "Purple Heart", "set": "standard"}, {"date": "3034-11-15", "name": "Basic Training", "set": "standard"}, {"date": "3034-11-26", "name": "Crimson Banner", "set": "merc_custom"}, {"date": "3035-01-28", "name": "Bronze Star", "set": "standard"}, {"date": "3035-03-30", "name": "NCO Academy Graduate", "set": "standard"}, {"date": "3035-03-30", "name": "Marksmanship", "set": "standard"}, {"date": "3035-04-21", "name": "Prisoner of War", "set": "standard"}]
+medical-count: 11
+medical-list: [{"date": "3034-06-10", "desc": "Suffered the following new injuries:\n\t\tBurned Left Calf\n\t\tBurned Upper Right Arm\n\t\tLeft Wrist Fracture (Compound)\n\t\tLeft Foot Fracture\n\t\tRight Shoulder Fracture", "type": "MEDICAL"}, {"date": "3034-07-12", "desc": "Suffered the following new injuries:\n\t\tLeft Hip Fracture", "type": "MEDICAL"}, {"date": "3034-08-03", "desc": "Suffered the following new injuries:\n\t\tBurned Chest\n\t\tLeft Femur Fracture\n\t\tLeft Hand Fracture (Compound)\n\t\tLeft Femur Fracture\n\t\tBurned Left Thigh", "type": "MEDICAL"}, {"date": "3034-09-16", "desc": "Suffered the following new injuries:\n\t\tLeft Ankle Fracture", "type": "MEDICAL"}, {"date": "3034-12-08", "desc": "Suffered the following new injuries:\n\t\tBurned Left Thigh", "type": "MEDICAL"}, {"date": "3035-01-10", "desc": "Suffered the following new injuries:\n\t\tDisemboweled\n\t\tLeft Forearm Fracture (Compound)", "type": "MEDICAL"}, {"date": "3035-01-28", "desc": "Suffered the following new injuries:\n\t\tOrgan Trauma", "type": "MEDICAL"}, {"date": "3035-02-20", "desc": "Suffered the following new injuries:\n\t\tBurned Chest\n\t\tOrgan Trauma\n\t\tRight Wrist Fracture (Compound)\n\t\tBurned Right Calf", "type": "MEDICAL"}, {"date": "3035-04-17", "desc": "Suffered the following new injuries:\n\t\tRight Wrist Fracture (Compound)", "type": "MEDICAL"}, {"date": "3035-04-18", "desc": "Suffered the following new injuries:\n\t\tSkull Fracture\n\t\tOrgan Trauma\n\t\tBruised Left Femur\n\t\tDisemboweled\n\t\tSevered Left Arm", "type": "MEDICAL"}, {"date": "3035-08-11", "desc": "Suffered the following new injuries:\n\t\tLeft Femur Fracture\n\t\tBurned Chest\n\t\tSmoke Inhalation\n\t\tLeft Shoulder Fracture\n\t\tLeft Elbow Fracture (Compound)", "type": "MEDICAL"}]
 origin-faction: MERC
 origin-planet: Galatea
-age: 40
-skill-list: [{"name": "Appraisal", "level": 2, "bonus": 0}, {"name": "Disguise", "level": 2, "bonus": 0}, {"name": "Escape Artist", "level": 2, "bonus": 0}, {"name": "Gunnery/Mek", "level": 4, "bonus": 0}, {"name": "Interest/Economics", "level": 2, "bonus": 0}, {"name": "Interest/Exotic Animals", "level": 2, "bonus": 0}, {"name": "Interrogation", "level": 2, "bonus": 0}, {"name": "Piloting/Mek", "level": 3, "bonus": 0}, {"name": "Science/Pharmacology", "level": 2, "bonus": 0}, {"name": "Survival/Any", "level": 2, "bonus": 0}, {"name": "Swimming", "level": 2, "bonus": 0}, {"name": "Tech/Mek", "level": 2, "bonus": 0}]
+age: 42
+skill-list: [{"name": "Appraisal", "level": 2, "bonus": 0}, {"name": "Disguise", "level": 2, "bonus": 0}, {"name": "Escape Artist", "level": 2, "bonus": 0}, {"name": "Gunnery/Mek", "level": 5, "bonus": 0}, {"name": "Interest/Economics", "level": 2, "bonus": 0}, {"name": "Interest/Exotic Animals", "level": 2, "bonus": 0}, {"name": "Interrogation", "level": 2, "bonus": 0}, {"name": "Piloting/Mek", "level": 3, "bonus": 0}, {"name": "Science/Pharmacology", "level": 2, "bonus": 0}, {"name": "Survival/Any", "level": 2, "bonus": 0}, {"name": "Swimming", "level": 2, "bonus": 0}, {"name": "Tech/Mek", "level": 2, "bonus": 0}]
 skill-count: 12
-rank-number: 0
-unit: Blackjack BJ-1DB (Lucky Jack)
-unit-id: 2bd6e8f9-a914-46c8-813f-89ddf928a6f6
-unit-slug: blackjack-bj1db-lucky-jack
+rank-number: "012"
+rank-name: Sergeant
+unit: Thunderbolt TDR-5S-T (Tallman)
+unit-id: 74e2d9fc-0cd4-49c5-9155-123b2bb70681
+unit-slug: thunderbolt-tdr5st-tallman
 slug: calvin-ignis
-force: Alfa Battalion, 1st Company, Fire Lance
-force-slug: alfa-battalion-1st-company-fire-lance
+force: 1st Regiment, Alfa Battalion, 1st Company, Battle Lance
+force-slug: n1st-regiment-alfa-battalion-1st-company-battle-lance
 portrait: calvin-ignis.gif
 ---
 

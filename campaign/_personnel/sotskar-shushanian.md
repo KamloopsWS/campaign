@@ -3,19 +3,21 @@ layout: bio
 title: Sotskar Shushanian
 name: Sotskar Shushanian
 status: Active
-xp: 1
+xp-current: 8
+xp-lifetime: 8
 edge-current: 0
 edge-total: 0
+is-player: 0
 role: MEK_TECH
 role-name: Mech Tech
 skill-level: Regular
 skill-detail: 6+
 origin-faction: IND
 origin-planet: Theta Carinae Cluster
-age: 18
+age: 19
 skill-list: [{"name": "Cryptography", "level": 1, "bonus": 0}, {"name": "Interrogation", "level": 1, "bonus": 0}, {"name": "Tech/Mek", "level": 3, "bonus": 0}]
 skill-count: 3
-rank-number: 0
+rank-number: "000"
 slug: sotskar-shushanian
 portrait: sotskar-shushanian.png
 ---

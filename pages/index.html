@@ -10,21 +10,33 @@ permalink: /index.html
  
 <p>We are a small group of mercenaries, currently operating as subcontractors for a larger mercenary coopertive called 'Petterson's Pistolleros'.<br/><br/>Petterson named the group "Ram Heads" temporarily due to the amount of personnel that tried and failed to negotiate better employement terms with a man who hates the talking part of the hiring process.</p>
 
+<p>
+{% if site.campaign_funds %}
+<strong>Campaign Funds: {{ site.campaign_funds }} C-Bills</strong><br/>
+{% endif %}
+
 {% if site.campaign_date %}
 {% assign campaignDateString = site.campaign_date %}
 <!-- <h4> -->
-<strong>Date: 
+<strong>Campaign Date: 
 <time datetime="{{ campaignDateString | date: '%Y-%m-%d' }}">
 {{ campaignDateString | date: '%B %d, %Y' }}
+</time>
+</strong><br/>
+<!-- </h4> -->
+{% endif %}
+
+{% if site.update_date %}
+{% assign lastUpdatedDate = site.update_date %}
+<!-- <h4> -->
+<strong>Last Updated Date: 
+<time datetime="{{ lastUpdatedDate | date: '%Y-%m-%d' }}">
+{{ lastUpdatedDate | date: '%B %d, %Y' }}
 </time>
 </strong>
 <!-- </h4> -->
 {% endif %}
-
-{% if site.campaign_funds %}
-<br/>
-<strong>Funds: {{ site.campaign_funds }} C-Bills</strong>
-{% endif %}
+</p>
 
 {% if site.toe_front_page %}
 {% for force in site.forces %}

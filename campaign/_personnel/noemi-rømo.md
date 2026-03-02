@@ -3,25 +3,27 @@ layout: bio
 title: Noemi Rømo
 name: Noemi Rømo
 status: Active
-xp: 0
+xp-current: 0
+xp-lifetime: 0
 edge-current: 0
 edge-total: 0
+is-player: 0
 role: SOLDIER
 role-name: Soldier
 skill-level: Regular
 skill-detail: 4+
 origin-faction: DC
 origin-planet: Ebensburg
-age: 32
+age: 33
 skill-list: [{"name": "Computers", "level": 1, "bonus": 0}, {"name": "Science/Xenobiology", "level": 1, "bonus": 0}, {"name": "Sensor Operations", "level": 1, "bonus": 0}, {"name": "Small Arms", "level": 3, "bonus": 0}, {"name": "Swimming", "level": 1, "bonus": 0}]
 skill-count: 5
-rank-number: 0
-unit: Foot Platoon (Rifle)
+rank-number: "000"
+unit: Foot Platoon (Anti-'Mech) Merc (Rifle)
 unit-id: f12bda79-1205-4860-a555-bed8f4fdca9b
-unit-slug: foot-platoon-rifle
+unit-slug: foot-platoon-antimech-merc-rifle
 slug: noemi-rømo
-force: Support Battalion, Security Lance
-force-slug: support-battalion-security-lance
+force: 1st Regiment, Alfa Battalion, Auxiliary Company, Mobile Infantry Force
+force-slug: n1st-regiment-alfa-battalion-auxiliary-company-mobile-infantry-force
 portrait: noemi-rømo.png
 ---
 

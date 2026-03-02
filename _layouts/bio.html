@@ -56,9 +56,13 @@
               <dt class="col-sm-2 mb-0 pl-0">Edge #: </dt>
               <dd class="col-sm-10 mb-0 pl-0">{{page.edge-current}}/{{page.edge-total}}</dd>
             {% endif %}
-            {% if page.xp %}
-              <dt class="col-sm-2 mb-0 pl-0">EXP #: </dt>
-              <dd class="col-sm-10 mb-0 pl-0">{{page.xp}}</dd>
+            {% if page.xp-current %}
+              <dt class="col-sm-2 mb-0 pl-0">EXP (Current) #: </dt>
+              <dd class="col-sm-10 mb-0 pl-0">{{page.xp-current}}</dd>
+            {% endif %}
+            {% if page.xp-lifetime %}
+              <dt class="col-sm-2 mb-0 pl-0">EXP (Earned) #: </dt>
+              <dd class="col-sm-10 mb-0 pl-0">{{page.xp-lifetime}}</dd>
             {% endif %}
             {% if page.skill-count and page.skill-count > 0 %}
                 <dt class="col-sm-2 mb-0 pl-0">Skills: </dt>

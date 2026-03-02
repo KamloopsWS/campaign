@@ -10,8 +10,10 @@
             </button>
           </h2>
         </div>
-        <div id="{{ subforce.slug }}" class="collapse hide" aria-labelledby="{{subforce.slug}}-header" data-parent="#accordion-{{include.parent_slug}}">
-          <div class="card-body">
+
+        <div id="{{ subforce.slug }}" class="collapse show" aria-labelledby="{{subforce.slug}}-header" data-parent="#accordion-{{include.parent_slug}}">    
+
+        <div class="card-body">
             {{ subforce.content }}
             {% include toe-element.html parent_slug=subforce.slug %}
           </div>
@@ -39,9 +41,15 @@
                 {% assign custom=nil %}
                 {% include find-custom.html custom-slug=person.unit-slug %}
                 {% if custom %}
-                  <a href="{{ person.url | relative_url }}">{{person.title}}</a>, <a href="{{ site.baseurl}}/tro/{{ custom }}">{{person.unit}}</a>
+                  <a href="{{ person.url | relative_url }}">
+                  {{person.title}}
+                  {% if person.is-player == 1 %}(PC){% endif %}
+                  </a>, <a href="{{ site.baseurl}}/tro/{{ custom }}">{{person.unit}}</a>
                 {% else %}
-                  <a href="{{ person.url | relative_url }}">{{person.title}}</a>, {{person.unit}}
+                  <a href="{{ person.url | relative_url }}">
+                  {{person.title}}
+                  {% if person.is-player == 1 %}(PC){% endif %}
+                  </a>, {{person.unit}}
                 {% endif %}
               {% endif %}
             </div>
