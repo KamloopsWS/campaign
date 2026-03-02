@@ -18,6 +18,8 @@ unit: Engineering Vehicle
 unit-id: c659e5d0-e6b5-48e0-83be-5fee8ab71c94
 unit-slug: engineering-vehicle
 slug: jose-inocian
+force: Support Battalion, Engineer Lance
+force-slug: support-battalion-engineer-lance
 portrait: jose-inocian.png
 ---
 
