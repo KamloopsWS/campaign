@@ -10,7 +10,7 @@ role: VEHICLE_CREW_GROUND
 role-name: Vehicle Crew Ground
 origin-faction: LA
 origin-planet: Kelenfold
-age: 16
+age: 17
 skill-list: [{"name": "Gunnery/Vehicle", "level": 1, "bonus": 0}, {"name": "Investigation", "level": 1, "bonus": 0}, {"name": "Piloting/Ground Vehicle", "level": 1, "bonus": 0}, {"name": "Swimming", "level": 1, "bonus": 0}]
 skill-count: 4
 rank-number: 0

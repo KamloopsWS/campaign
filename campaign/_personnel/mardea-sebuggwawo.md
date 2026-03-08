@@ -12,7 +12,7 @@ skill-level: Veteran
 skill-detail: 3+
 origin-faction: DC
 origin-planet: Philadelphia
-age: 34
+age: 35
 skill-list: [{"name": "Career/Any", "level": 1, "bonus": 0}, {"name": "Communications/Any", "level": 1, "bonus": 0}, {"name": "Science/Military", "level": 1, "bonus": 0}, {"name": "Small Arms", "level": 4, "bonus": 0}, {"name": "Stealth", "level": 1, "bonus": 0}, {"name": "Strategy", "level": 2, "bonus": 0}, {"name": "Streetwise/Any", "level": 1, "bonus": 0}, {"name": "Survival/Any", "level": 1, "bonus": 0}]
 skill-count: 8
 rank-number: 0

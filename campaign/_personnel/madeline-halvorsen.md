@@ -3,7 +3,7 @@ layout: bio
 title: Madeline Halvorsen
 name: Madeline Halvorsen
 status: Active
-xp: 0
+xp: 1
 edge-current: 0
 edge-total: 0
 role: MEK_TECH

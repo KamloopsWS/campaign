@@ -12,7 +12,7 @@ skill-level: Ultra-Green
 skill-detail: 6+
 origin-faction: MERC
 origin-planet: Teniente
-age: 16
+age: 17
 skill-list: [{"name": "Protocols/Any", "level": 1, "bonus": 0}, {"name": "Science/Xenobiology", "level": 1, "bonus": 0}, {"name": "Small Arms", "level": 1, "bonus": 0}]
 skill-count: 3
 rank-number: 0

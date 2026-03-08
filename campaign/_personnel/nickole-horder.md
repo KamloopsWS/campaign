@@ -10,7 +10,7 @@ role: VEHICLE_CREW_GROUND
 role-name: Vehicle Crew Ground
 origin-faction: MERC
 origin-planet: Almunge
-age: 29
+age: 30
 skill-list: [{"name": "Gunnery/Vehicle", "level": 4, "bonus": 0}, {"name": "Piloting/Ground Vehicle", "level": 4, "bonus": 0}, {"name": "Small Arms", "level": 3, "bonus": 0}, {"name": "Strategy", "level": 1, "bonus": 0}, {"name": "Tactics/Any", "level": 2, "bonus": 0}]
 skill-count: 5
 rank-number: 0

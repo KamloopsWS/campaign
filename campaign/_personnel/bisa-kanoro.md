@@ -10,7 +10,7 @@ role: VEHICLE_CREW_VTOL
 role-name: Vehicle Crew VTOL
 origin-faction: IND
 origin-planet: Erin
-age: 16
+age: 17
 skill-list: [{"name": "Computers", "level": 1, "bonus": 0}, {"name": "Gunnery/Vehicle", "level": 3, "bonus": 0}, {"name": "Piloting/VTOL", "level": 3, "bonus": 0}, {"name": "Science/Psychology", "level": 1, "bonus": 0}, {"name": "Small Arms", "level": 1, "bonus": 0}]
 skill-count: 5
 rank-number: 0

@@ -10,7 +10,7 @@ role: VEHICLE_CREW_GROUND
 role-name: Vehicle Crew Ground
 origin-faction: IND
 origin-planet: Erin
-age: 28
+age: 29
 skill-list: [{"name": "Computers", "level": 1, "bonus": 0}, {"name": "Gunnery/Vehicle", "level": 3, "bonus": 0}, {"name": "Leadership", "level": 1, "bonus": 0}, {"name": "Piloting/Ground Vehicle", "level": 3, "bonus": 0}, {"name": "Security Systems/Mechanical", "level": 1, "bonus": 0}, {"name": "Small Arms", "level": 2, "bonus": 0}]
 skill-count: 6
 rank-number: 0

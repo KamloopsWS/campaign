@@ -12,7 +12,7 @@ skill-level: Regular
 skill-detail: 4+
 origin-faction: GV
 origin-planet: Gotterdammerung
-age: 25
+age: 26
 skill-list: [{"name": "Investigation", "level": 1, "bonus": 0}, {"name": "Small Arms", "level": 3, "bonus": 0}, {"name": "Swimming", "level": 2, "bonus": 0}]
 skill-count: 3
 rank-number: 0

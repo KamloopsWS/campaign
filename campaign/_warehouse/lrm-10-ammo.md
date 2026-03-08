@@ -5,12 +5,12 @@ name-full: LRM 10 Ammo
 name-type: IS Ammo LRM-10
 con-size: 
 con-equip-tonnage: 
-con-unit-tonnage: 55
+con-unit-tonnage: 0
 flag-isclan: 
 inv-amount: 0
 inv-quality: 3
 inv-quantity: 2
-inv-shots: 57
+inv-shots: 84
 type-attr-save: mekhq.campaign.parts.AmmoStorage
 type-attr-web: Ammo
 ---

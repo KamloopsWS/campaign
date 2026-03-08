@@ -12,7 +12,7 @@ skill-level: Veteran
 skill-detail: 5+
 origin-faction: IND
 origin-planet: Erin
-age: 32
+age: 33
 skill-list: [{"name": "Cryptography", "level": 1, "bonus": 0}, {"name": "Survival/Any", "level": 1, "bonus": 0}, {"name": "Tech/Mek", "level": 4, "bonus": 0}, {"name": "Tracking/Any", "level": 1, "bonus": 0}]
 skill-count: 4
 rank-number: 0

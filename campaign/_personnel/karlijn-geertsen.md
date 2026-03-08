@@ -12,7 +12,7 @@ skill-level: Regular
 skill-detail: 4+
 origin-faction: MERC
 origin-planet: Aesir
-age: 23
+age: 24
 skill-list: [{"name": "Cryptography", "level": 1, "bonus": 0}, {"name": "Small Arms", "level": 3, "bonus": 0}]
 skill-count: 2
 rank-number: 0

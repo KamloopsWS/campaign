@@ -10,7 +10,7 @@ role: VEHICLE_CREW_VTOL
 role-name: Vehicle Crew VTOL
 origin-faction: LA
 origin-planet: Dalkeith
-age: 27
+age: 28
 skill-list: [{"name": "Acrobatics", "level": 1, "bonus": 0}, {"name": "Gunnery/Vehicle", "level": 3, "bonus": 0}, {"name": "Piloting/VTOL", "level": 3, "bonus": 0}, {"name": "Running", "level": 1, "bonus": 0}, {"name": "Small Arms", "level": 3, "bonus": 0}, {"name": "Stealth", "level": 1, "bonus": 0}, {"name": "Swimming", "level": 1, "bonus": 0}]
 skill-count: 7
 rank-number: 0

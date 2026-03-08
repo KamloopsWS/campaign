@@ -3,7 +3,7 @@ layout: bio
 title: Mersel Topalli
 name: Mersel Topalli
 status: Active
-xp: 0
+xp: 3
 edge-current: 0
 edge-total: 0
 role: MEK_TECH

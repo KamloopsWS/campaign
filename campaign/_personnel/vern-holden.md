@@ -4,7 +4,7 @@ title: Vern Holden
 name: Vern Holden
 status: Active
 xp: 1
-edge-current: 0
+edge-current: 1
 edge-total: 1
 role: MEKWARRIOR
 role-name: Mechwarrior
@@ -16,9 +16,9 @@ kill-list: [{"date": "3034-05-05", "killer": "Hatchetman HCT-TMW2X (Sigurd)", "k
 award-count: 1
 award-list: [{"date": "3034-05-01", "name": "Combat Action", "set": "standard"}]
 medical-count: 6
-medical-list: [{"date": "3034-06-10", "desc": "Suffered the following new injuries:\n\t\tUpper Left Arm Fracture (Compound)", "type": "MEDICAL"}, {"date": "3034-06-20", "desc": "Upper Left Arm Fracture (Compound) took longer to heal than expected", "type": "MEDICAL"}, {"date": "3034-06-29", "desc": "Suffered the following new injuries:\n\t\tLeft Shoulder Fracture (Compound)", "type": "MEDICAL"}, {"date": "3034-07-09", "desc": "Left Shoulder Fracture (Compound) took longer to heal than expected", "type": "MEDICAL"}, {"date": "3034-07-12", "desc": "Suffered the following new injuries:\n\t\tSmoke Inhalation", "type": "MEDICAL"}, {"date": "3034-07-12", "desc": "Suffered the following new injuries:\n\t\tOrgan Trauma", "type": "MEDICAL"}]
+medical-list: [{"date": "3034-06-10", "desc": "Suffered the following new injuries:\n\t\tUpper Left Arm Fracture (Compound)", "type": "MEDICAL"}, {"date": "3034-06-20", "desc": "Upper Left Arm Fracture (Compound) took longer to heal than expected", "type": "MEDICAL"}, {"date": "3034-06-29", "desc": "Suffered the following new injuries:\n\t\tLeft Shoulder Fracture (Compound)", "type": "MEDICAL"}, {"date": "3034-07-09", "desc": "Left Shoulder Fracture (Compound) took longer to heal than expected", "type": "MEDICAL"}, {"date": "3034-07-12", "desc": "Suffered the following new injuries:\n\t\tOrgan Trauma", "type": "MEDICAL"}, {"date": "3034-07-12", "desc": "Suffered the following new injuries:\n\t\tSmoke Inhalation", "type": "MEDICAL"}]
 origin-faction: LA
-origin-planet: Galatia III
+origin-planet: Tamar
 age: 21
 skill-list: [{"name": "Appraisal", "level": 2, "bonus": 0}, {"name": "Communications/Any", "level": 2, "bonus": 0}, {"name": "Demolitions", "level": 2, "bonus": 0}, {"name": "Gunnery/Mek", "level": 4, "bonus": 0}, {"name": "Interest/Antiques", "level": 2, "bonus": 0}, {"name": "Interest/Holo-Games", "level": 2, "bonus": 0}, {"name": "Interest/Music", "level": 2, "bonus": 0}, {"name": "Melee Weapons", "level": 2, "bonus": 0}, {"name": "Perception", "level": 2, "bonus": 0}, {"name": "Piloting/Mek", "level": 4, "bonus": 0}, {"name": "Small Arms", "level": 2, "bonus": 0}, {"name": "Stealth", "level": 2, "bonus": 0}, {"name": "Support Weapons", "level": 2, "bonus": 0}]
 skill-count: 13

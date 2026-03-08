@@ -3,7 +3,7 @@ layout: bio
 title: Sayori Hasegawa
 name: Sayori Hasegawa
 status: Active
-xp: 2
+xp: 3
 edge-current: 0
 edge-total: 0
 role: MEK_TECH
