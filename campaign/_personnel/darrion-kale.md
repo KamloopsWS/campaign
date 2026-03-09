@@ -12,7 +12,7 @@ skill-level: Regular
 skill-detail: 4/5
 callsign: Smoke-Break
 kill-count: 2
-kill-list: [{"date": "3034-06-10", "killer": "Shadow hawk SHD-TMW1", "killed": "Cicada CDA-3C", "missionId": "1", "missionName": "Grumium Metals Long Term Assistance", "missionSlug": "grumium-metals-long-term-assistance", "scenarioId": "6", "scenarioName": "Coastal Port Defense 2", "scenarioSlug": "coastal-port-defense-2"}, {"date": "3034-06-15", "killer": "Shadow Hawk SHD-TMW1", "killed": "Crusader CRD-3R (Steiner)", "missionId": "1", "missionName": "Grumium Metals Long Term Assistance", "missionSlug": "grumium-metals-long-term-assistance", "scenarioId": "7", "scenarioName": "Coastal Convoy Escort", "scenarioSlug": "coastal-convoy-escort"}]
+kill-list: [{"date": "3034-06-10", "killer": "Shadow hawk SHD-TMW1", "killed": "Cicada CDA-3C", "missionId": "1", "missionName": "Grumium Metals Long Term Assistance", "missionSlug": "grumium-metals-long-term-assistance", "scenarioId": "6", "scenarioName": "Coastal Port Defense 2", "scenarioSlug": "coastal-port-defense-2"}, {"date": "3034-06-15", "killer": "Shadow Hawk SHD-TMW1", "killed": "Crusader CRD-3R", "missionId": "1", "missionName": "Grumium Metals Long Term Assistance", "missionSlug": "grumium-metals-long-term-assistance", "scenarioId": "7", "scenarioName": "Coastal Convoy Escort", "scenarioSlug": "coastal-convoy-escort"}]
 award-count: 1
 award-list: [{"date": "3034-06-10", "name": "Combat Action", "set": "standard"}]
 medical-count: 6
