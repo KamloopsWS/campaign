@@ -3,7 +3,7 @@ layout: bio
 title: Sergeant Hicham Shukrani
 name: Hicham Shukrani
 status: Active
-xp: 0
+xp: 2
 edge-current: 1
 edge-total: 1
 role: SOLDIER

@@ -10,7 +10,7 @@ role: VEHICLE_CREW_GROUND
 role-name: Vehicle Crew Ground
 origin-faction: IND
 origin-planet: Star's End (Novo Cressidas)
-age: 23
+age: 24
 skill-list: [{"name": "Art/Writing", "level": 1, "bonus": 0}, {"name": "Gunnery/Vehicle", "level": 4, "bonus": 0}, {"name": "Piloting/Ground Vehicle", "level": 2, "bonus": 0}]
 skill-count: 3
 rank-number: 0

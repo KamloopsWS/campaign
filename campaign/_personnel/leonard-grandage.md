@@ -10,7 +10,7 @@ role: VEHICLE_CREW_GROUND
 role-name: Vehicle Crew Ground
 origin-faction: MERC
 origin-planet: Luthien
-age: 17
+age: 18
 skill-list: [{"name": "Gunnery/Vehicle", "level": 1, "bonus": 0}, {"name": "Investigation", "level": 1, "bonus": 0}, {"name": "Piloting/Ground Vehicle", "level": 1, "bonus": 0}, {"name": "Science/Psychology", "level": 1, "bonus": 0}, {"name": "Small Arms", "level": 1, "bonus": 0}]
 skill-count: 5
 rank-number: 0

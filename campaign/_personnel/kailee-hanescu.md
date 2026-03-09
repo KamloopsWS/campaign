@@ -3,7 +3,7 @@ layout: bio
 title: Sergeant Kailee Hanescu
 name: Kailee Hanescu
 status: Active
-xp: 0
+xp: 2
 edge-current: 0
 edge-total: 0
 role: SOLDIER

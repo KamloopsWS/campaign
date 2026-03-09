@@ -3,7 +3,7 @@ layout: bio
 title: Steven Garrett
 name: Steven Garrett
 status: Active
-xp: 1
+xp: 2
 edge-current: 1
 edge-total: 1
 role: MEKWARRIOR
@@ -11,6 +11,8 @@ role-name: Mechwarrior
 skill-level: Regular
 skill-detail: 4/5
 callsign: Hitman
+kill-count: 2
+kill-list: [{"date": "3034-08-07", "killer": "Stinger STG-3G", "killed": "Wasp WSP-1A", "missionId": "1", "missionName": "Grumium Metals Long Term Assistance", "missionSlug": "grumium-metals-long-term-assistance", "scenarioId": "11", "scenarioName": "Governor Mansion Cleanup", "scenarioSlug": "governor-mansion-cleanup"}, {"date": "3034-08-07", "killer": "Stinger STG-3G", "killed": "Stinger STG-3R", "missionId": "1", "missionName": "Grumium Metals Long Term Assistance", "missionSlug": "grumium-metals-long-term-assistance", "scenarioId": "11", "scenarioName": "Governor Mansion Cleanup", "scenarioSlug": "governor-mansion-cleanup"}]
 award-count: 1
 award-list: [{"date": "3034-07-12", "name": "Combat Action", "set": "standard"}]
 medical-count: 1

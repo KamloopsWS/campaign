@@ -3,7 +3,7 @@ layout: bio
 title: Arien Ducaine
 name: Arien Ducaine
 status: Active
-xp: 5
+xp: 6
 edge-current: 1
 edge-total: 1
 role: MEKWARRIOR
@@ -11,12 +11,12 @@ role-name: Mechwarrior
 skill-level: Regular
 skill-detail: 4/5
 callsign: Ironfoot
-kill-count: 2
-kill-list: [{"date": "3034-04-04", "killer": "Wolverine WVR-6K", "killed": "Crusader CRD-3K", "missionId": "1", "missionName": "Grumium Metals Long Term Assistance", "missionSlug": "grumium-metals-long-term-assistance", "scenarioId": "1", "scenarioName": "Coastal Port Defense", "scenarioSlug": "coastal-port-defense"}, {"date": "3034-05-05", "killer": "Wolverine WVR-6K", "killed": "Warhammer WHM-6R", "missionId": "1", "missionName": "Grumium Metals Long Term Assistance", "missionSlug": "grumium-metals-long-term-assistance", "scenarioId": "3", "scenarioName": "Coastal Mountain Checkpoint", "scenarioSlug": "coastal-mountain-checkpoint"}]
+kill-count: 3
+kill-list: [{"date": "3034-04-04", "killer": "Wolverine WVR-6K", "killed": "Crusader CRD-3K", "missionId": "1", "missionName": "Grumium Metals Long Term Assistance", "missionSlug": "grumium-metals-long-term-assistance", "scenarioId": "1", "scenarioName": "Coastal Port Defense", "scenarioSlug": "coastal-port-defense"}, {"date": "3034-05-05", "killer": "Wolverine WVR-6K", "killed": "Warhammer WHM-6R", "missionId": "1", "missionName": "Grumium Metals Long Term Assistance", "missionSlug": "grumium-metals-long-term-assistance", "scenarioId": "3", "scenarioName": "Coastal Mountain Checkpoint", "scenarioSlug": "coastal-mountain-checkpoint"}, {"date": "3034-08-07", "killer": "Wolverine WVR-6K (Iron)", "killed": "Stinger STG-3G", "missionId": "1", "missionName": "Grumium Metals Long Term Assistance", "missionSlug": "grumium-metals-long-term-assistance", "scenarioId": "11", "scenarioName": "Governor Mansion Cleanup", "scenarioSlug": "governor-mansion-cleanup"}]
 award-count: 1
 award-list: [{"date": "3034-05-01", "name": "Combat Action", "set": "standard"}]
-medical-count: 9
-medical-list: [{"date": "3034-05-05", "desc": "Suffered the following new injuries:\n\t\tA torn muscle in her Left Foot\n\t\tA fractured Left Leg", "type": "MEDICAL"}, {"date": "3034-05-07", "desc": "Brooke \"Jam\" Jamison performed some amazing work in treating Torn Left Foot (1 fewer day(s) to heal)", "type": "MEDICAL"}, {"date": "3034-05-07", "desc": "Brooke \"Jam\" Jamison successfully treated Fractured Left Leg", "type": "MEDICAL"}, {"date": "3034-05-10", "desc": "Fractured Left Leg healed", "type": "MEDICAL"}, {"date": "3034-06-10", "desc": "Suffered the following new injuries:\n\t\tLeft Elbow Fracture (Compound)", "type": "MEDICAL"}, {"date": "3034-06-29", "desc": "Suffered the following new injuries:\n\t\tRight Shoulder Fracture", "type": "MEDICAL"}, {"date": "3034-07-12", "desc": "Suffered the following new injuries:\n\t\tLeft Foot Fracture\n\t\tRibs Fracture", "type": "MEDICAL"}, {"date": "3034-07-24", "desc": "Left Foot Fracture took longer to heal than expected", "type": "MEDICAL"}, {"date": "3034-07-28", "desc": "Left Foot Fracture took longer to heal than expected", "type": "MEDICAL"}]
+medical-count: 11
+medical-list: [{"date": "3034-05-05", "desc": "Suffered the following new injuries:\n\t\tA torn muscle in her Left Foot\n\t\tA fractured Left Leg", "type": "MEDICAL"}, {"date": "3034-05-07", "desc": "Brooke \"Jam\" Jamison successfully treated Fractured Left Leg", "type": "MEDICAL"}, {"date": "3034-05-07", "desc": "Brooke \"Jam\" Jamison performed some amazing work in treating Torn Left Foot (1 fewer day(s) to heal)", "type": "MEDICAL"}, {"date": "3034-05-10", "desc": "Fractured Left Leg healed", "type": "MEDICAL"}, {"date": "3034-06-10", "desc": "Suffered the following new injuries:\n\t\tLeft Elbow Fracture (Compound)", "type": "MEDICAL"}, {"date": "3034-06-29", "desc": "Suffered the following new injuries:\n\t\tRight Shoulder Fracture", "type": "MEDICAL"}, {"date": "3034-07-12", "desc": "Suffered the following new injuries:\n\t\tLeft Foot Fracture\n\t\tRibs Fracture", "type": "MEDICAL"}, {"date": "3034-07-24", "desc": "Left Foot Fracture took longer to heal than expected", "type": "MEDICAL"}, {"date": "3034-07-28", "desc": "Left Foot Fracture took longer to heal than expected", "type": "MEDICAL"}, {"date": "3034-08-03", "desc": "Left Foot Fracture took longer to heal than expected", "type": "MEDICAL"}, {"date": "3034-08-07", "desc": "Suffered the following new injuries:\n\t\tLeft Femur Fracture (Compound)", "type": "MEDICAL"}]
 origin-faction: DC
 origin-planet: Rasalhague
 age: 20
@@ -27,8 +27,8 @@ unit: Wolverine WVR-6K (Iron)
 unit-id: a9bea610-370d-4361-bede-7aeff68f7842
 unit-slug: wolverine-wvr6k-iron
 slug: arien-ducaine
-force: Alfa Battalion, 1st Company, Command Lance
-force-slug: alfa-battalion-1st-company-command-lance
+force: Alfa Battalion, 1st Company, Reserve Lance
+force-slug: alfa-battalion-1st-company-reserve-lance
 portrait: arien-ducaine.gif
 ---
 

@@ -12,7 +12,7 @@ skill-level: Regular
 skill-detail: 4+
 origin-faction: MERC
 origin-planet: Shibukawa
-age: 27
+age: 28
 skill-list: [{"name": "Animal Handling", "level": 1, "bonus": 0}, {"name": "Interrogation", "level": 1, "bonus": 0}, {"name": "Small Arms", "level": 3, "bonus": 0}, {"name": "Tracking/Any", "level": 1, "bonus": 0}]
 skill-count: 4
 rank-number: 0

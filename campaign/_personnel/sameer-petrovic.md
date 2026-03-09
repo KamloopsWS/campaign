@@ -10,7 +10,7 @@ role: VEHICLE_CREW_GROUND
 role-name: Vehicle Crew Ground
 origin-faction: MERC
 origin-planet: Nox
-age: 21
+age: 22
 skill-list: [{"name": "Cryptography", "level": 1, "bonus": 0}, {"name": "Gunnery/Vehicle", "level": 2, "bonus": 0}, {"name": "Interest/Holo-Cinema", "level": 1, "bonus": 0}, {"name": "Interrogation", "level": 1, "bonus": 0}, {"name": "Piloting/Ground Vehicle", "level": 2, "bonus": 0}, {"name": "Small Arms", "level": 1, "bonus": 0}]
 skill-count: 6
 rank-number: 0

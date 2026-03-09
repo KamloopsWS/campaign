@@ -3,7 +3,7 @@ layout: bio
 title: Stephen Lachann
 name: Stephen Lachann
 status: Active
-xp: 3
+xp: 4
 edge-current: 0
 edge-total: 0
 role: MEK_TECH

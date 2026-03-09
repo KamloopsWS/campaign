@@ -3,7 +3,7 @@ layout: bio
 title: Calvin Ignis
 name: Calvin Ignis
 status: Active
-xp: 5
+xp: 6
 edge-current: 1
 edge-total: 1
 role: MEKWARRIOR
@@ -15,8 +15,8 @@ kill-count: 2
 kill-list: [{"date": "3034-04-04", "killer": "Blackjack BJ-1DB", "killed": "Blackjack BJ-1", "missionId": "1", "missionName": "Grumium Metals Long Term Assistance", "missionSlug": "grumium-metals-long-term-assistance", "scenarioId": "1", "scenarioName": "Coastal Port Defense", "scenarioSlug": "coastal-port-defense"}, {"date": "3034-06-10", "killer": "Blackjack BG-1DB (Lucky Jack)", "killed": "Guillotine GLT-4P", "missionId": "1", "missionName": "Grumium Metals Long Term Assistance", "missionSlug": "grumium-metals-long-term-assistance", "scenarioId": "6", "scenarioName": "Coastal Port Defense 2", "scenarioSlug": "coastal-port-defense-2"}]
 award-count: 2
 award-list: [{"date": "3034-05-01", "name": "Combat Action", "set": "standard"}, {"date": "3034-06-10", "name": "Purple Heart", "set": "standard"}]
-medical-count: 8
-medical-list: [{"date": "3034-06-10", "desc": "Suffered the following new injuries:\n\t\tBurned Left Calf\n\t\tBurned Upper Right Arm\n\t\tLeft Wrist Fracture (Compound)\n\t\tLeft Foot Fracture\n\t\tRight Shoulder Fracture", "type": "MEDICAL"}, {"date": "3034-06-12", "desc": "Burned Upper Right Arm took longer to heal than expected", "type": "MEDICAL"}, {"date": "3034-06-14", "desc": "Burned Upper Right Arm took longer to heal than expected", "type": "MEDICAL"}, {"date": "3034-06-14", "desc": "Burned Left Calf took longer to heal than expected", "type": "MEDICAL"}, {"date": "3034-06-16", "desc": "Burned Upper Right Arm took longer to heal than expected", "type": "MEDICAL"}, {"date": "3034-06-18", "desc": "Burned Upper Right Arm took longer to heal than expected", "type": "MEDICAL"}, {"date": "3034-06-19", "desc": "Left Foot Fracture took longer to heal than expected", "type": "MEDICAL"}, {"date": "3034-07-12", "desc": "Suffered the following new injuries:\n\t\tLeft Hip Fracture", "type": "MEDICAL"}]
+medical-count: 11
+medical-list: [{"date": "3034-06-10", "desc": "Suffered the following new injuries:\n\t\tBurned Left Calf\n\t\tBurned Upper Right Arm\n\t\tLeft Wrist Fracture (Compound)\n\t\tLeft Foot Fracture\n\t\tRight Shoulder Fracture", "type": "MEDICAL"}, {"date": "3034-06-12", "desc": "Burned Upper Right Arm took longer to heal than expected", "type": "MEDICAL"}, {"date": "3034-06-14", "desc": "Burned Left Calf took longer to heal than expected", "type": "MEDICAL"}, {"date": "3034-06-14", "desc": "Burned Upper Right Arm took longer to heal than expected", "type": "MEDICAL"}, {"date": "3034-06-16", "desc": "Burned Upper Right Arm took longer to heal than expected", "type": "MEDICAL"}, {"date": "3034-06-18", "desc": "Burned Upper Right Arm took longer to heal than expected", "type": "MEDICAL"}, {"date": "3034-06-19", "desc": "Left Foot Fracture took longer to heal than expected", "type": "MEDICAL"}, {"date": "3034-07-12", "desc": "Suffered the following new injuries:\n\t\tLeft Hip Fracture", "type": "MEDICAL"}, {"date": "3034-08-03", "desc": "Suffered the following new injuries:\n\t\tBurned Chest\n\t\tLeft Femur Fracture\n\t\tLeft Hand Fracture (Compound)\n\t\tLeft Femur Fracture\n\t\tBurned Left Thigh", "type": "MEDICAL"}, {"date": "3034-08-05", "desc": "Burned Chest took longer to heal than expected", "type": "MEDICAL"}, {"date": "3034-08-07", "desc": "Burned Chest took longer to heal than expected", "type": "MEDICAL"}]
 origin-faction: MERC
 origin-planet: Galatea
 age: 40

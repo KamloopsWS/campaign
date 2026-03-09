@@ -3,7 +3,7 @@ layout: bio
 title: Chris Haugen
 name: Chris Haugen
 status: Active
-xp: 2
+xp: 3
 edge-current: 1
 edge-total: 1
 role: MEKWARRIOR
@@ -11,12 +11,12 @@ role-name: Mechwarrior
 skill-level: Regular
 skill-detail: 4/5
 callsign: Archie
-kill-count: 1
-kill-list: [{"date": "3034-07-12", "killer": "Wolfhound WLF-1A", "killed": "Commando COM-7Y", "missionId": "1", "missionName": "Grumium Metals Long Term Assistance", "missionSlug": "grumium-metals-long-term-assistance", "scenarioId": "9", "scenarioName": "Bad Lands Attack on Steiner Base", "scenarioSlug": "bad-lands-attack-on-steiner-base"}]
+kill-count: 2
+kill-list: [{"date": "3034-07-12", "killer": "Wolfhound WLF-1A", "killed": "Commando COM-7Y", "missionId": "1", "missionName": "Grumium Metals Long Term Assistance", "missionSlug": "grumium-metals-long-term-assistance", "scenarioId": "9", "scenarioName": "Bad Lands Attack on Steiner Base", "scenarioSlug": "bad-lands-attack-on-steiner-base"}, {"date": "3034-08-07", "killer": "Wolfhound WLF-1A", "killed": "Locust LCT-3V", "missionId": "1", "missionName": "Grumium Metals Long Term Assistance", "missionSlug": "grumium-metals-long-term-assistance", "scenarioId": "11", "scenarioName": "Governor Mansion Cleanup", "scenarioSlug": "governor-mansion-cleanup"}]
 award-count: 1
 award-list: [{"date": "3034-06-10", "name": "Combat Action", "set": "standard"}]
-medical-count: 1
-medical-list: [{"date": "3034-06-10", "desc": "Suffered the following new injuries:\n\t\tLeft Elbow Fracture (Compound)", "type": "MEDICAL"}]
+medical-count: 2
+medical-list: [{"date": "3034-06-10", "desc": "Suffered the following new injuries:\n\t\tLeft Elbow Fracture (Compound)", "type": "MEDICAL"}, {"date": "3034-08-07", "desc": "Suffered the following new injuries:\n\t\tLeft Elbow Fracture (Compound)", "type": "MEDICAL"}]
 origin-faction: MERC
 origin-planet: Galatea
 age: 30

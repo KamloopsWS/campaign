@@ -3,7 +3,7 @@ layout: bio
 title: Rodney Garok
 name: Rodney Garok
 status: Active
-xp: 2
+xp: 3
 edge-current: 1
 edge-total: 1
 role: MEKWARRIOR
@@ -11,6 +11,8 @@ role-name: Mechwarrior
 skill-level: Regular
 skill-detail: 4/5
 callsign: Blur
+kill-count: 1
+kill-list: [{"date": "3034-08-07", "killer": "Firestarter FS9-A", "killed": "Stinger STG-3G", "missionId": "1", "missionName": "Grumium Metals Long Term Assistance", "missionSlug": "grumium-metals-long-term-assistance", "scenarioId": "11", "scenarioName": "Governor Mansion Cleanup", "scenarioSlug": "governor-mansion-cleanup"}]
 award-count: 1
 award-list: [{"date": "3034-06-15", "name": "Combat Action", "set": "standard"}]
 medical-count: 2
