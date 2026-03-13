@@ -3,7 +3,7 @@ layout: bio
 title: Van Karakinos
 name: Van Karakinos
 status: Active
-xp: 2
+xp: 3
 edge-current: 0
 edge-total: 0
 role: MEK_TECH

@@ -9,7 +9,7 @@ con-unit-tonnage: 20
 flag-isclan: 
 inv-amount: 0
 inv-quality: 3
-inv-quantity: 4
+inv-quantity: 3
 inv-shots: 0
 type-attr-save: mekhq.campaign.parts.meks.MekActuator
 type-attr-web: Mech Actuator

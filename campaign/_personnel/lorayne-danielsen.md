@@ -12,7 +12,7 @@ award-count: 1
 award-list: [{"date": "3034-07-01", "name": "Marksmanship", "set": "standard"}]
 origin-faction: FRR
 origin-planet: Nox
-age: 36
+age: 37
 skill-list: [{"name": "Acting", "level": 1, "bonus": 0}, {"name": "Animal Handling", "level": 1, "bonus": 0}, {"name": "Art/Painting", "level": 1, "bonus": 0}, {"name": "Gunnery/Vehicle", "level": 5, "bonus": 0}, {"name": "Language/Any", "level": 1, "bonus": 0}, {"name": "Piloting/VTOL", "level": 5, "bonus": 0}, {"name": "Small Arms", "level": 2, "bonus": 0}]
 skill-count: 7
 rank-number: 0

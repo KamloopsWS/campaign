@@ -27,8 +27,8 @@ unit: Wolfhound WLF-1A
 unit-id: 9e739a7a-bbc5-4b6c-ba01-f7a5f62daaa9
 unit-slug: wolfhound-wlf1a
 slug: chris-haugen
-force: Alfa Battalion, 1st Company, Recon Lance
-force-slug: alfa-battalion-1st-company-recon-lance
+force: Alfa Battalion, 1st Company, Reserve Lance
+force-slug: alfa-battalion-1st-company-reserve-lance
 portrait: chris-haugen.gif
 ---
 

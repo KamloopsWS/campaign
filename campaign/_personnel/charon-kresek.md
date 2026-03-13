@@ -15,8 +15,8 @@ kill-count: 5
 kill-list: [{"date": "3034-05-05", "killer": "Gladiator GLD-4R (Kresek)", "killed": "Thunderbolt TDR-5S", "missionId": "1", "missionName": "Grumium Metals Long Term Assistance", "missionSlug": "grumium-metals-long-term-assistance", "scenarioId": "3", "scenarioName": "Coastal Mountain Checkpoint", "scenarioSlug": "coastal-mountain-checkpoint"}, {"date": "3034-06-10", "killer": "Gladiator GLD-4R (Kresek)", "killed": "Panther PNT-9R", "missionId": "1", "missionName": "Grumium Metals Long Term Assistance", "missionSlug": "grumium-metals-long-term-assistance", "scenarioId": "6", "scenarioName": "Coastal Port Defense 2", "scenarioSlug": "coastal-port-defense-2"}, {"date": "3034-06-29", "killer": "Gladiator GLD-4R (Kresek)", "killed": "Phoenix Hawk PXH-1", "missionId": "1", "missionName": "Grumium Metals Long Term Assistance", "missionSlug": "grumium-metals-long-term-assistance", "scenarioId": "8", "scenarioName": "Coastal Raid", "scenarioSlug": "coastal-raid"}, {"date": "3034-07-12", "killer": "Gladiator GLD-4R (Kresek)", "killed": "Flashman FLS-7K", "missionId": "1", "missionName": "Grumium Metals Long Term Assistance", "missionSlug": "grumium-metals-long-term-assistance", "scenarioId": "9", "scenarioName": "Bad Lands Attack on Steiner Base", "scenarioSlug": "bad-lands-attack-on-steiner-base"}, {"date": "3034-08-03", "killer": "Gladiator GLD-4R (Kresek)", "killed": "Banshee BNC-3S", "missionId": "1", "missionName": "Grumium Metals Long Term Assistance", "missionSlug": "grumium-metals-long-term-assistance", "scenarioId": "10", "scenarioName": "Governor Mansion Defense", "scenarioSlug": "governor-mansion-defense"}]
 award-count: 1
 award-list: [{"date": "3034-05-01", "name": "Combat Action", "set": "standard"}]
-medical-count: 4
-medical-list: [{"date": "3034-06-15", "desc": "Suffered the following new injuries:\n\t\tCollapsed Lung\n\t\tBurned Left Calf\n\t\tJaw Fracture", "type": "MEDICAL"}, {"date": "3034-07-12", "desc": "Suffered the following new injuries:\n\t\tRight Shoulder Fracture", "type": "MEDICAL"}, {"date": "3034-08-01", "desc": "Right Shoulder Fracture took longer to heal than expected", "type": "MEDICAL"}, {"date": "3034-08-03", "desc": "Suffered the following new injuries:\n\t\tUpper Left Arm Fracture (Compound)\n\t\tLeft Hand Fracture (Compound)", "type": "MEDICAL"}]
+medical-count: 6
+medical-list: [{"date": "3034-06-15", "desc": "Suffered the following new injuries:\n\t\tCollapsed Lung\n\t\tBurned Left Calf\n\t\tJaw Fracture", "type": "MEDICAL"}, {"date": "3034-07-12", "desc": "Suffered the following new injuries:\n\t\tRight Shoulder Fracture", "type": "MEDICAL"}, {"date": "3034-08-01", "desc": "Right Shoulder Fracture took longer to heal than expected", "type": "MEDICAL"}, {"date": "3034-08-03", "desc": "Suffered the following new injuries:\n\t\tUpper Left Arm Fracture (Compound)\n\t\tLeft Hand Fracture (Compound)", "type": "MEDICAL"}, {"date": "3034-08-12", "desc": "Upper Left Arm Fracture (Compound) took longer to heal than expected", "type": "MEDICAL"}, {"date": "3034-08-17", "desc": "Upper Left Arm Fracture (Compound) took longer to heal than expected", "type": "MEDICAL"}]
 origin-faction: LA
 origin-planet: Tharkad
 age: 20
@@ -24,9 +24,9 @@ skill-list: [{"name": "Gunnery/Mek", "level": 4, "bonus": 0}, {"name": "Interest
 skill-count: 13
 rank-number: 33
 rank-name: Lieutenant
-unit: Gladiator GLD-4R (Kresek)
-unit-id: 10a053b9-33be-44c6-bc8b-eeacfc6a806b
-unit-slug: gladiator-gld4r-kresek
+unit: Archer ARC-2K
+unit-id: 04cdf010-7397-4537-b83f-fcf1ba2909db
+unit-slug: archer-arc2k
 slug: charon-kresek
 force: Alfa Battalion, 1st Company, Fire Lance
 force-slug: alfa-battalion-1st-company-fire-lance

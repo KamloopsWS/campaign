@@ -3,7 +3,7 @@ layout: bio
 title: Hikaru Kono
 name: Hikaru Kono
 status: Active
-xp: 1
+xp: 2
 edge-current: 1
 edge-total: 1
 role: MEKWARRIOR
@@ -23,8 +23,8 @@ unit: Hunchback HBK-4P
 unit-id: 61d388be-d40b-4d6f-914f-837b65493152
 unit-slug: hunchback-hbk4p
 slug: hikaru-kono
-force: Alfa Battalion, 1st Company, Reserve Lance
-force-slug: alfa-battalion-1st-company-reserve-lance
+force: Alfa Battalion, 1st Company, Recon Lance
+force-slug: alfa-battalion-1st-company-recon-lance
 portrait: hikaru-kono.gif
 ---
 

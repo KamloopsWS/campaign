@@ -12,7 +12,7 @@ skill-level: Green
 skill-detail: 5+
 origin-faction: LA
 origin-planet: Ganshoren
-age: 30
+age: 31
 skill-list: [{"name": "Art/Dancing", "level": 1, "bonus": 0}, {"name": "Protocols/Any", "level": 1, "bonus": 0}, {"name": "Small Arms", "level": 2, "bonus": 0}, {"name": "Tactics/Any", "level": 1, "bonus": 0}]
 skill-count: 4
 rank-number: 0

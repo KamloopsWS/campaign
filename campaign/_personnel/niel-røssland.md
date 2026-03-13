@@ -3,7 +3,7 @@ layout: bio
 title: Sergeant Niel Røssland
 name: Niel Røssland
 status: Active
-xp: 2
+xp: 3
 edge-current: 1
 edge-total: 1
 role: SOLDIER

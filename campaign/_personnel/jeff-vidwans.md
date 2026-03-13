@@ -12,7 +12,7 @@ award-count: 1
 award-list: [{"date": "3034-06-01", "name": "Marksmanship", "set": "standard"}]
 origin-faction: MERC
 origin-planet: Sheliak
-age: 25
+age: 26
 skill-list: [{"name": "Animal Handling", "level": 2, "bonus": 0}, {"name": "Gunnery/Vehicle", "level": 5, "bonus": 0}, {"name": "Interrogation", "level": 1, "bonus": 0}, {"name": "Investigation", "level": 1, "bonus": 0}, {"name": "Piloting/Ground Vehicle", "level": 4, "bonus": 0}, {"name": "Small Arms", "level": 2, "bonus": 0}]
 skill-count: 6
 rank-number: 0

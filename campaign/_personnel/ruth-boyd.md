@@ -4,7 +4,7 @@ title: Ruth Boyd
 name: Ruth Boyd
 status: Active
 xp: 0
-edge-current: 0
+edge-current: -1
 edge-total: 0
 role: SOLDIER
 role-name: Soldier

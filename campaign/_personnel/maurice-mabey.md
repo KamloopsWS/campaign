@@ -12,7 +12,7 @@ skill-level: Regular
 skill-detail: 4+
 origin-faction: GV
 origin-planet: Gotterdammerung
-age: 24
+age: 25
 skill-list: [{"name": "Small Arms", "level": 3, "bonus": 0}]
 skill-count: 1
 rank-number: 0

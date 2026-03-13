@@ -12,7 +12,7 @@ skill-level: Elite
 skill-detail: 4+
 origin-faction: DC
 origin-planet: Aix-la-Chapelle
-age: 32
+age: 33
 skill-list: [{"name": "Interrogation", "level": 1, "bonus": 0}, {"name": "Science/Genetics", "level": 1, "bonus": 0}, {"name": "Tech/Mechanic", "level": 5, "bonus": 0}]
 skill-count: 3
 rank-number: 0

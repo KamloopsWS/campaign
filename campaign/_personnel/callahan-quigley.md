@@ -3,13 +3,15 @@ layout: bio
 title: Callahan Quigley
 name: Callahan Quigley
 status: Active
-xp: 0
-edge-current: 0
-edge-total: 0
+xp: 1
+edge-current: 1
+edge-total: 1
 role: SOLDIER
 role-name: Soldier
 skill-level: Green
 skill-detail: 5+
+award-count: 1
+award-list: [{"date": "3034-08-14", "name": "Combat Action", "set": "standard"}]
 origin-faction: LA
 origin-planet: Persistence
 age: 30

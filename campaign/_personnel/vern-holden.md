@@ -3,13 +3,13 @@ layout: bio
 title: Vern Holden
 name: Vern Holden
 status: Active
-xp: 2
+xp: 6
 edge-current: 1
 edge-total: 1
 role: MEKWARRIOR
 role-name: Mechwarrior
 skill-level: Regular
-skill-detail: 4/4
+skill-detail: 4/5
 callsign: Burgertime
 kill-count: 3
 kill-list: [{"date": "3034-05-05", "killer": "Hatchetman HCT-TMW2X (Sigurd)", "killed": "Orion ON1-K", "missionId": "1", "missionName": "Grumium Metals Long Term Assistance", "missionSlug": "grumium-metals-long-term-assistance", "scenarioId": "3", "scenarioName": "Coastal Mountain Checkpoint", "scenarioSlug": "coastal-mountain-checkpoint"}, {"date": "3034-06-10", "killer": "Hatchetman HCT-TMW2X (Sigurd)", "killed": "Zeus ZEU-6T", "missionId": "1", "missionName": "Grumium Metals Long Term Assistance", "missionSlug": "grumium-metals-long-term-assistance", "scenarioId": "5", "scenarioName": "Bad Lands Convoy Amush 3", "scenarioSlug": "bad-lands-convoy-amush-3"}, {"date": "3034-07-12", "killer": "Hatchetman HCT-TMW2X (Sigurd)", "killed": "Highlander HGN-733P", "missionId": "1", "missionName": "Grumium Metals Long Term Assistance", "missionSlug": "grumium-metals-long-term-assistance", "scenarioId": "9", "scenarioName": "Bad Lands Attack on Steiner Base", "scenarioSlug": "bad-lands-attack-on-steiner-base"}]
@@ -20,7 +20,7 @@ medical-list: [{"date": "3034-06-10", "desc": "Suffered the following new injuri
 origin-faction: LA
 origin-planet: Tamar
 age: 21
-skill-list: [{"name": "Appraisal", "level": 2, "bonus": 0}, {"name": "Communications/Any", "level": 2, "bonus": 0}, {"name": "Demolitions", "level": 2, "bonus": 0}, {"name": "Gunnery/Mek", "level": 4, "bonus": 0}, {"name": "Interest/Antiques", "level": 2, "bonus": 0}, {"name": "Interest/Holo-Games", "level": 2, "bonus": 0}, {"name": "Interest/Music", "level": 2, "bonus": 0}, {"name": "Melee Weapons", "level": 2, "bonus": 0}, {"name": "Perception", "level": 2, "bonus": 0}, {"name": "Piloting/Mek", "level": 4, "bonus": 0}, {"name": "Small Arms", "level": 2, "bonus": 0}, {"name": "Stealth", "level": 2, "bonus": 0}, {"name": "Support Weapons", "level": 2, "bonus": 0}]
+skill-list: [{"name": "Appraisal", "level": 2, "bonus": 0}, {"name": "Communications/Any", "level": 2, "bonus": 0}, {"name": "Demolitions", "level": 2, "bonus": 0}, {"name": "Gunnery/Mek", "level": 4, "bonus": 0}, {"name": "Interest/Antiques", "level": 2, "bonus": 0}, {"name": "Interest/Holo-Games", "level": 2, "bonus": 0}, {"name": "Interest/Music", "level": 2, "bonus": 0}, {"name": "Melee Weapons", "level": 2, "bonus": 0}, {"name": "Perception", "level": 2, "bonus": 0}, {"name": "Piloting/Mek", "level": 3, "bonus": 0}, {"name": "Small Arms", "level": 2, "bonus": 0}, {"name": "Stealth", "level": 2, "bonus": 0}, {"name": "Support Weapons", "level": 2, "bonus": 0}]
 skill-count: 13
 rank-number: 0
 slug: vern-holden

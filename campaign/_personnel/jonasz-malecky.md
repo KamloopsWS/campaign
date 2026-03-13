@@ -3,13 +3,15 @@ layout: bio
 title: Jonasz Malecky
 name: Jonasz Malecky
 status: Active
-xp: 0
-edge-current: 0
-edge-total: 0
+xp: 1
+edge-current: 1
+edge-total: 1
 role: SOLDIER
 role-name: Soldier
 skill-level: Regular
 skill-detail: 4+
+award-count: 1
+award-list: [{"date": "3034-08-14", "name": "Combat Action", "set": "standard"}]
 origin-faction: MERC
 origin-planet: Maxie's Planet
 age: 29

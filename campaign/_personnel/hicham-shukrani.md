@@ -3,7 +3,7 @@ layout: bio
 title: Sergeant Hicham Shukrani
 name: Hicham Shukrani
 status: Active
-xp: 2
+xp: 3
 edge-current: 1
 edge-total: 1
 role: SOLDIER
@@ -14,7 +14,7 @@ award-count: 2
 award-list: [{"date": "3034-06-10", "name": "Combat Action", "set": "standard"}, {"date": "3034-07-01", "name": "Marksmanship", "set": "standard"}]
 origin-faction: DC
 origin-planet: Mersa Matruh
-age: 40
+age: 41
 skill-list: [{"name": "Art/Sculpture", "level": 1, "bonus": 0}, {"name": "Investigation", "level": 2, "bonus": 0}, {"name": "Leadership", "level": 1, "bonus": 0}, {"name": "Science/Other", "level": 2, "bonus": 0}, {"name": "Small Arms", "level": 5, "bonus": 0}, {"name": "Tactics/Any", "level": 1, "bonus": 0}, {"name": "Training", "level": 1, "bonus": 0}, {"name": "Zero-G Operations", "level": 1, "bonus": 0}]
 skill-count: 8
 rank-number: 12

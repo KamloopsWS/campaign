@@ -4,7 +4,7 @@ title: David López
 name: David López
 status: Active
 xp: 0
-edge-current: 0
+edge-current: -1
 edge-total: 0
 role: ADMINISTRATOR_HR
 role-name: Admin/HR

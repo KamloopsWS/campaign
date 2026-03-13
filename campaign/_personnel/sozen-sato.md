@@ -12,7 +12,7 @@ skill-level: Regular
 skill-detail: 4+
 origin-faction: GV
 origin-planet: Vali
-age: 28
+age: 29
 skill-list: [{"name": "Computers", "level": 1, "bonus": 0}, {"name": "Interest/Theology", "level": 1, "bonus": 0}, {"name": "Small Arms", "level": 3, "bonus": 0}, {"name": "Streetwise/Any", "level": 1, "bonus": 0}]
 skill-count: 4
 rank-number: 0
